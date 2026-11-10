@@ -1,0 +1,12 @@
+{
+  "name": "info-tools",
+  "private": true,
+  "type": "module",
+  "description": "Calendrier des événements et tournois sportifs (site statique)",
+  "scripts": {
+    "validate": "node scripts/validate.mjs"
+  },
+  "devDependencies": {
+    "ajv": "^8.17.1"
+  }
+}

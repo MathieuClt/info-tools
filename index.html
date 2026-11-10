@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Calendrier des événements sportifs</title>
+  <meta name="description" content="Tournois et événements sportifs dans le monde : en cours, à venir et passés, classés par date et par sport.">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="top">
+    <h1>Calendrier des événements sportifs</h1>
+    <p class="sub" id="meta" aria-live="polite">Chargement…</p>
+  </header>
+
+  <form class="filters" id="filters" aria-label="Filtres">
+    <label>Sport
+      <select id="f-sport"><option value="">Tous les sports</option></select>
+    </label>
+    <label>Statut
+      <select id="f-status">
+        <option value="active">En cours et à venir</option>
+        <option value="">Tous</option>
+        <option value="ongoing">En cours</option>
+        <option value="upcoming">À venir</option>
+        <option value="past">Passés</option>
+      </select>
+    </label>
+    <label>Affichage
+      <select id="f-view">
+        <option value="chrono">Chronologique</option>
+        <option value="sport">Par sport</option>
+      </select>
+    </label>
+  </form>
+
+  <main id="list" aria-live="polite"></main>
+
+  <footer>
+    <p>Chaque événement renvoie vers la source qui a servi à vérifier ses dates et son lieu. Les calendriers peuvent évoluer : vérifier auprès de l'organisateur avant de se déplacer.</p>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>

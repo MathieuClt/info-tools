@@ -1,0 +1,681 @@
+[
+  {
+    "id": "multisport-jeux-olympiques-d-hiver-milano-cortina-2026",
+    "sport": "Multisport",
+    "name": "Jeux olympiques d'hiver Milano Cortina",
+    "start": "2026-02-06",
+    "end": "2026-02-22",
+    "location": "Milan et Cortina d'Ampezzo (Italie)",
+    "url": "https://olympics.com",
+    "source": "https://teambelgium.be/fr/jeux/Jeux-Olympiques-d-hiver-Milano-Cortina-2026-06022026-Milanmin-Cortina-104-fr"
+  },
+  {
+    "id": "football-coupe-du-monde-masculine-de-la-fifa-2026",
+    "sport": "Football",
+    "name": "Coupe du monde masculine de la FIFA",
+    "start": "2026-06-11",
+    "end": "2026-07-19",
+    "location": "États-Unis, Canada et Mexique",
+    "url": "https://www.fifa.com",
+    "source": "https://www.tv-direct.fr/sport-direct/tour-de-france/"
+  },
+  {
+    "id": "rugby-nations-championship-2026",
+    "sport": "Rugby",
+    "name": "Nations Championship",
+    "start": "2026-07-04",
+    "end": "2026-11-29",
+    "location": "Hémisphères Nord et Sud",
+    "url": "https://www.world.rugby",
+    "source": "https://www.rugbyworld.com/news/nations-championship-all-you-need-to-know-about-the-new-bi-annual-global-rugby-competition-180301"
+  },
+  {
+    "id": "ski-alpin-coupe-du-monde-de-ski-alpin-2026-2027-2026",
+    "sport": "Ski alpin",
+    "name": "Coupe du monde de ski alpin 2026-2027",
+    "start": "2026-10-24",
+    "end": "2027-03-25",
+    "location": "Sölden (Autriche) → Sun Valley (États-Unis)",
+    "url": "https://www.fis-ski.com",
+    "source": "https://www.bluewin.ch/en/sport/ski/significantly-more-world-cup-races-in-the-coming-season-li.3049218"
+  },
+  {
+    "id": "voile-route-du-rhum-destination-guadeloupe-2026",
+    "sport": "Voile",
+    "name": "Route du Rhum – Destination Guadeloupe",
+    "start": "2026-11-01",
+    "location": "Saint-Malo (France) → Pointe-à-Pitre (Guadeloupe)",
+    "url": "https://www.routedurhum.com",
+    "source": "https://figaronautisme.meteoconsult.fr/actus-nautisme-courses/route-du-rhum/2025-10-30/82734-route-du-rhum-2026-le-grand-depart-donne-le-1er-novembre-2026-a-saint-malo"
+  },
+  {
+    "id": "formule-1-gp-du-bresil-2026",
+    "sport": "Formule 1",
+    "name": "GP du Brésil",
+    "start": "2026-11-06",
+    "end": "2026-11-08",
+    "location": "São Paulo (Brésil)",
+    "url": "https://www.formula1.com",
+    "source": "https://api.fia.com/news/fia-and-formula-1-announce-2026-calendar"
+  },
+  {
+    "id": "sport-auto-8-heures-de-bahrein-wec-2026",
+    "sport": "Sport auto",
+    "name": "8 Heures de Bahreïn (WEC)",
+    "start": "2026-11-07",
+    "end": "2026-11-07",
+    "location": "Bahreïn",
+    "url": "https://www.fiawec.com",
+    "source": "https://www.fia.com/news/2026-fia-sporting-calendars-approved-world-motor-sport-council"
+  },
+  {
+    "id": "tennis-wta-finals-2026",
+    "sport": "Tennis",
+    "name": "WTA Finals",
+    "start": "2026-11-08",
+    "end": "2026-11-15",
+    "location": "Indian Wells (États-Unis)",
+    "url": "https://www.wtatennis.com",
+    "source": "https://www.flashscore.co.uk/news/tennis-wta-singles-wta-finals-2026-where-to-watch-preview-and-list-of-qualified-players/U55PdPWb/"
+  },
+  {
+    "id": "tennis-nitto-atp-finals-2026",
+    "sport": "Tennis",
+    "name": "Nitto ATP Finals",
+    "start": "2026-11-15",
+    "end": "2026-11-22",
+    "location": "Turin (Italie)",
+    "url": "https://www.atptour.com",
+    "source": "https://www.tennismajors.com/?p=858732"
+  },
+  {
+    "id": "formule-1-gp-de-las-vegas-2026",
+    "sport": "Formule 1",
+    "name": "GP de Las Vegas",
+    "start": "2026-11-19",
+    "end": "2026-11-21",
+    "location": "Las Vegas (États-Unis)",
+    "url": "https://www.formula1.com",
+    "source": "https://api.fia.com/news/fia-and-formula-1-announce-2026-calendar"
+  },
+  {
+    "id": "sport-auto-abu-dhabi-desert-challenge-2026",
+    "sport": "Sport auto",
+    "name": "Abu Dhabi Desert Challenge",
+    "start": "2026-11-21",
+    "end": "2026-11-27",
+    "location": "Émirats arabes unis",
+    "url": "https://www.dakar.com",
+    "source": "https://admin.fia.com/news/2026-fia-sporting-calendars-approved-world-motor-sport-council"
+  },
+  {
+    "id": "tennis-davis-cup-finals-2026",
+    "sport": "Tennis",
+    "name": "Davis Cup Finals",
+    "start": "2026-11-24",
+    "end": "2026-11-29",
+    "location": "Bologne (Italie)",
+    "url": "https://www.daviscup.com",
+    "source": "https://sportsbrackets.net/?p=30978"
+  },
+  {
+    "id": "formule-1-gp-du-qatar-2026",
+    "sport": "Formule 1",
+    "name": "GP du Qatar",
+    "start": "2026-11-27",
+    "end": "2026-11-29",
+    "location": "Lusail (Qatar)",
+    "url": "https://www.formula1.com",
+    "source": "https://api.fia.com/news/fia-and-formula-1-announce-2026-calendar"
+  },
+  {
+    "id": "rugby-nations-championship-finals-weekend-2026",
+    "sport": "Rugby",
+    "name": "Nations Championship – Finals Weekend",
+    "start": "2026-11-27",
+    "end": "2026-11-29",
+    "location": "Londres (Royaume-Uni)",
+    "url": "https://www.world.rugby",
+    "source": "https://www.scotsman.com/sport/rugby-union/scotland-rugby-autumn-tests-dates-murrayfield-tickets-nations-championship-finals-weekend-explained-twickenham-8813625"
+  },
+  {
+    "id": "football-finale-de-la-copa-libertadores-2026",
+    "sport": "Football",
+    "name": "Finale de la Copa Libertadores",
+    "start": "2026-11-28",
+    "end": "2026-11-28",
+    "location": "Montevideo (Uruguay)",
+    "url": "https://www.conmebol.com",
+    "source": "https://gol.conmebol.com/libertadores/en/news/2026-conmebol-libertadores-final-will-be-played-montevideo"
+  },
+  {
+    "id": "formule-1-gp-d-abou-dabi-2026",
+    "sport": "Formule 1",
+    "name": "GP d'Abou Dabi",
+    "start": "2026-12-04",
+    "end": "2026-12-06",
+    "location": "Yas Marina (Émirats arabes unis)",
+    "url": "https://www.formula1.com",
+    "source": "https://api.fia.com/news/fia-and-formula-1-announce-2026-calendar"
+  },
+  {
+    "id": "football-coupe-d-asie-des-nations-afc-asian-cup-2027",
+    "sport": "Football",
+    "name": "Coupe d'Asie des nations (AFC Asian Cup)",
+    "start": "2027-01-07",
+    "end": "2027-02-05",
+    "location": "Arabie saoudite",
+    "url": "https://www.the-afc.com",
+    "source": "https://www.topendsports.com/fr/evenements/calendrier-football.htm"
+  },
+  {
+    "id": "sport-auto-dakar-dates-soumises-a-l-approbation-de-la-fia-2027",
+    "sport": "Sport auto",
+    "name": "Dakar (dates soumises à l'approbation de la FIA)",
+    "start": "2027-01-09",
+    "end": "2027-01-23",
+    "location": "Portugal et Maroc (arrivée à Marrakech)",
+    "url": "https://www.dakar.com",
+    "source": "https://fr.apanews.net/?p=331116"
+  },
+  {
+    "id": "handball-championnat-du-monde-masculin-2027",
+    "sport": "Handball",
+    "name": "Championnat du monde masculin",
+    "start": "2027-01-13",
+    "end": "2027-01-31",
+    "location": "Allemagne",
+    "url": "https://www.ihf.info",
+    "source": "https://dicodusport.fr/blog/?p=669557"
+  },
+  {
+    "id": "tennis-open-d-australie-2027",
+    "sport": "Tennis",
+    "name": "Open d'Australie",
+    "start": "2027-01-17",
+    "end": "2027-01-31",
+    "location": "Melbourne (Australie)",
+    "url": "https://ausopen.com",
+    "source": "https://toomanyrackets.com/australian-open-guide/"
+  },
+  {
+    "id": "sport-auto-rallye-monte-carlo-2027",
+    "sport": "Sport auto",
+    "name": "Rallye Monte-Carlo",
+    "start": "2027-01-21",
+    "end": "2027-01-24",
+    "location": "Monaco et Alpes",
+    "url": "https://acm.mc",
+    "source": "https://acm.mc/en/epreuves/rallye-automobile-monte-carlo/event/presentation-of-the-event/"
+  },
+  {
+    "id": "ski-alpin-championnats-du-monde-de-ski-alpin-2027",
+    "sport": "Ski alpin",
+    "name": "Championnats du monde de ski alpin",
+    "start": "2027-02-01",
+    "end": "2027-02-14",
+    "location": "Crans-Montana (Suisse)",
+    "url": "https://www.fis-ski.com",
+    "source": "https://planetski.eu/2026/05/11/provisional-calendar-for-2026-27-alpine-ski-racing-unveiled/"
+  },
+  {
+    "id": "rugby-tournoi-des-six-nations-masculin-2027",
+    "sport": "Rugby",
+    "name": "Tournoi des Six Nations masculin",
+    "start": "2027-02-05",
+    "end": "2027-03-13",
+    "location": "Europe",
+    "url": "https://www.sixnationsrugby.com",
+    "source": "https://www.redbull.com/fr-fr/tournoi-six-nations-rugby-guide"
+  },
+  {
+    "id": "football-americain-super-bowl-lxi-2027",
+    "sport": "Football américain",
+    "name": "Super Bowl LXI",
+    "start": "2027-02-14",
+    "end": "2027-02-14",
+    "location": "Inglewood, Californie (États-Unis)",
+    "url": "https://www.nfl.com",
+    "source": "https://www.nbcconnecticut.com/news/sports/nfl/super-bowl-61-location-2027-host-stadium-date-time-watch-tv-stream/3770160/"
+  },
+  {
+    "id": "basket-ball-nba-all-star-game-2027",
+    "sport": "Basket-ball",
+    "name": "NBA All-Star Game",
+    "start": "2027-02-19",
+    "end": "2027-02-21",
+    "location": "Phoenix (États-Unis)",
+    "url": "https://www.nba.com",
+    "source": "https://wikipedia.com/wiki/2027_in_sports"
+  },
+  {
+    "id": "motogp-gp-de-thailande-provisoire-2027",
+    "sport": "MotoGP",
+    "name": "GP de Thaïlande (provisoire)",
+    "start": "2027-03-05",
+    "end": "2027-03-07",
+    "location": "Buriram (Thaïlande)",
+    "url": "https://www.motogp.com",
+    "source": "https://www.moto-net.com/article/calendrier-provisoire-des-grands-prix-motogp-2027.html"
+  },
+  {
+    "id": "formule-1-gp-de-bahrein-2027",
+    "sport": "Formule 1",
+    "name": "GP de Bahreïn",
+    "start": "2027-03-12",
+    "end": "2027-03-14",
+    "location": "Bahreïn",
+    "url": "https://www.formula1.com",
+    "source": "https://lesvoitures.fr/calendrier-f1-2027-course-sprint-gp-de-monaco/"
+  },
+  {
+    "id": "motogp-gp-du-qatar-provisoire-2027",
+    "sport": "MotoGP",
+    "name": "GP du Qatar (provisoire)",
+    "start": "2027-03-12",
+    "end": "2027-03-14",
+    "location": "Lusail (Qatar)",
+    "url": "https://www.motogp.com",
+    "source": "https://www.moto-net.com/article/calendrier-provisoire-des-grands-prix-motogp-2027.html"
+  },
+  {
+    "id": "formule-1-gp-d-arabie-saoudite-2027",
+    "sport": "Formule 1",
+    "name": "GP d'Arabie saoudite",
+    "start": "2027-03-19",
+    "end": "2027-03-21",
+    "location": "Djeddah (Arabie saoudite)",
+    "url": "https://www.formula1.com",
+    "source": "https://lesvoitures.fr/calendrier-f1-2027-course-sprint-gp-de-monaco/"
+  },
+  {
+    "id": "formule-1-gp-d-australie-2027",
+    "sport": "Formule 1",
+    "name": "GP d'Australie",
+    "start": "2027-04-02",
+    "end": "2027-04-04",
+    "location": "Melbourne (Australie)",
+    "url": "https://www.formula1.com",
+    "source": "https://lesvoitures.fr/calendrier-f1-2027-course-sprint-gp-de-monaco/"
+  },
+  {
+    "id": "motogp-gp-du-bresil-provisoire-2027",
+    "sport": "MotoGP",
+    "name": "GP du Brésil (provisoire)",
+    "start": "2027-04-02",
+    "end": "2027-04-04",
+    "location": "Goiânia (Brésil)",
+    "url": "https://www.motogp.com",
+    "source": "https://www.moto-net.com/article/calendrier-provisoire-des-grands-prix-motogp-2027.html"
+  },
+  {
+    "id": "golf-masters-2027",
+    "sport": "Golf",
+    "name": "Masters",
+    "start": "2027-04-08",
+    "end": "2027-04-11",
+    "location": "Augusta (États-Unis)",
+    "url": "https://www.masters.com",
+    "source": "https://thegolfnewsnet.com/ryan_ballengee/2026/05/16/future-golf-major-championship-venues-sites-dates-masters-us-open-british-open-pga-championship-101077/"
+  },
+  {
+    "id": "formule-1-gp-du-japon-2027",
+    "sport": "Formule 1",
+    "name": "GP du Japon",
+    "start": "2027-04-09",
+    "end": "2027-04-11",
+    "location": "Japon",
+    "url": "https://www.formula1.com",
+    "source": "https://lesvoitures.fr/calendrier-f1-2027-course-sprint-gp-de-monaco/"
+  },
+  {
+    "id": "motogp-gp-d-argentine-provisoire-2027",
+    "sport": "MotoGP",
+    "name": "GP d'Argentine (provisoire)",
+    "start": "2027-04-09",
+    "end": "2027-04-11",
+    "location": "Buenos Aires (Argentine)",
+    "url": "https://www.motogp.com",
+    "source": "https://www.moto-net.com/article/calendrier-provisoire-des-grands-prix-motogp-2027.html"
+  },
+  {
+    "id": "formule-1-gp-de-chine-2027",
+    "sport": "Formule 1",
+    "name": "GP de Chine",
+    "start": "2027-04-16",
+    "end": "2027-04-18",
+    "location": "Chine",
+    "url": "https://www.formula1.com",
+    "source": "https://lesvoitures.fr/calendrier-f1-2027-course-sprint-gp-de-monaco/"
+  },
+  {
+    "id": "formule-1-gp-de-miami-2027",
+    "sport": "Formule 1",
+    "name": "GP de Miami",
+    "start": "2027-04-30",
+    "end": "2027-05-02",
+    "location": "Miami (États-Unis)",
+    "url": "https://www.formula1.com",
+    "source": "https://www.p1travel.com/fr/blog/formula-1-calendar-2027"
+  },
+  {
+    "id": "cyclisme-giro-d-italia-2027",
+    "sport": "Cyclisme",
+    "name": "Giro d'Italia",
+    "start": "2027-05-08",
+    "end": "2027-05-30",
+    "location": "Italie",
+    "url": "https://www.giroditalia.it",
+    "source": "https://www.cyclingnews.com/pro-cycling/racing/uci-reveals-2027-worldtour-racing-calendars-with-super-world-championships-in-france-forcing-changes/"
+  },
+  {
+    "id": "motogp-gp-de-france-provisoire-2027",
+    "sport": "MotoGP",
+    "name": "GP de France (provisoire)",
+    "start": "2027-05-14",
+    "end": "2027-05-16",
+    "location": "Le Mans (France)",
+    "url": "https://www.motogp.com",
+    "source": "https://radiosports.fr/?p=20950"
+  },
+  {
+    "id": "golf-pga-championship-2027",
+    "sport": "Golf",
+    "name": "PGA Championship",
+    "start": "2027-05-20",
+    "end": "2027-05-23",
+    "location": "Frisco, Texas (États-Unis)",
+    "url": "https://www.pgachampionship.com",
+    "source": "https://golfreviewsguide.com/?p=116582"
+  },
+  {
+    "id": "tennis-roland-garros-2027",
+    "sport": "Tennis",
+    "name": "Roland-Garros",
+    "start": "2027-05-23",
+    "end": "2027-06-06",
+    "location": "Paris (France)",
+    "url": "https://www.rolandgarros.com",
+    "source": "https://en.tennistemple.com/actu/atp-unveils-2027-calendar-as-2026-season/xpOS"
+  },
+  {
+    "id": "football-finale-de-la-ligue-europa-2027",
+    "sport": "Football",
+    "name": "Finale de la Ligue Europa",
+    "start": "2027-05-26",
+    "end": "2027-05-26",
+    "location": "Francfort (Allemagne)",
+    "url": "https://www.uefa.com",
+    "source": "https://www.topendsports.com/fr/evenements/calendrier-football.htm"
+  },
+  {
+    "id": "cyclisme-giro-d-italia-women-2027",
+    "sport": "Cyclisme",
+    "name": "Giro d'Italia Women",
+    "start": "2027-05-29",
+    "end": "2027-06-06",
+    "location": "Italie",
+    "url": "https://www.giroditalia.it",
+    "source": "https://en.brujulabike.com/the-super-worlds-force-some-date-changes-uci-confirms-the-2027-worldtour-calendar/"
+  },
+  {
+    "id": "formule-1-gp-de-monaco-2027",
+    "sport": "Formule 1",
+    "name": "GP de Monaco",
+    "start": "2027-06-04",
+    "end": "2027-06-06",
+    "location": "Monaco",
+    "url": "https://www.formula1.com",
+    "source": "https://www.p1travel.com/fr/blog/formula-1-calendar-2027"
+  },
+  {
+    "id": "football-finale-de-la-ligue-des-champions-2027",
+    "sport": "Football",
+    "name": "Finale de la Ligue des champions",
+    "start": "2027-06-05",
+    "end": "2027-06-05",
+    "location": "Madrid (Espagne)",
+    "url": "https://www.uefa.com",
+    "source": "https://www.uefa.com/uefachampionsleague/news/029d-1eb2d5faf53c-d67c9fed04fa-1000--2027-uefa-champions-league-final-estadio-metropolitano"
+  },
+  {
+    "id": "sport-auto-24-heures-du-mans-2027",
+    "sport": "Sport auto",
+    "name": "24 Heures du Mans",
+    "start": "2027-06-09",
+    "end": "2027-06-13",
+    "location": "Le Mans (France)",
+    "url": "https://www.24h-lemans.com",
+    "source": "https://www.24h-lemans.com/en/news/95th-24-hours-of-le-mans-see-you-on-9-13-june-2027-60819"
+  },
+  {
+    "id": "basket-ball-eurobasket-feminin-2027",
+    "sport": "Basket-ball",
+    "name": "EuroBasket féminin",
+    "start": "2027-06-16",
+    "end": "2027-06-27",
+    "location": "Belgique, Finlande, Lituanie et Suède",
+    "url": "https://www.fiba.basketball",
+    "source": "https://www.fiba.basketball/events"
+  },
+  {
+    "id": "golf-us-open-2027",
+    "sport": "Golf",
+    "name": "US Open",
+    "start": "2027-06-17",
+    "end": "2027-06-20",
+    "location": "Pebble Beach (États-Unis)",
+    "url": "https://www.usopen.com",
+    "source": "https://www.skysports.com/golf/news/12040/13563739/golf-majors-in-2027-schedule-dates-venues-for-the-open-us-open-ryder-cup-and-more"
+  },
+  {
+    "id": "formule-1-gp-du-portugal-2027",
+    "sport": "Formule 1",
+    "name": "GP du Portugal",
+    "start": "2027-06-18",
+    "end": "2027-06-20",
+    "location": "Portimão (Portugal)",
+    "url": "https://www.formula1.com",
+    "source": "https://www.p1travel.com/fr/blog/formula-1-calendar-2027"
+  },
+  {
+    "id": "football-coupe-d-afrique-des-nations-can-2027",
+    "sport": "Football",
+    "name": "Coupe d'Afrique des nations (CAN)",
+    "start": "2027-06-19",
+    "end": "2027-07-17",
+    "location": "Kenya, Tanzanie et Ouganda",
+    "url": "https://www.cafonline.com",
+    "source": "https://fr.allafrica.com/stories/202604290155.html"
+  },
+  {
+    "id": "football-coupe-du-monde-feminine-de-la-fifa-2027",
+    "sport": "Football",
+    "name": "Coupe du monde féminine de la FIFA",
+    "start": "2027-06-24",
+    "end": "2027-07-25",
+    "location": "Brésil",
+    "url": "https://www.fifa.com",
+    "source": "https://inside.fifa.com/fr/news/confirmation-des-dates-de-la-coupe-du-monde-feminine-de-la-fifa-bresil-2027"
+  },
+  {
+    "id": "natation-championnats-du-monde-world-aquatics-2027",
+    "sport": "Natation",
+    "name": "Championnats du monde World Aquatics",
+    "start": "2027-06-26",
+    "end": "2027-07-18",
+    "location": "Budapest (Hongrie)",
+    "url": "https://www.worldaquatics.com",
+    "source": "https://radiosports.fr/?p=20959"
+  },
+  {
+    "id": "tennis-wimbledon-2027",
+    "sport": "Tennis",
+    "name": "Wimbledon",
+    "start": "2027-06-28",
+    "end": "2027-07-11",
+    "location": "Londres (Royaume-Uni)",
+    "url": "https://www.wimbledon.com",
+    "source": "https://www.basket-mag.com/wimbledon-2027-dates-billets-prix/"
+  },
+  {
+    "id": "cyclisme-tour-de-france-2027",
+    "sport": "Cyclisme",
+    "name": "Tour de France",
+    "start": "2027-07-02",
+    "end": "2027-07-25",
+    "location": "Royaume-Uni (Grand Départ à Édimbourg) et France",
+    "url": "https://www.letour.fr",
+    "source": "https://en.brujulabike.com/the-super-worlds-force-some-date-changes-uci-confirms-the-2027-worldtour-calendar/"
+  },
+  {
+    "id": "formule-1-gp-de-grande-bretagne-2027",
+    "sport": "Formule 1",
+    "name": "GP de Grande-Bretagne",
+    "start": "2027-07-02",
+    "end": "2027-07-04",
+    "location": "Silverstone (Royaume-Uni)",
+    "url": "https://www.formula1.com",
+    "source": "https://www.p1travel.com/fr/blog/formula-1-calendar-2027"
+  },
+  {
+    "id": "golf-the-open-2027",
+    "sport": "Golf",
+    "name": "The Open",
+    "start": "2027-07-15",
+    "end": "2027-07-18",
+    "location": "St Andrews (Écosse)",
+    "url": "https://www.theopen.com",
+    "source": "https://www.skysports.com/golf/news/12040/13563739/golf-majors-in-2027-schedule-dates-venues-for-the-open-us-open-ryder-cup-and-more"
+  },
+  {
+    "id": "cyclisme-tour-de-france-femmes-2027",
+    "sport": "Cyclisme",
+    "name": "Tour de France Femmes",
+    "start": "2027-07-30",
+    "end": "2027-08-07",
+    "location": "Royaume-Uni (Grand Départ) et France",
+    "url": "https://www.letour.fr",
+    "source": "https://en.brujulabike.com/the-super-worlds-force-some-date-changes-uci-confirms-the-2027-worldtour-calendar/"
+  },
+  {
+    "id": "cyclisme-championnats-du-monde-uci-super-worlds-2027",
+    "sport": "Cyclisme",
+    "name": "Championnats du monde UCI (Super Worlds)",
+    "start": "2027-08-24",
+    "end": "2027-09-05",
+    "location": "Haute-Savoie (France)",
+    "url": "https://www.uci.org",
+    "source": "https://www.copaci.org/en/the-2027-super-cycling-world-championships-have-their-venues/"
+  },
+  {
+    "id": "netball-coupe-du-monde-de-netball-2027",
+    "sport": "Netball",
+    "name": "Coupe du monde de netball",
+    "start": "2027-08-25",
+    "end": "2027-09-05",
+    "location": "Australie",
+    "url": "https://netballworldcup.com",
+    "source": "https://mysportstourist.com/sports-events-calendar/biggest-sports-events-of-2027"
+  },
+  {
+    "id": "basket-ball-coupe-du-monde-fiba-masculine-2027",
+    "sport": "Basket-ball",
+    "name": "Coupe du monde FIBA masculine",
+    "start": "2027-08-27",
+    "end": "2027-09-12",
+    "location": "Doha (Qatar)",
+    "url": "https://www.fiba.basketball",
+    "source": "https://wikipedia.com/wiki/2027_FIBA_Basketball_World_Cup"
+  },
+  {
+    "id": "tennis-us-open-2027",
+    "sport": "Tennis",
+    "name": "US Open",
+    "start": "2027-08-29",
+    "end": "2027-09-12",
+    "location": "New York (États-Unis)",
+    "url": "https://www.usopen.org",
+    "source": "https://en.tennistemple.com/actu/atp-unveils-2027-calendar-as-2026-season/xpOS"
+  },
+  {
+    "id": "cyclisme-vuelta-a-espana-2027",
+    "sport": "Cyclisme",
+    "name": "Vuelta a España",
+    "start": "2027-09-04",
+    "end": "2027-09-26",
+    "location": "Espagne",
+    "url": "https://www.lavuelta.es",
+    "source": "https://www.cyclingnews.com/pro-cycling/racing/uci-reveals-2027-worldtour-racing-calendars-with-super-world-championships-in-france-forcing-changes/"
+  },
+  {
+    "id": "athletisme-championnats-du-monde-d-athletisme-2027",
+    "sport": "Athlétisme",
+    "name": "Championnats du monde d'athlétisme",
+    "start": "2027-09-10",
+    "end": "2027-09-19",
+    "location": "Pékin (Chine)",
+    "url": "https://worldathletics.org",
+    "source": "https://worldathletics.org/competitions/world-athletics-championships/beijing27/news/press-releases/logo-mascot-slogan-beijing-27"
+  },
+  {
+    "id": "golf-ryder-cup-2027",
+    "sport": "Golf",
+    "name": "Ryder Cup",
+    "start": "2027-09-17",
+    "end": "2027-09-19",
+    "location": "Adare Manor (Irlande)",
+    "url": "https://www.rydercup.com",
+    "source": "https://www.golfmagic.com/tour/ryder-cup/confirmed-dates-revealed-2027-ryder-cup-adare-manor"
+  },
+  {
+    "id": "rugby-coupe-du-monde-de-rugby-masculine-2027",
+    "sport": "Rugby",
+    "name": "Coupe du monde de rugby masculine",
+    "start": "2027-10-01",
+    "end": "2027-11-13",
+    "location": "Australie",
+    "url": "https://www.rugbyworldcup.com",
+    "source": "https://www.rugbyworldcup.com/2027/fr"
+  },
+  {
+    "id": "cricket-coupe-du-monde-masculine-de-cricket-icc-2027",
+    "sport": "Cricket",
+    "name": "Coupe du monde masculine de cricket (ICC)",
+    "start": "2027-10-04",
+    "end": "2027-11-21",
+    "location": "Afrique du Sud, Namibie et Zimbabwe",
+    "url": "https://www.icc-cricket.com",
+    "source": "https://content.sport-social.co.uk/blog/2027-sporting-calendar-major-sports-events"
+  },
+  {
+    "id": "sport-auto-rallye-du-maroc-finale-w2rc-2027",
+    "sport": "Sport auto",
+    "name": "Rallye du Maroc (finale W2RC)",
+    "start": "2027-10-24",
+    "end": "2027-10-29",
+    "location": "Maroc",
+    "url": "https://www.fia.com",
+    "source": "https://api.fia.com/news/fia-approves-five-round-2027-world-rally-raid-championship-calendar"
+  },
+  {
+    "id": "motogp-gp-d-australie-provisoire-2027",
+    "sport": "MotoGP",
+    "name": "GP d'Australie (provisoire)",
+    "start": "2027-11-12",
+    "end": "2027-11-14",
+    "location": "Adélaïde (Australie)",
+    "url": "https://www.motogp.com",
+    "source": "https://ultimatemotorcycling.com/2026/09/27/2027-motogp-schedule/"
+  },
+  {
+    "id": "motogp-gp-de-valence-provisoire-2027",
+    "sport": "MotoGP",
+    "name": "GP de Valence (provisoire)",
+    "start": "2027-11-26",
+    "end": "2027-11-28",
+    "location": "Cheste (Espagne)",
+    "url": "https://www.motogp.com",
+    "source": "https://ultimatemotorcycling.com/2026/09/27/2027-motogp-schedule/"
+  }
+]
