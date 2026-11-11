@@ -1,0 +1,68 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#f4f4f1" media="(prefers-color-scheme: light)">
+  <meta name="theme-color" content="#121211" media="(prefers-color-scheme: dark)">
+  <title>Films et séries à venir</title>
+  <meta name="description" content="Sorties cinéma en France et séries sur les plateformes : dates, casting et où les regarder.">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="top">
+    <h1>Films et séries à venir</h1>
+    <p class="sub" id="meta" aria-live="polite">Chargement…</p>
+    <nav class="tabs" role="tablist" aria-label="Sections">
+      <button type="button" role="tab" id="tab-calendar" aria-controls="panel-calendar" aria-selected="true">Calendrier</button>
+      <button type="button" role="tab" id="tab-pending" aria-controls="panel-pending" aria-selected="false">Infos non abouties <span class="tab-count" id="pending-count"></span></button>
+    </nav>
+  </header>
+
+  <section id="panel-calendar" role="tabpanel" aria-labelledby="tab-calendar">
+    <form class="filters" id="filters" aria-label="Filtres">
+      <fieldset class="segmented" id="f-type">
+        <legend class="sr-only">Type</legend>
+        <label><input type="radio" name="type" value="" checked><span>Tout</span></label>
+        <label><input type="radio" name="type" value="film"><span>Films</span></label>
+        <label><input type="radio" name="type" value="serie"><span>Séries</span></label>
+      </fieldset>
+      <details class="sports" id="genres-panel">
+        <summary>Genres <span class="summary-value" id="genres-summary"></span></summary>
+        <div class="sport-actions">
+          <button type="button" id="genres-all">Tout cocher</button>
+          <button type="button" id="genres-none">Tout décocher</button>
+        </div>
+        <div class="chips" id="f-genres"></div>
+      </details>
+      <div class="selects">
+        <label>Où regarder
+          <select id="f-where"><option value="">Partout</option></select>
+        </label>
+        <label>Période
+          <select id="f-period">
+            <option value="active">À venir et récents</option>
+            <option value="upcoming">À venir</option>
+            <option value="released">Déjà sortis</option>
+            <option value="">Tout</option>
+          </select>
+        </label>
+      </div>
+      <p class="count" id="count"></p>
+    </form>
+    <main id="list" aria-live="polite"></main>
+  </section>
+
+  <section id="panel-pending" role="tabpanel" aria-labelledby="tab-pending" hidden>
+    <p class="intro">Ce qui n'a pas pu être vérifié : informations manquantes faute de source, ou retenues avec un doute. Le job quotidien reprend ces points à chaque passage.</p>
+    <div id="pending"></div>
+  </section>
+
+  <footer>
+    <p>Dates de sortie en France. Chaque titre renvoie vers la source qui confirme sa date, chaque plateforme vers la source qui confirme sa disponibilité ; une plateforme suivie d'un « ? » n'est pas confirmée. Les données sont actualisées une fois par jour, mais les dates de sortie peuvent évoluer.</p>
+  </footer>
+
+  <script src="js/common.js"></script>
+  <script src="js/screens.js"></script>
+</body>
+</html>

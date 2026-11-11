@@ -2,44 +2,65 @@
 <html lang="fr">
 <head>
   <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#f4f4f1" media="(prefers-color-scheme: light)">
+  <meta name="theme-color" content="#121211" media="(prefers-color-scheme: dark)">
   <title>Calendrier des événements sportifs</title>
-  <meta name="description" content="Tournois et événements sportifs dans le monde : en cours, à venir et passés, classés par date et par sport.">
+  <meta name="description" content="Tournois et événements sportifs dans le monde : en cours, à venir et passés, avec les participants et les diffuseurs en France.">
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
   <header class="top">
     <h1>Calendrier des événements sportifs</h1>
     <p class="sub" id="meta" aria-live="polite">Chargement…</p>
+    <nav class="tabs" role="tablist" aria-label="Sections">
+      <button type="button" role="tab" id="tab-calendar" aria-controls="panel-calendar" aria-selected="true">Calendrier</button>
+      <button type="button" role="tab" id="tab-pending" aria-controls="panel-pending" aria-selected="false">Infos non abouties <span class="tab-count" id="pending-count"></span></button>
+    </nav>
   </header>
 
-  <form class="filters" id="filters" aria-label="Filtres">
-    <label>Sport
-      <select id="f-sport"><option value="">Tous les sports</option></select>
-    </label>
-    <label>Statut
-      <select id="f-status">
-        <option value="active">En cours et à venir</option>
-        <option value="">Tous</option>
-        <option value="ongoing">En cours</option>
-        <option value="upcoming">À venir</option>
-        <option value="past">Passés</option>
-      </select>
-    </label>
-    <label>Affichage
-      <select id="f-view">
-        <option value="chrono">Chronologique</option>
-        <option value="sport">Par sport</option>
-      </select>
-    </label>
-  </form>
+  <section id="panel-calendar" role="tabpanel" aria-labelledby="tab-calendar">
+    <form class="filters" id="filters" aria-label="Filtres">
+      <details class="sports" id="sports-panel">
+        <summary>Sports <span class="summary-value" id="sports-summary"></span></summary>
+        <div class="sport-actions">
+          <button type="button" id="sports-all">Tout cocher</button>
+          <button type="button" id="sports-none">Tout décocher</button>
+        </div>
+        <div class="chips" id="f-sports"></div>
+      </details>
+      <div class="selects">
+        <label>Statut
+          <select id="f-status">
+            <option value="active">En cours / à venir</option>
+            <option value="">Tous</option>
+            <option value="ongoing">En cours</option>
+            <option value="upcoming">À venir</option>
+            <option value="past">Passés</option>
+          </select>
+        </label>
+        <label>Affichage
+          <select id="f-view">
+            <option value="chrono">Par date</option>
+            <option value="sport">Par sport</option>
+          </select>
+        </label>
+      </div>
+      <p class="count" id="count"></p>
+    </form>
+    <main id="list" aria-live="polite"></main>
+  </section>
 
-  <main id="list" aria-live="polite"></main>
+  <section id="panel-pending" role="tabpanel" aria-labelledby="tab-pending" hidden>
+    <p class="intro">Ce qui n'a pas pu être vérifié : informations manquantes faute de source, ou retenues avec un doute. Le job quotidien reprend ces points à chaque passage.</p>
+    <div id="pending"></div>
+  </section>
 
   <footer>
-    <p>Chaque événement renvoie vers la source qui a servi à vérifier ses dates et son lieu. Les calendriers peuvent évoluer : vérifier auprès de l'organisateur avant de se déplacer.</p>
+    <p>Chaque événement renvoie vers la source qui a servi à vérifier ses dates et son lieu ; chaque diffuseur et chaque liste de participants renvoie vers la source qui la confirme. Les horaires sont donnés en heure de Paris. Les données sont actualisées une fois par jour, mais les calendriers, les affiches et les droits TV peuvent évoluer : vérifier auprès de l'organisateur ou du diffuseur.</p>
   </footer>
 
-  <script src="app.js"></script>
+  <script src="js/common.js"></script>
+  <script src="js/sports.js"></script>
 </body>
 </html>

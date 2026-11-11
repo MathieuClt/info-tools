@@ -1,681 +1,2939 @@
-[
-  {
-    "id": "multisport-jeux-olympiques-d-hiver-milano-cortina-2026",
-    "sport": "Multisport",
-    "name": "Jeux olympiques d'hiver Milano Cortina",
-    "start": "2026-02-06",
-    "end": "2026-02-22",
-    "location": "Milan et Cortina d'Ampezzo (Italie)",
-    "url": "https://olympics.com",
-    "source": "https://teambelgium.be/fr/jeux/Jeux-Olympiques-d-hiver-Milano-Cortina-2026-06022026-Milanmin-Cortina-104-fr"
-  },
-  {
-    "id": "football-coupe-du-monde-masculine-de-la-fifa-2026",
-    "sport": "Football",
-    "name": "Coupe du monde masculine de la FIFA",
-    "start": "2026-06-11",
-    "end": "2026-07-19",
-    "location": "États-Unis, Canada et Mexique",
-    "url": "https://www.fifa.com",
-    "source": "https://www.tv-direct.fr/sport-direct/tour-de-france/"
-  },
-  {
-    "id": "rugby-nations-championship-2026",
-    "sport": "Rugby",
-    "name": "Nations Championship",
-    "start": "2026-07-04",
-    "end": "2026-11-29",
-    "location": "Hémisphères Nord et Sud",
-    "url": "https://www.world.rugby",
-    "source": "https://www.rugbyworld.com/news/nations-championship-all-you-need-to-know-about-the-new-bi-annual-global-rugby-competition-180301"
-  },
-  {
-    "id": "ski-alpin-coupe-du-monde-de-ski-alpin-2026-2027-2026",
-    "sport": "Ski alpin",
-    "name": "Coupe du monde de ski alpin 2026-2027",
-    "start": "2026-10-24",
-    "end": "2027-03-25",
-    "location": "Sölden (Autriche) → Sun Valley (États-Unis)",
-    "url": "https://www.fis-ski.com",
-    "source": "https://www.bluewin.ch/en/sport/ski/significantly-more-world-cup-races-in-the-coming-season-li.3049218"
-  },
-  {
-    "id": "voile-route-du-rhum-destination-guadeloupe-2026",
-    "sport": "Voile",
-    "name": "Route du Rhum – Destination Guadeloupe",
-    "start": "2026-11-01",
-    "location": "Saint-Malo (France) → Pointe-à-Pitre (Guadeloupe)",
-    "url": "https://www.routedurhum.com",
-    "source": "https://figaronautisme.meteoconsult.fr/actus-nautisme-courses/route-du-rhum/2025-10-30/82734-route-du-rhum-2026-le-grand-depart-donne-le-1er-novembre-2026-a-saint-malo"
-  },
-  {
-    "id": "formule-1-gp-du-bresil-2026",
-    "sport": "Formule 1",
-    "name": "GP du Brésil",
-    "start": "2026-11-06",
-    "end": "2026-11-08",
-    "location": "São Paulo (Brésil)",
-    "url": "https://www.formula1.com",
-    "source": "https://api.fia.com/news/fia-and-formula-1-announce-2026-calendar"
-  },
-  {
-    "id": "sport-auto-8-heures-de-bahrein-wec-2026",
-    "sport": "Sport auto",
-    "name": "8 Heures de Bahreïn (WEC)",
-    "start": "2026-11-07",
-    "end": "2026-11-07",
-    "location": "Bahreïn",
-    "url": "https://www.fiawec.com",
-    "source": "https://www.fia.com/news/2026-fia-sporting-calendars-approved-world-motor-sport-council"
-  },
-  {
-    "id": "tennis-wta-finals-2026",
-    "sport": "Tennis",
-    "name": "WTA Finals",
-    "start": "2026-11-08",
-    "end": "2026-11-15",
-    "location": "Indian Wells (États-Unis)",
-    "url": "https://www.wtatennis.com",
-    "source": "https://www.flashscore.co.uk/news/tennis-wta-singles-wta-finals-2026-where-to-watch-preview-and-list-of-qualified-players/U55PdPWb/"
-  },
-  {
-    "id": "tennis-nitto-atp-finals-2026",
-    "sport": "Tennis",
-    "name": "Nitto ATP Finals",
-    "start": "2026-11-15",
-    "end": "2026-11-22",
-    "location": "Turin (Italie)",
-    "url": "https://www.atptour.com",
-    "source": "https://www.tennismajors.com/?p=858732"
-  },
-  {
-    "id": "formule-1-gp-de-las-vegas-2026",
-    "sport": "Formule 1",
-    "name": "GP de Las Vegas",
-    "start": "2026-11-19",
-    "end": "2026-11-21",
-    "location": "Las Vegas (États-Unis)",
-    "url": "https://www.formula1.com",
-    "source": "https://api.fia.com/news/fia-and-formula-1-announce-2026-calendar"
-  },
-  {
-    "id": "sport-auto-abu-dhabi-desert-challenge-2026",
-    "sport": "Sport auto",
-    "name": "Abu Dhabi Desert Challenge",
-    "start": "2026-11-21",
-    "end": "2026-11-27",
-    "location": "Émirats arabes unis",
-    "url": "https://www.dakar.com",
-    "source": "https://admin.fia.com/news/2026-fia-sporting-calendars-approved-world-motor-sport-council"
-  },
-  {
-    "id": "tennis-davis-cup-finals-2026",
-    "sport": "Tennis",
-    "name": "Davis Cup Finals",
-    "start": "2026-11-24",
-    "end": "2026-11-29",
-    "location": "Bologne (Italie)",
-    "url": "https://www.daviscup.com",
-    "source": "https://sportsbrackets.net/?p=30978"
-  },
-  {
-    "id": "formule-1-gp-du-qatar-2026",
-    "sport": "Formule 1",
-    "name": "GP du Qatar",
-    "start": "2026-11-27",
-    "end": "2026-11-29",
-    "location": "Lusail (Qatar)",
-    "url": "https://www.formula1.com",
-    "source": "https://api.fia.com/news/fia-and-formula-1-announce-2026-calendar"
-  },
-  {
-    "id": "rugby-nations-championship-finals-weekend-2026",
-    "sport": "Rugby",
-    "name": "Nations Championship – Finals Weekend",
-    "start": "2026-11-27",
-    "end": "2026-11-29",
-    "location": "Londres (Royaume-Uni)",
-    "url": "https://www.world.rugby",
-    "source": "https://www.scotsman.com/sport/rugby-union/scotland-rugby-autumn-tests-dates-murrayfield-tickets-nations-championship-finals-weekend-explained-twickenham-8813625"
-  },
-  {
-    "id": "football-finale-de-la-copa-libertadores-2026",
-    "sport": "Football",
-    "name": "Finale de la Copa Libertadores",
-    "start": "2026-11-28",
-    "end": "2026-11-28",
-    "location": "Montevideo (Uruguay)",
-    "url": "https://www.conmebol.com",
-    "source": "https://gol.conmebol.com/libertadores/en/news/2026-conmebol-libertadores-final-will-be-played-montevideo"
-  },
-  {
-    "id": "formule-1-gp-d-abou-dabi-2026",
-    "sport": "Formule 1",
-    "name": "GP d'Abou Dabi",
-    "start": "2026-12-04",
-    "end": "2026-12-06",
-    "location": "Yas Marina (Émirats arabes unis)",
-    "url": "https://www.formula1.com",
-    "source": "https://api.fia.com/news/fia-and-formula-1-announce-2026-calendar"
-  },
-  {
-    "id": "football-coupe-d-asie-des-nations-afc-asian-cup-2027",
-    "sport": "Football",
-    "name": "Coupe d'Asie des nations (AFC Asian Cup)",
-    "start": "2027-01-07",
-    "end": "2027-02-05",
-    "location": "Arabie saoudite",
-    "url": "https://www.the-afc.com",
-    "source": "https://www.topendsports.com/fr/evenements/calendrier-football.htm"
-  },
-  {
-    "id": "sport-auto-dakar-dates-soumises-a-l-approbation-de-la-fia-2027",
-    "sport": "Sport auto",
-    "name": "Dakar (dates soumises à l'approbation de la FIA)",
-    "start": "2027-01-09",
-    "end": "2027-01-23",
-    "location": "Portugal et Maroc (arrivée à Marrakech)",
-    "url": "https://www.dakar.com",
-    "source": "https://fr.apanews.net/?p=331116"
-  },
-  {
-    "id": "handball-championnat-du-monde-masculin-2027",
-    "sport": "Handball",
-    "name": "Championnat du monde masculin",
-    "start": "2027-01-13",
-    "end": "2027-01-31",
-    "location": "Allemagne",
-    "url": "https://www.ihf.info",
-    "source": "https://dicodusport.fr/blog/?p=669557"
-  },
-  {
-    "id": "tennis-open-d-australie-2027",
-    "sport": "Tennis",
-    "name": "Open d'Australie",
-    "start": "2027-01-17",
-    "end": "2027-01-31",
-    "location": "Melbourne (Australie)",
-    "url": "https://ausopen.com",
-    "source": "https://toomanyrackets.com/australian-open-guide/"
-  },
-  {
-    "id": "sport-auto-rallye-monte-carlo-2027",
-    "sport": "Sport auto",
-    "name": "Rallye Monte-Carlo",
-    "start": "2027-01-21",
-    "end": "2027-01-24",
-    "location": "Monaco et Alpes",
-    "url": "https://acm.mc",
-    "source": "https://acm.mc/en/epreuves/rallye-automobile-monte-carlo/event/presentation-of-the-event/"
-  },
-  {
-    "id": "ski-alpin-championnats-du-monde-de-ski-alpin-2027",
-    "sport": "Ski alpin",
-    "name": "Championnats du monde de ski alpin",
-    "start": "2027-02-01",
-    "end": "2027-02-14",
-    "location": "Crans-Montana (Suisse)",
-    "url": "https://www.fis-ski.com",
-    "source": "https://planetski.eu/2026/05/11/provisional-calendar-for-2026-27-alpine-ski-racing-unveiled/"
-  },
-  {
-    "id": "rugby-tournoi-des-six-nations-masculin-2027",
-    "sport": "Rugby",
-    "name": "Tournoi des Six Nations masculin",
-    "start": "2027-02-05",
-    "end": "2027-03-13",
-    "location": "Europe",
-    "url": "https://www.sixnationsrugby.com",
-    "source": "https://www.redbull.com/fr-fr/tournoi-six-nations-rugby-guide"
-  },
-  {
-    "id": "football-americain-super-bowl-lxi-2027",
-    "sport": "Football américain",
-    "name": "Super Bowl LXI",
-    "start": "2027-02-14",
-    "end": "2027-02-14",
-    "location": "Inglewood, Californie (États-Unis)",
-    "url": "https://www.nfl.com",
-    "source": "https://www.nbcconnecticut.com/news/sports/nfl/super-bowl-61-location-2027-host-stadium-date-time-watch-tv-stream/3770160/"
-  },
-  {
-    "id": "basket-ball-nba-all-star-game-2027",
-    "sport": "Basket-ball",
-    "name": "NBA All-Star Game",
-    "start": "2027-02-19",
-    "end": "2027-02-21",
-    "location": "Phoenix (États-Unis)",
-    "url": "https://www.nba.com",
-    "source": "https://wikipedia.com/wiki/2027_in_sports"
-  },
-  {
-    "id": "motogp-gp-de-thailande-provisoire-2027",
-    "sport": "MotoGP",
-    "name": "GP de Thaïlande (provisoire)",
-    "start": "2027-03-05",
-    "end": "2027-03-07",
-    "location": "Buriram (Thaïlande)",
-    "url": "https://www.motogp.com",
-    "source": "https://www.moto-net.com/article/calendrier-provisoire-des-grands-prix-motogp-2027.html"
-  },
-  {
-    "id": "formule-1-gp-de-bahrein-2027",
-    "sport": "Formule 1",
-    "name": "GP de Bahreïn",
-    "start": "2027-03-12",
-    "end": "2027-03-14",
-    "location": "Bahreïn",
-    "url": "https://www.formula1.com",
-    "source": "https://lesvoitures.fr/calendrier-f1-2027-course-sprint-gp-de-monaco/"
-  },
-  {
-    "id": "motogp-gp-du-qatar-provisoire-2027",
-    "sport": "MotoGP",
-    "name": "GP du Qatar (provisoire)",
-    "start": "2027-03-12",
-    "end": "2027-03-14",
-    "location": "Lusail (Qatar)",
-    "url": "https://www.motogp.com",
-    "source": "https://www.moto-net.com/article/calendrier-provisoire-des-grands-prix-motogp-2027.html"
-  },
-  {
-    "id": "formule-1-gp-d-arabie-saoudite-2027",
-    "sport": "Formule 1",
-    "name": "GP d'Arabie saoudite",
-    "start": "2027-03-19",
-    "end": "2027-03-21",
-    "location": "Djeddah (Arabie saoudite)",
-    "url": "https://www.formula1.com",
-    "source": "https://lesvoitures.fr/calendrier-f1-2027-course-sprint-gp-de-monaco/"
-  },
-  {
-    "id": "formule-1-gp-d-australie-2027",
-    "sport": "Formule 1",
-    "name": "GP d'Australie",
-    "start": "2027-04-02",
-    "end": "2027-04-04",
-    "location": "Melbourne (Australie)",
-    "url": "https://www.formula1.com",
-    "source": "https://lesvoitures.fr/calendrier-f1-2027-course-sprint-gp-de-monaco/"
-  },
-  {
-    "id": "motogp-gp-du-bresil-provisoire-2027",
-    "sport": "MotoGP",
-    "name": "GP du Brésil (provisoire)",
-    "start": "2027-04-02",
-    "end": "2027-04-04",
-    "location": "Goiânia (Brésil)",
-    "url": "https://www.motogp.com",
-    "source": "https://www.moto-net.com/article/calendrier-provisoire-des-grands-prix-motogp-2027.html"
-  },
-  {
-    "id": "golf-masters-2027",
-    "sport": "Golf",
-    "name": "Masters",
-    "start": "2027-04-08",
-    "end": "2027-04-11",
-    "location": "Augusta (États-Unis)",
-    "url": "https://www.masters.com",
-    "source": "https://thegolfnewsnet.com/ryan_ballengee/2026/05/16/future-golf-major-championship-venues-sites-dates-masters-us-open-british-open-pga-championship-101077/"
-  },
-  {
-    "id": "formule-1-gp-du-japon-2027",
-    "sport": "Formule 1",
-    "name": "GP du Japon",
-    "start": "2027-04-09",
-    "end": "2027-04-11",
-    "location": "Japon",
-    "url": "https://www.formula1.com",
-    "source": "https://lesvoitures.fr/calendrier-f1-2027-course-sprint-gp-de-monaco/"
-  },
-  {
-    "id": "motogp-gp-d-argentine-provisoire-2027",
-    "sport": "MotoGP",
-    "name": "GP d'Argentine (provisoire)",
-    "start": "2027-04-09",
-    "end": "2027-04-11",
-    "location": "Buenos Aires (Argentine)",
-    "url": "https://www.motogp.com",
-    "source": "https://www.moto-net.com/article/calendrier-provisoire-des-grands-prix-motogp-2027.html"
-  },
-  {
-    "id": "formule-1-gp-de-chine-2027",
-    "sport": "Formule 1",
-    "name": "GP de Chine",
-    "start": "2027-04-16",
-    "end": "2027-04-18",
-    "location": "Chine",
-    "url": "https://www.formula1.com",
-    "source": "https://lesvoitures.fr/calendrier-f1-2027-course-sprint-gp-de-monaco/"
-  },
-  {
-    "id": "formule-1-gp-de-miami-2027",
-    "sport": "Formule 1",
-    "name": "GP de Miami",
-    "start": "2027-04-30",
-    "end": "2027-05-02",
-    "location": "Miami (États-Unis)",
-    "url": "https://www.formula1.com",
-    "source": "https://www.p1travel.com/fr/blog/formula-1-calendar-2027"
-  },
-  {
-    "id": "cyclisme-giro-d-italia-2027",
-    "sport": "Cyclisme",
-    "name": "Giro d'Italia",
-    "start": "2027-05-08",
-    "end": "2027-05-30",
-    "location": "Italie",
-    "url": "https://www.giroditalia.it",
-    "source": "https://www.cyclingnews.com/pro-cycling/racing/uci-reveals-2027-worldtour-racing-calendars-with-super-world-championships-in-france-forcing-changes/"
-  },
-  {
-    "id": "motogp-gp-de-france-provisoire-2027",
-    "sport": "MotoGP",
-    "name": "GP de France (provisoire)",
-    "start": "2027-05-14",
-    "end": "2027-05-16",
-    "location": "Le Mans (France)",
-    "url": "https://www.motogp.com",
-    "source": "https://radiosports.fr/?p=20950"
-  },
-  {
-    "id": "golf-pga-championship-2027",
-    "sport": "Golf",
-    "name": "PGA Championship",
-    "start": "2027-05-20",
-    "end": "2027-05-23",
-    "location": "Frisco, Texas (États-Unis)",
-    "url": "https://www.pgachampionship.com",
-    "source": "https://golfreviewsguide.com/?p=116582"
-  },
-  {
-    "id": "tennis-roland-garros-2027",
-    "sport": "Tennis",
-    "name": "Roland-Garros",
-    "start": "2027-05-23",
-    "end": "2027-06-06",
-    "location": "Paris (France)",
-    "url": "https://www.rolandgarros.com",
-    "source": "https://en.tennistemple.com/actu/atp-unveils-2027-calendar-as-2026-season/xpOS"
-  },
-  {
-    "id": "football-finale-de-la-ligue-europa-2027",
-    "sport": "Football",
-    "name": "Finale de la Ligue Europa",
-    "start": "2027-05-26",
-    "end": "2027-05-26",
-    "location": "Francfort (Allemagne)",
-    "url": "https://www.uefa.com",
-    "source": "https://www.topendsports.com/fr/evenements/calendrier-football.htm"
-  },
-  {
-    "id": "cyclisme-giro-d-italia-women-2027",
-    "sport": "Cyclisme",
-    "name": "Giro d'Italia Women",
-    "start": "2027-05-29",
-    "end": "2027-06-06",
-    "location": "Italie",
-    "url": "https://www.giroditalia.it",
-    "source": "https://en.brujulabike.com/the-super-worlds-force-some-date-changes-uci-confirms-the-2027-worldtour-calendar/"
-  },
-  {
-    "id": "formule-1-gp-de-monaco-2027",
-    "sport": "Formule 1",
-    "name": "GP de Monaco",
-    "start": "2027-06-04",
-    "end": "2027-06-06",
-    "location": "Monaco",
-    "url": "https://www.formula1.com",
-    "source": "https://www.p1travel.com/fr/blog/formula-1-calendar-2027"
-  },
-  {
-    "id": "football-finale-de-la-ligue-des-champions-2027",
-    "sport": "Football",
-    "name": "Finale de la Ligue des champions",
-    "start": "2027-06-05",
-    "end": "2027-06-05",
-    "location": "Madrid (Espagne)",
-    "url": "https://www.uefa.com",
-    "source": "https://www.uefa.com/uefachampionsleague/news/029d-1eb2d5faf53c-d67c9fed04fa-1000--2027-uefa-champions-league-final-estadio-metropolitano"
-  },
-  {
-    "id": "sport-auto-24-heures-du-mans-2027",
-    "sport": "Sport auto",
-    "name": "24 Heures du Mans",
-    "start": "2027-06-09",
-    "end": "2027-06-13",
-    "location": "Le Mans (France)",
-    "url": "https://www.24h-lemans.com",
-    "source": "https://www.24h-lemans.com/en/news/95th-24-hours-of-le-mans-see-you-on-9-13-june-2027-60819"
-  },
-  {
-    "id": "basket-ball-eurobasket-feminin-2027",
-    "sport": "Basket-ball",
-    "name": "EuroBasket féminin",
-    "start": "2027-06-16",
-    "end": "2027-06-27",
-    "location": "Belgique, Finlande, Lituanie et Suède",
-    "url": "https://www.fiba.basketball",
-    "source": "https://www.fiba.basketball/events"
-  },
-  {
-    "id": "golf-us-open-2027",
-    "sport": "Golf",
-    "name": "US Open",
-    "start": "2027-06-17",
-    "end": "2027-06-20",
-    "location": "Pebble Beach (États-Unis)",
-    "url": "https://www.usopen.com",
-    "source": "https://www.skysports.com/golf/news/12040/13563739/golf-majors-in-2027-schedule-dates-venues-for-the-open-us-open-ryder-cup-and-more"
-  },
-  {
-    "id": "formule-1-gp-du-portugal-2027",
-    "sport": "Formule 1",
-    "name": "GP du Portugal",
-    "start": "2027-06-18",
-    "end": "2027-06-20",
-    "location": "Portimão (Portugal)",
-    "url": "https://www.formula1.com",
-    "source": "https://www.p1travel.com/fr/blog/formula-1-calendar-2027"
-  },
-  {
-    "id": "football-coupe-d-afrique-des-nations-can-2027",
-    "sport": "Football",
-    "name": "Coupe d'Afrique des nations (CAN)",
-    "start": "2027-06-19",
-    "end": "2027-07-17",
-    "location": "Kenya, Tanzanie et Ouganda",
-    "url": "https://www.cafonline.com",
-    "source": "https://fr.allafrica.com/stories/202604290155.html"
-  },
-  {
-    "id": "football-coupe-du-monde-feminine-de-la-fifa-2027",
-    "sport": "Football",
-    "name": "Coupe du monde féminine de la FIFA",
-    "start": "2027-06-24",
-    "end": "2027-07-25",
-    "location": "Brésil",
-    "url": "https://www.fifa.com",
-    "source": "https://inside.fifa.com/fr/news/confirmation-des-dates-de-la-coupe-du-monde-feminine-de-la-fifa-bresil-2027"
-  },
-  {
-    "id": "natation-championnats-du-monde-world-aquatics-2027",
-    "sport": "Natation",
-    "name": "Championnats du monde World Aquatics",
-    "start": "2027-06-26",
-    "end": "2027-07-18",
-    "location": "Budapest (Hongrie)",
-    "url": "https://www.worldaquatics.com",
-    "source": "https://radiosports.fr/?p=20959"
-  },
-  {
-    "id": "tennis-wimbledon-2027",
-    "sport": "Tennis",
-    "name": "Wimbledon",
-    "start": "2027-06-28",
-    "end": "2027-07-11",
-    "location": "Londres (Royaume-Uni)",
-    "url": "https://www.wimbledon.com",
-    "source": "https://www.basket-mag.com/wimbledon-2027-dates-billets-prix/"
-  },
-  {
-    "id": "cyclisme-tour-de-france-2027",
-    "sport": "Cyclisme",
-    "name": "Tour de France",
-    "start": "2027-07-02",
-    "end": "2027-07-25",
-    "location": "Royaume-Uni (Grand Départ à Édimbourg) et France",
-    "url": "https://www.letour.fr",
-    "source": "https://en.brujulabike.com/the-super-worlds-force-some-date-changes-uci-confirms-the-2027-worldtour-calendar/"
-  },
-  {
-    "id": "formule-1-gp-de-grande-bretagne-2027",
-    "sport": "Formule 1",
-    "name": "GP de Grande-Bretagne",
-    "start": "2027-07-02",
-    "end": "2027-07-04",
-    "location": "Silverstone (Royaume-Uni)",
-    "url": "https://www.formula1.com",
-    "source": "https://www.p1travel.com/fr/blog/formula-1-calendar-2027"
-  },
-  {
-    "id": "golf-the-open-2027",
-    "sport": "Golf",
-    "name": "The Open",
-    "start": "2027-07-15",
-    "end": "2027-07-18",
-    "location": "St Andrews (Écosse)",
-    "url": "https://www.theopen.com",
-    "source": "https://www.skysports.com/golf/news/12040/13563739/golf-majors-in-2027-schedule-dates-venues-for-the-open-us-open-ryder-cup-and-more"
-  },
-  {
-    "id": "cyclisme-tour-de-france-femmes-2027",
-    "sport": "Cyclisme",
-    "name": "Tour de France Femmes",
-    "start": "2027-07-30",
-    "end": "2027-08-07",
-    "location": "Royaume-Uni (Grand Départ) et France",
-    "url": "https://www.letour.fr",
-    "source": "https://en.brujulabike.com/the-super-worlds-force-some-date-changes-uci-confirms-the-2027-worldtour-calendar/"
-  },
-  {
-    "id": "cyclisme-championnats-du-monde-uci-super-worlds-2027",
-    "sport": "Cyclisme",
-    "name": "Championnats du monde UCI (Super Worlds)",
-    "start": "2027-08-24",
-    "end": "2027-09-05",
-    "location": "Haute-Savoie (France)",
-    "url": "https://www.uci.org",
-    "source": "https://www.copaci.org/en/the-2027-super-cycling-world-championships-have-their-venues/"
-  },
-  {
-    "id": "netball-coupe-du-monde-de-netball-2027",
-    "sport": "Netball",
-    "name": "Coupe du monde de netball",
-    "start": "2027-08-25",
-    "end": "2027-09-05",
-    "location": "Australie",
-    "url": "https://netballworldcup.com",
-    "source": "https://mysportstourist.com/sports-events-calendar/biggest-sports-events-of-2027"
-  },
-  {
-    "id": "basket-ball-coupe-du-monde-fiba-masculine-2027",
-    "sport": "Basket-ball",
-    "name": "Coupe du monde FIBA masculine",
-    "start": "2027-08-27",
-    "end": "2027-09-12",
-    "location": "Doha (Qatar)",
-    "url": "https://www.fiba.basketball",
-    "source": "https://wikipedia.com/wiki/2027_FIBA_Basketball_World_Cup"
-  },
-  {
-    "id": "tennis-us-open-2027",
-    "sport": "Tennis",
-    "name": "US Open",
-    "start": "2027-08-29",
-    "end": "2027-09-12",
-    "location": "New York (États-Unis)",
-    "url": "https://www.usopen.org",
-    "source": "https://en.tennistemple.com/actu/atp-unveils-2027-calendar-as-2026-season/xpOS"
-  },
-  {
-    "id": "cyclisme-vuelta-a-espana-2027",
-    "sport": "Cyclisme",
-    "name": "Vuelta a España",
-    "start": "2027-09-04",
-    "end": "2027-09-26",
-    "location": "Espagne",
-    "url": "https://www.lavuelta.es",
-    "source": "https://www.cyclingnews.com/pro-cycling/racing/uci-reveals-2027-worldtour-racing-calendars-with-super-world-championships-in-france-forcing-changes/"
-  },
-  {
-    "id": "athletisme-championnats-du-monde-d-athletisme-2027",
-    "sport": "Athlétisme",
-    "name": "Championnats du monde d'athlétisme",
-    "start": "2027-09-10",
-    "end": "2027-09-19",
-    "location": "Pékin (Chine)",
-    "url": "https://worldathletics.org",
-    "source": "https://worldathletics.org/competitions/world-athletics-championships/beijing27/news/press-releases/logo-mascot-slogan-beijing-27"
-  },
-  {
-    "id": "golf-ryder-cup-2027",
-    "sport": "Golf",
-    "name": "Ryder Cup",
-    "start": "2027-09-17",
-    "end": "2027-09-19",
-    "location": "Adare Manor (Irlande)",
-    "url": "https://www.rydercup.com",
-    "source": "https://www.golfmagic.com/tour/ryder-cup/confirmed-dates-revealed-2027-ryder-cup-adare-manor"
-  },
-  {
-    "id": "rugby-coupe-du-monde-de-rugby-masculine-2027",
-    "sport": "Rugby",
-    "name": "Coupe du monde de rugby masculine",
-    "start": "2027-10-01",
-    "end": "2027-11-13",
-    "location": "Australie",
-    "url": "https://www.rugbyworldcup.com",
-    "source": "https://www.rugbyworldcup.com/2027/fr"
-  },
-  {
-    "id": "cricket-coupe-du-monde-masculine-de-cricket-icc-2027",
-    "sport": "Cricket",
-    "name": "Coupe du monde masculine de cricket (ICC)",
-    "start": "2027-10-04",
-    "end": "2027-11-21",
-    "location": "Afrique du Sud, Namibie et Zimbabwe",
-    "url": "https://www.icc-cricket.com",
-    "source": "https://content.sport-social.co.uk/blog/2027-sporting-calendar-major-sports-events"
-  },
-  {
-    "id": "sport-auto-rallye-du-maroc-finale-w2rc-2027",
-    "sport": "Sport auto",
-    "name": "Rallye du Maroc (finale W2RC)",
-    "start": "2027-10-24",
-    "end": "2027-10-29",
-    "location": "Maroc",
-    "url": "https://www.fia.com",
-    "source": "https://api.fia.com/news/fia-approves-five-round-2027-world-rally-raid-championship-calendar"
-  },
-  {
-    "id": "motogp-gp-d-australie-provisoire-2027",
-    "sport": "MotoGP",
-    "name": "GP d'Australie (provisoire)",
-    "start": "2027-11-12",
-    "end": "2027-11-14",
-    "location": "Adélaïde (Australie)",
-    "url": "https://www.motogp.com",
-    "source": "https://ultimatemotorcycling.com/2026/09/27/2027-motogp-schedule/"
-  },
-  {
-    "id": "motogp-gp-de-valence-provisoire-2027",
-    "sport": "MotoGP",
-    "name": "GP de Valence (provisoire)",
-    "start": "2027-11-26",
-    "end": "2027-11-28",
-    "location": "Cheste (Espagne)",
-    "url": "https://www.motogp.com",
-    "source": "https://ultimatemotorcycling.com/2026/09/27/2027-motogp-schedule/"
-  }
-]
+{
+  "updated": "2026-11-11",
+  "events": [
+    {
+      "id": "multisport-jeux-olympiques-d-hiver-milano-cortina-2026",
+      "sport": "Multisport",
+      "name": "Jeux olympiques d'hiver Milano Cortina",
+      "start": "2026-02-06",
+      "end": "2026-02-22",
+      "location": "Milan et Cortina d'Ampezzo (Italie)",
+      "url": "https://olympics.com",
+      "source": "https://teambelgium.be/fr/jeux/Jeux-Olympiques-d-hiver-Milano-Cortina-2026-06022026-Milanmin-Cortina-104-fr"
+    },
+    {
+      "id": "football-coupe-du-monde-masculine-de-la-fifa-2026",
+      "sport": "Football",
+      "name": "Coupe du monde masculine de la FIFA",
+      "start": "2026-06-11",
+      "end": "2026-07-19",
+      "location": "États-Unis, Canada et Mexique",
+      "url": "https://www.fifa.com",
+      "source": "https://www.tv-direct.fr/sport-direct/tour-de-france/"
+    },
+    {
+      "id": "rugby-nations-championship-2026",
+      "sport": "Rugby",
+      "name": "Nations Championship",
+      "start": "2026-07-04",
+      "end": "2026-11-29",
+      "location": "Hémisphères Nord et Sud",
+      "url": "https://www.world.rugby",
+      "source": "https://www.rugbyworld.com/news/nations-championship-all-you-need-to-know-about-the-new-bi-annual-global-rugby-competition-180301",
+      "broadcasts": [
+        {
+          "name": "TF1",
+          "free": true,
+          "source": "https://www.mycomm.fr/blog/chaine-diffusion-championnat-des-nations",
+          "note": "TF1 / TMC / TF1+ ; droits exclusifs éditions 2026 et 2028 (cf. sportbuzzbusiness.fr)"
+        }
+      ],
+      "participants": {
+        "type": "teams",
+        "matches": [
+          {
+            "a": "France",
+            "b": "Afrique du Sud",
+            "date": "2026-11-13",
+            "label": "Journée 5",
+            "at": "2026-11-13T20:10:00+00:00",
+            "source": "https://www.rugbyworld.com/featured/nations-championship-questions-answered-184290"
+          },
+          {
+            "a": "Italie",
+            "b": "Argentine",
+            "date": "2026-11-14",
+            "label": "Journée 5",
+            "at": "2026-11-14T11:40:00+00:00",
+            "source": "https://www.rugbyworld.com/featured/nations-championship-questions-answered-184290"
+          },
+          {
+            "a": "Pays de Galles",
+            "b": "Nouvelle-Zélande",
+            "date": "2026-11-14",
+            "label": "Journée 5",
+            "at": "2026-11-14T14:10:00+00:00",
+            "source": "https://www.rugbyworld.com/featured/nations-championship-questions-answered-184290"
+          },
+          {
+            "a": "Angleterre",
+            "b": "Japon",
+            "date": "2026-11-14",
+            "label": "Journée 5",
+            "at": "2026-11-14T16:40:00+00:00",
+            "source": "https://www.rugbyworld.com/featured/nations-championship-questions-answered-184290"
+          },
+          {
+            "a": "Irlande",
+            "b": "Fidji",
+            "date": "2026-11-14",
+            "label": "Journée 5",
+            "at": "2026-11-14T20:10:00+00:00",
+            "source": "https://www.rugbyworld.com/featured/nations-championship-questions-answered-184290"
+          },
+          {
+            "a": "Écosse",
+            "b": "Australie",
+            "date": "2026-11-15",
+            "label": "Journée 5",
+            "at": "2026-11-15T15:10:00+00:00",
+            "source": "https://www.rugbyworld.com/featured/nations-championship-questions-answered-184290"
+          },
+          {
+            "a": "Angleterre",
+            "b": "Nouvelle-Zélande",
+            "date": "2026-11-21",
+            "label": "Journée 6",
+            "at": "2026-11-21T14:10:00+00:00",
+            "source": "https://www.rugbyworld.com/featured/nations-championship-questions-answered-184290"
+          },
+          {
+            "a": "Écosse",
+            "b": "Japon",
+            "date": "2026-11-21",
+            "label": "Journée 6",
+            "at": "2026-11-21T14:10:00+00:00",
+            "source": "https://www.rugbyworld.com/featured/nations-championship-questions-answered-184290"
+          },
+          {
+            "a": "Irlande",
+            "b": "Afrique du Sud",
+            "date": "2026-11-21",
+            "label": "Journée 6",
+            "at": "2026-11-21T16:40:00+00:00",
+            "source": "https://www.rugbyworld.com/featured/nations-championship-questions-answered-184290"
+          },
+          {
+            "a": "Italie",
+            "b": "Fidji",
+            "date": "2026-11-21",
+            "label": "Journée 6",
+            "at": "2026-11-21T16:40:00+00:00",
+            "source": "https://www.rugbyworld.com/featured/nations-championship-questions-answered-184290"
+          },
+          {
+            "a": "Pays de Galles",
+            "b": "Australie",
+            "date": "2026-11-21",
+            "label": "Journée 6",
+            "at": "2026-11-21T20:10:00+00:00",
+            "source": "https://www.rugbyworld.com/featured/nations-championship-questions-answered-184290"
+          },
+          {
+            "a": "France",
+            "b": "Argentine",
+            "date": "2026-11-21",
+            "label": "Journée 6",
+            "at": "2026-11-21T20:10:00+00:00",
+            "source": "https://www.rugbyworld.com/featured/nations-championship-questions-answered-184290"
+          }
+        ],
+        "entries": [
+          "France",
+          "Angleterre",
+          "Irlande",
+          "Écosse",
+          "Pays de Galles",
+          "Italie",
+          "Afrique du Sud",
+          "Nouvelle-Zélande",
+          "Australie",
+          "Argentine",
+          "Japon",
+          "Fidji"
+        ],
+        "source": "https://en.wikipedia.org/wiki/2026_Nations_Championship"
+      }
+    },
+    {
+      "id": "ski-alpin-coupe-du-monde-de-ski-alpin-2026-2027-2026",
+      "sport": "Ski alpin",
+      "name": "Coupe du monde de ski alpin 2026-2027",
+      "start": "2026-10-24",
+      "end": "2027-03-25",
+      "location": "Sölden (Autriche) → Sun Valley (États-Unis)",
+      "url": "https://www.fis-ski.com",
+      "source": "https://www.bluewin.ch/en/sport/ski/significantly-more-world-cup-races-in-the-coming-season-li.3049218",
+      "broadcasts": [
+        {
+          "name": "Eurosport",
+          "free": false,
+          "source": "https://ski-biathlon.fr/competitions-8522-solden-2026-horaires-chaine-tv-et-francais-au-depart-de-louverture-de-la-coupe-du-monde-de-ski-alpin",
+          "note": "Eurosport 1 ; aussi via HBO Max"
+        }
+      ]
+    },
+    {
+      "id": "voile-route-du-rhum-destination-guadeloupe-2026",
+      "sport": "Voile",
+      "name": "Route du Rhum – Destination Guadeloupe",
+      "start": "2026-11-01",
+      "location": "Saint-Malo (France) → Pointe-à-Pitre (Guadeloupe)",
+      "url": "https://www.routedurhum.com",
+      "source": "https://figaronautisme.meteoconsult.fr/actus-nautisme-courses/route-du-rhum/2025-10-30/82734-route-du-rhum-2026-le-grand-depart-donne-le-1er-novembre-2026-a-saint-malo",
+      "broadcasts": [
+        {
+          "name": "France Télévisions",
+          "free": true,
+          "source": "https://www.francetvpro.fr/contenu-de-presse/78955321",
+          "note": "Départ en direct sur France 3 et france.tv ; suivi sur France 2, ICI, La 1ère"
+        }
+      ],
+      "schedule": [
+        {
+          "label": "Départ",
+          "at": "2026-11-01T13:02:00+01:00",
+          "source": "https://france3-regions.franceinfo.fr/bretagne/ille-et-vilaine/saint-malo/la-route-du-rhum-2026-c-est-parti-3442428.html"
+        }
+      ]
+    },
+    {
+      "id": "formule-1-gp-du-bresil-2026",
+      "sport": "Formule 1",
+      "name": "GP du Brésil",
+      "start": "2026-11-06",
+      "end": "2026-11-08",
+      "location": "São Paulo (Brésil)",
+      "url": "https://www.formula1.com",
+      "source": "https://api.fia.com/news/fia-and-formula-1-announce-2026-calendar"
+    },
+    {
+      "id": "sport-auto-8-heures-de-bahrein-wec-2026",
+      "sport": "Sport auto",
+      "name": "8 Heures de Bahreïn (WEC)",
+      "start": "2026-11-07",
+      "end": "2026-11-07",
+      "location": "Bahreïn",
+      "url": "https://www.fiawec.com",
+      "source": "https://www.fia.com/news/2026-fia-sporting-calendars-approved-world-motor-sport-council"
+    },
+    {
+      "id": "tennis-wta-finals-2026",
+      "sport": "Tennis",
+      "name": "WTA Finals",
+      "start": "2026-11-08",
+      "end": "2026-11-15",
+      "location": "Indian Wells (États-Unis)",
+      "url": "https://www.wtatennis.com",
+      "source": "https://www.flashscore.co.uk/news/tennis-wta-singles-wta-finals-2026-where-to-watch-preview-and-list-of-qualified-players/U55PdPWb/",
+      "broadcasts": [
+        {
+          "name": "beIN Sports",
+          "free": false,
+          "source": "https://www.flashscore.fr/actualites/tennis-finals-indian-wells-wta-simples-finales-wta-2026-ou-regarder-le-masters-de-tennis-feminin-en-france/OhKXJzHc/"
+        }
+      ],
+      "participants": {
+        "type": "athletes",
+        "entries": [
+          "Elena Rybakina",
+          "Aryna Sabalenka",
+          "Mirra Andreeva",
+          "Jessica Pegula",
+          "Coco Gauff",
+          "Elina Svitolina",
+          "Karolína Muchová",
+          "Linda Nosková"
+        ],
+        "source": "https://www.wtatennis.com/news/4594854/meet-your-elite-eight-a-snapshot-of-the-wta-finals-contenders"
+      }
+    },
+    {
+      "id": "mma-ufc-334-2026",
+      "sport": "MMA",
+      "name": "UFC 334",
+      "start": "2026-11-14",
+      "end": "2026-11-14",
+      "location": "New York (États-Unis)",
+      "url": "https://www.ufc.com/event/ufc-334",
+      "source": "https://www.ufc.com/event/ufc-334",
+      "broadcasts": [
+        {
+          "name": "RMC Sport",
+          "free": false,
+          "source": "https://matchs.tv/2026/10/16/droits-tv-rmc-sport-prolonge-lufc-en-france-et-elargit-son-accord/",
+          "note": "Diffuseur exclusif de l'UFC en France"
+        }
+      ],
+      "participants": {
+        "type": "athletes",
+        "matches": [
+          {
+            "a": "Ciryl Gane",
+            "b": "Josh Hokit",
+            "date": "2026-11-14",
+            "label": "Combat principal (titre poids lourds)"
+          },
+          {
+            "a": "Kayla Harrison",
+            "b": "Amanda Nunes",
+            "date": "2026-11-14",
+            "label": "Co-main event (titre poids coqs)"
+          }
+        ],
+        "source": "https://mmasucka.com/previews/ufc-334-full-fight-card-main-event-and-start-times/"
+      },
+      "schedule": [
+        {
+          "label": "Carte principale",
+          "at": "2026-11-15T03:00:00+01:00",
+          "source": "https://www.ufc.com/event/ufc-334"
+        }
+      ]
+    },
+    {
+      "id": "tennis-nitto-atp-finals-2026",
+      "sport": "Tennis",
+      "name": "Nitto ATP Finals",
+      "start": "2026-11-15",
+      "end": "2026-11-22",
+      "location": "Turin (Italie)",
+      "url": "https://www.atptour.com",
+      "source": "https://www.tennismajors.com/?p=858732",
+      "broadcasts": [
+        {
+          "name": "Eurosport",
+          "free": false,
+          "source": "https://www.tv-direct.fr/actualites/atp-finals-2026-chaine-tv-calendrier-diffusion/",
+          "note": "Eurosport 1 et 2 ; aussi via HBO Max et Canal+"
+        }
+      ],
+      "participants": {
+        "type": "athletes",
+        "entries": [
+          "Alexander Zverev",
+          "Carlos Alcaraz",
+          "Ben Shelton",
+          "Daniil Medvedev",
+          "Flavio Cobolli",
+          "Arthur Fils",
+          "Frances Tiafoe",
+          "Rafael Jódar"
+        ],
+        "source": "https://www.atptour.com/en/news/nitto-atp-finals-2026-history-draw-schedule"
+      },
+      "schedule": [
+        {
+          "label": "Demi-finales (session de jour)",
+          "at": "2026-11-21T12:00:00+01:00",
+          "source": "https://tickets.nittoatpfinals.com/en/schedule"
+        },
+        {
+          "label": "Demi-finales (session du soir)",
+          "at": "2026-11-21T18:00:00+01:00",
+          "source": "https://tickets.nittoatpfinals.com/en/schedule"
+        },
+        {
+          "label": "Finales (double puis simple)",
+          "at": "2026-11-22T15:00:00+01:00",
+          "source": "https://tickets.nittoatpfinals.com/en/schedule"
+        }
+      ]
+    },
+    {
+      "id": "formule-1-gp-de-las-vegas-2026",
+      "sport": "Formule 1",
+      "name": "GP de Las Vegas",
+      "start": "2026-11-19",
+      "end": "2026-11-21",
+      "location": "Las Vegas (États-Unis)",
+      "url": "https://www.formula1.com",
+      "source": "https://api.fia.com/news/fia-and-formula-1-announce-2026-calendar",
+      "broadcasts": [
+        {
+          "name": "Canal+",
+          "free": false,
+          "source": "https://www.igen.fr/apple-tv/2026/11/apres-les-etats-unis-apple-lorgne-sur-les-droits-de-diffusion-de-la-f1-ailleurs-dans-le-monde-159167",
+          "note": "Droits exclusifs F1 jusqu'en 2029"
+        }
+      ],
+      "participants": {
+        "type": "athletes",
+        "entries": [
+          "Lando Norris (McLaren)",
+          "Oscar Piastri (McLaren)",
+          "George Russell (Mercedes)",
+          "Kimi Antonelli (Mercedes)",
+          "Max Verstappen (Red Bull)",
+          "Isack Hadjar (Red Bull)",
+          "Charles Leclerc (Ferrari)",
+          "Lewis Hamilton (Ferrari)",
+          "Fernando Alonso (Aston Martin)",
+          "Lance Stroll (Aston Martin)",
+          "Pierre Gasly (Alpine)",
+          "Franco Colapinto (Alpine)",
+          "Alexander Albon (Williams)",
+          "Carlos Sainz (Williams)",
+          "Liam Lawson (Racing Bulls)",
+          "Arvid Lindblad (Racing Bulls)",
+          "Nico Hülkenberg (Audi)",
+          "Gabriel Bortoleto (Audi)",
+          "Oliver Bearman (Haas)",
+          "Rafael Câmara (Haas)",
+          "Sergio Pérez (Cadillac)",
+          "Valtteri Bottas (Cadillac)"
+        ],
+        "source": "https://www.formula1.com/en/results/2026/races/1299/brazil/race-result"
+      },
+      "schedule": [
+        {
+          "label": "Qualifications",
+          "at": "2026-11-20T20:00:00-08:00",
+          "source": "https://www.formula1.com/en/racing/2026/las-vegas"
+        },
+        {
+          "label": "Course",
+          "at": "2026-11-21T20:00:00-08:00",
+          "source": "https://www.formula1.com/en/racing/2026/las-vegas"
+        }
+      ]
+    },
+    {
+      "id": "mma-ares-45-2026",
+      "sport": "MMA",
+      "name": "ARES 45",
+      "start": "2026-11-20",
+      "end": "2026-11-20",
+      "location": "Paris (France)",
+      "url": "https://www.aresfighting.com/events/",
+      "source": "https://www.portedelachapelle.fr/ares-45-zebo-baki-2-adidas-arena-2026/",
+      "broadcasts": [
+        {
+          "name": "Canal+ Sport",
+          "free": false,
+          "source": "https://boxemag.ouest-france.fr/organisation/ares-fc/"
+        }
+      ],
+      "participants": {
+        "type": "athletes",
+        "matches": [
+          {
+            "a": "Jordan Zébo",
+            "b": "Baki Chamsoudinov",
+            "date": "2026-11-20",
+            "label": "Combat principal (titre poids mi-moyens)"
+          }
+        ],
+        "source": "https://fightalk.fr/baki-vs-zebo-ii-la-revanche-tant-attendue-officialisee-pour-lares-45-a-paris"
+      }
+    },
+    {
+      "id": "sport-auto-abu-dhabi-desert-challenge-2026",
+      "sport": "Sport auto",
+      "name": "Abu Dhabi Desert Challenge",
+      "start": "2026-11-21",
+      "end": "2026-11-27",
+      "location": "Émirats arabes unis",
+      "url": "https://www.dakar.com",
+      "source": "https://admin.fia.com/news/2026-fia-sporting-calendars-approved-world-motor-sport-council"
+    },
+    {
+      "id": "tennis-davis-cup-finals-2026",
+      "sport": "Tennis",
+      "name": "Davis Cup Finals",
+      "start": "2026-11-24",
+      "end": "2026-11-29",
+      "location": "Bologne (Italie)",
+      "url": "https://www.daviscup.com",
+      "source": "https://sportsbrackets.net/?p=30978",
+      "participants": {
+        "type": "teams",
+        "matches": [
+          {
+            "a": "Tchéquie",
+            "b": "Canada",
+            "date": "2026-11-24",
+            "label": "Quart de finale"
+          },
+          {
+            "a": "Italie",
+            "b": "Corée du Sud",
+            "date": "2026-11-25",
+            "label": "Quart de finale"
+          },
+          {
+            "a": "Espagne",
+            "b": "Autriche",
+            "date": "2026-11-26",
+            "label": "Quart de finale"
+          },
+          {
+            "a": "Allemagne",
+            "b": "Grande-Bretagne",
+            "date": "2026-11-26",
+            "label": "Quart de finale"
+          }
+        ],
+        "entries": [
+          "Italie",
+          "Espagne",
+          "Allemagne",
+          "Grande-Bretagne",
+          "Autriche",
+          "Canada",
+          "Corée du Sud",
+          "Tchéquie"
+        ],
+        "source": "https://www.puntodebreak.com/en/2026/10/26/davis-cup-2026-the-squads-of-the-eight-teams-that-will-be-in-bologna-are-already-known"
+      },
+      "broadcasts": [
+        {
+          "name": "beIN Sports",
+          "free": false,
+          "confirmed": false,
+          "source": "https://www.actu-alt-plus.com/le-cri-joyeux/coupe-davis-2026-quelle-chaine-tableau-bologne-france/41969/",
+          "note": "Seule source : un site secondaire"
+        }
+      ]
+    },
+    {
+      "id": "boxe-finales-de-la-coupe-du-monde-de-boxe-2026",
+      "sport": "Boxe",
+      "name": "Finales de la Coupe du monde de boxe",
+      "start": "2026-11-26",
+      "end": "2026-12-04",
+      "location": "Tachkent (Ouzbékistan)",
+      "url": "https://worldboxing.org/calendar/world-boxing-cup-finals-elite-men-women/",
+      "source": "https://worldboxing.org/calendar/"
+    },
+    {
+      "id": "formule-1-gp-du-qatar-2026",
+      "sport": "Formule 1",
+      "name": "GP du Qatar",
+      "start": "2026-11-27",
+      "end": "2026-11-29",
+      "location": "Lusail (Qatar)",
+      "url": "https://www.formula1.com",
+      "source": "https://api.fia.com/news/fia-and-formula-1-announce-2026-calendar",
+      "broadcasts": [
+        {
+          "name": "Canal+",
+          "free": false,
+          "source": "https://www.igen.fr/apple-tv/2026/11/apres-les-etats-unis-apple-lorgne-sur-les-droits-de-diffusion-de-la-f1-ailleurs-dans-le-monde-159167",
+          "note": "Droits exclusifs F1 jusqu'en 2029"
+        }
+      ],
+      "participants": {
+        "type": "athletes",
+        "entries": [
+          "Lando Norris (McLaren)",
+          "Oscar Piastri (McLaren)",
+          "George Russell (Mercedes)",
+          "Kimi Antonelli (Mercedes)",
+          "Max Verstappen (Red Bull)",
+          "Isack Hadjar (Red Bull)",
+          "Charles Leclerc (Ferrari)",
+          "Lewis Hamilton (Ferrari)",
+          "Fernando Alonso (Aston Martin)",
+          "Lance Stroll (Aston Martin)",
+          "Pierre Gasly (Alpine)",
+          "Franco Colapinto (Alpine)",
+          "Alexander Albon (Williams)",
+          "Carlos Sainz (Williams)",
+          "Liam Lawson (Racing Bulls)",
+          "Arvid Lindblad (Racing Bulls)",
+          "Nico Hülkenberg (Audi)",
+          "Gabriel Bortoleto (Audi)",
+          "Oliver Bearman (Haas)",
+          "Rafael Câmara (Haas)",
+          "Sergio Pérez (Cadillac)",
+          "Valtteri Bottas (Cadillac)"
+        ],
+        "source": "https://www.formula1.com/en/results/2026/races/1299/brazil/race-result"
+      },
+      "schedule": [
+        {
+          "label": "Qualifications",
+          "at": "2026-11-28T21:00:00+03:00",
+          "source": "https://www.formula1.com/en/racing/2026/qatar"
+        },
+        {
+          "label": "Course",
+          "at": "2026-11-29T19:00:00+03:00",
+          "source": "https://www.formula1.com/en/racing/2026/qatar"
+        }
+      ]
+    },
+    {
+      "id": "rugby-nations-championship-finals-weekend-2026",
+      "sport": "Rugby",
+      "name": "Nations Championship – Finals Weekend",
+      "start": "2026-11-27",
+      "end": "2026-11-29",
+      "location": "Londres (Royaume-Uni)",
+      "url": "https://www.world.rugby",
+      "source": "https://www.scotsman.com/sport/rugby-union/scotland-rugby-autumn-tests-dates-murrayfield-tickets-nations-championship-finals-weekend-explained-twickenham-8813625",
+      "broadcasts": [
+        {
+          "name": "TF1",
+          "free": true,
+          "source": "https://www.mycomm.fr/blog/chaine-diffusion-championnat-des-nations",
+          "note": "Finales à Londres sur TF1 et TF1+"
+        }
+      ],
+      "participants": {
+        "type": "teams",
+        "entries": [
+          "France",
+          "Angleterre",
+          "Irlande",
+          "Écosse",
+          "Pays de Galles",
+          "Italie",
+          "Afrique du Sud",
+          "Nouvelle-Zélande",
+          "Australie",
+          "Argentine",
+          "Japon",
+          "Fidji"
+        ],
+        "source": "https://en.wikipedia.org/wiki/2026_Nations_Championship"
+      },
+      "schedule": [
+        {
+          "label": "Match pour la 5e place",
+          "at": "2026-11-27T20:10:00+00:00",
+          "source": "https://www.rugbyworld.com/featured/nations-championship-questions-answered-184290"
+        },
+        {
+          "label": "Match pour la 3e place",
+          "at": "2026-11-28T16:40:00+00:00",
+          "source": "https://www.rugbyworld.com/featured/nations-championship-questions-answered-184290"
+        },
+        {
+          "label": "Match pour la 7e place",
+          "at": "2026-11-29T13:10:00+00:00",
+          "source": "https://www.rugbyworld.com/featured/nations-championship-questions-answered-184290"
+        },
+        {
+          "label": "Finale",
+          "at": "2026-11-29T16:40:00+00:00",
+          "source": "https://www.rugbyworld.com/featured/nations-championship-questions-answered-184290"
+        }
+      ]
+    },
+    {
+      "id": "boxe-kabayel-vs-hysa-championnat-du-monde-wbc-poids-lourds-2026",
+      "sport": "Boxe",
+      "name": "Kabayel vs Hysa (championnat du monde WBC poids lourds)",
+      "start": "2026-11-28",
+      "end": "2026-11-28",
+      "location": "Düsseldorf (Allemagne)",
+      "url": "https://dazngroup.com/press-room/agit-kabayel-vs-nelson-hysa-wm-titelverteidigung-live-auf-dazn/",
+      "source": "https://boxemag.ouest-france.fr/evenement/kabayel-vs-hysa/",
+      "broadcasts": [
+        {
+          "name": "DAZN",
+          "free": false,
+          "source": "https://boxemag.ouest-france.fr/evenement/kabayel-vs-hysa/"
+        }
+      ],
+      "participants": {
+        "type": "athletes",
+        "matches": [
+          {
+            "a": "Agit Kabayel",
+            "b": "Nelson Hysa",
+            "date": "2026-11-28",
+            "label": "Titre WBC poids lourds"
+          }
+        ],
+        "source": "https://wbcboxing.com/en/agit-kabayel-and-nelson-hysa-put-unbeaten-records-on-the-line-for-wbc-heavyweight-title/"
+      }
+    },
+    {
+      "id": "football-finale-de-la-copa-libertadores-2026",
+      "sport": "Football",
+      "name": "Finale de la Copa Libertadores",
+      "start": "2026-11-28",
+      "end": "2026-11-28",
+      "location": "Montevideo (Uruguay)",
+      "url": "https://www.conmebol.com",
+      "source": "https://gol.conmebol.com/libertadores/en/news/2026-conmebol-libertadores-final-will-be-played-montevideo",
+      "participants": {
+        "type": "teams",
+        "matches": [
+          {
+            "a": "Palmeiras",
+            "b": "Estudiantes de La Plata",
+            "date": "2026-11-28",
+            "label": "Finale",
+            "at": "2026-11-28T17:00:00-03:00",
+            "source": "https://www.eluniverso.com/deportes/futbol/conmebol-confirma-el-horario-para-la-final-de-la-copa-libertadores-2026-entre-palmeiras-y-estudiantes-de-la-plata-nota/"
+          }
+        ],
+        "source": "https://www.conmebol.com/noticias/inicia-la-venta-de-entradas-para-la-final-de-la-conmebol-libertadores-2026-en-montevideo/"
+      },
+      "schedule": [
+        {
+          "label": "Finale",
+          "at": "2026-11-28T17:00:00-03:00",
+          "source": "https://www.eluniverso.com/deportes/futbol/conmebol-confirma-el-horario-para-la-final-de-la-copa-libertadores-2026-entre-palmeiras-y-estudiantes-de-la-plata-nota/"
+        }
+      ]
+    },
+    {
+      "id": "formule-1-gp-d-abou-dabi-2026",
+      "sport": "Formule 1",
+      "name": "GP d'Abou Dabi",
+      "start": "2026-12-04",
+      "end": "2026-12-06",
+      "location": "Yas Marina (Émirats arabes unis)",
+      "url": "https://www.formula1.com",
+      "source": "https://api.fia.com/news/fia-and-formula-1-announce-2026-calendar",
+      "broadcasts": [
+        {
+          "name": "Canal+",
+          "free": false,
+          "source": "https://www.igen.fr/apple-tv/2026/11/apres-les-etats-unis-apple-lorgne-sur-les-droits-de-diffusion-de-la-f1-ailleurs-dans-le-monde-159167",
+          "note": "Droits exclusifs F1 jusqu'en 2029"
+        }
+      ],
+      "participants": {
+        "type": "athletes",
+        "entries": [
+          "Lando Norris (McLaren)",
+          "Oscar Piastri (McLaren)",
+          "George Russell (Mercedes)",
+          "Kimi Antonelli (Mercedes)",
+          "Max Verstappen (Red Bull)",
+          "Isack Hadjar (Red Bull)",
+          "Charles Leclerc (Ferrari)",
+          "Lewis Hamilton (Ferrari)",
+          "Fernando Alonso (Aston Martin)",
+          "Lance Stroll (Aston Martin)",
+          "Pierre Gasly (Alpine)",
+          "Franco Colapinto (Alpine)",
+          "Alexander Albon (Williams)",
+          "Carlos Sainz (Williams)",
+          "Liam Lawson (Racing Bulls)",
+          "Arvid Lindblad (Racing Bulls)",
+          "Nico Hülkenberg (Audi)",
+          "Gabriel Bortoleto (Audi)",
+          "Oliver Bearman (Haas)",
+          "Rafael Câmara (Haas)",
+          "Sergio Pérez (Cadillac)",
+          "Valtteri Bottas (Cadillac)"
+        ],
+        "source": "https://www.formula1.com/en/results/2026/races/1299/brazil/race-result"
+      },
+      "schedule": [
+        {
+          "label": "Qualifications",
+          "at": "2026-12-05T18:00:00+04:00",
+          "source": "https://www.formula1.com/en/racing/2026/united-arab-emirates"
+        },
+        {
+          "label": "Course",
+          "at": "2026-12-06T17:00:00+04:00",
+          "source": "https://www.formula1.com/en/racing/2026/united-arab-emirates"
+        }
+      ]
+    },
+    {
+      "id": "boxe-benavidez-vs-cieslak-unification-poids-lourds-legers-2026",
+      "sport": "Boxe",
+      "name": "Benavidez vs Cieslak (unification poids lourds-légers)",
+      "start": "2026-12-05",
+      "end": "2026-12-05",
+      "location": "Glendale (États-Unis)",
+      "url": "https://www.premierboxingchampions.com/events/391735",
+      "source": "https://www.fightmag.com/benavidez-vs-cieslak-confirmed-for-december-in-glendale-arizona/",
+      "participants": {
+        "type": "athletes",
+        "matches": [
+          {
+            "a": "David Benavidez",
+            "b": "Michał Cieślak",
+            "date": "2026-12-05",
+            "label": "Unification WBA, WBC et WBO"
+          }
+        ],
+        "source": "https://www.espn.com/boxing/story/_/id/50250929/david-benavidez-michal-cieslak-cruiserweight-unification-bout-set"
+      },
+      "schedule": [
+        {
+          "label": "Carte principale",
+          "at": "2026-12-05T18:00:00-07:00",
+          "source": "https://www.fightbookmma.com/events/pbc-benavidez-vs-cieslak/"
+        }
+      ],
+      "broadcasts": [
+        {
+          "name": "DAZN",
+          "free": false,
+          "confirmed": false,
+          "source": "https://dazn.com/en-US/news/boxing/dazn-boxing-schedule-2026-fight-dates-and-live-stream-for-confirmed-cards/ehgk0syi2n4a13u2yglrd8h84",
+          "note": "Au calendrier DAZN, sans confirmation pour la France"
+        }
+      ]
+    },
+    {
+      "id": "boxe-fury-vs-joshua-poids-lourds-2026",
+      "sport": "Boxe",
+      "name": "Fury vs Joshua (poids lourds)",
+      "start": "2026-12-11",
+      "end": "2026-12-11",
+      "location": "Cardiff (Royaume-Uni)",
+      "url": "https://www.netflix.com/tudum/features/fury-joshua-full-fight-card-news-updates",
+      "source": "https://www.netflix.com/tudum/features/fury-joshua-full-fight-card-news-updates",
+      "broadcasts": [
+        {
+          "name": "Netflix",
+          "free": false,
+          "source": "https://www.netflix.com/tudum/features/fury-joshua-full-fight-card-news-updates",
+          "note": "Inclus dans l'abonnement, diffusion mondiale"
+        }
+      ],
+      "participants": {
+        "type": "athletes",
+        "matches": [
+          {
+            "a": "Tyson Fury",
+            "b": "Anthony Joshua",
+            "date": "2026-12-11",
+            "label": "Combat principal"
+          }
+        ],
+        "source": "https://www.espn.com/boxing/story/_/id/49646893/tyson-fury-anthony-joshua-boxing-heavyweight-fight-announced-eddie-hearn-dana-white"
+      }
+    },
+    {
+      "id": "boxe-bivol-vs-smith-championnat-du-monde-unifie-poids-mi-lourds-2026",
+      "sport": "Boxe",
+      "name": "Bivol vs Smith (championnat du monde unifié poids mi-lourds)",
+      "start": "2026-12-12",
+      "end": "2026-12-12",
+      "location": "Iekaterinbourg (Russie)",
+      "url": "https://www.boxingnews24.com/2026/10/dmitry-bivol-vs-callum-smith-gets-dazn-confirmation/",
+      "source": "https://www.boxingnews24.com/2026/10/dmitry-bivol-vs-callum-smith-gets-dazn-confirmation/",
+      "participants": {
+        "type": "athletes",
+        "matches": [
+          {
+            "a": "Dmitry Bivol",
+            "b": "Callum Smith",
+            "date": "2026-12-12",
+            "label": "Titres unifiés poids mi-lourds"
+          }
+        ],
+        "source": "https://www.boxingnews24.com/2026/10/dmitry-bivol-vs-callum-smith-confirmed-for-december-12/"
+      },
+      "broadcasts": [
+        {
+          "name": "DAZN",
+          "free": false,
+          "confirmed": false,
+          "source": "https://dazn.com/en-US/news/boxing/dazn-boxing-schedule-2026-fight-dates-and-live-stream-for-confirmed-cards/ehgk0syi2n4a13u2yglrd8h84",
+          "note": "Au calendrier DAZN, sans confirmation pour la France"
+        }
+      ]
+    },
+    {
+      "id": "boxe-lara-vs-tszyu-championnat-du-monde-wba-poids-moyens-2026",
+      "sport": "Boxe",
+      "name": "Lara vs Tszyu (championnat du monde WBA poids moyens)",
+      "start": "2026-12-12",
+      "end": "2026-12-12",
+      "location": "Gold Coast (Australie)",
+      "url": "https://www.espn.com/boxing/story/_/id/50373711/erislandy-lara-defend-middleweight-title-vs-tim-tszyu-dec-12",
+      "source": "https://www.espn.com/boxing/story/_/id/50373711/erislandy-lara-defend-middleweight-title-vs-tim-tszyu-dec-12",
+      "participants": {
+        "type": "athletes",
+        "matches": [
+          {
+            "a": "Erislandy Lara",
+            "b": "Tim Tszyu",
+            "date": "2026-12-13",
+            "label": "Titre WBA poids moyens",
+            "at": "2026-12-13T13:30:00+10:00",
+            "source": "https://cbussuperstadium.com.au/events/wba-middleweight-world-title-fight--tszyu-vs-lara-1"
+          }
+        ],
+        "source": "https://www.abc.net.au/news/2026-11-04/tim-tszyu-gold-coast-robina-stadium-world-title/107344986"
+      },
+      "schedule": [
+        {
+          "label": "Carte principale",
+          "at": "2026-12-13T09:30:00+10:00",
+          "source": "https://nolimitboxing.com.au/events/tim-tszyu-vs-erislandy-lara"
+        },
+        {
+          "label": "Combat principal",
+          "at": "2026-12-13T13:30:00+10:00",
+          "source": "https://cbussuperstadium.com.au/events/wba-middleweight-world-title-fight--tszyu-vs-lara-1"
+        }
+      ],
+      "broadcasts": [
+        {
+          "name": "DAZN",
+          "free": false,
+          "confirmed": false,
+          "source": "https://dazn.com/en-US/news/boxing/dazn-boxing-schedule-2026-fight-dates-and-live-stream-for-confirmed-cards/ehgk0syi2n4a13u2yglrd8h84",
+          "note": "Au calendrier DAZN, sans confirmation pour la France"
+        }
+      ]
+    },
+    {
+      "id": "mma-ufc-335-2026",
+      "sport": "MMA",
+      "name": "UFC 335",
+      "start": "2026-12-12",
+      "end": "2026-12-12",
+      "location": "Las Vegas (États-Unis)",
+      "url": "https://www.ufc.com/event/ufc-335",
+      "source": "https://www.ufc.com/event/ufc-335",
+      "broadcasts": [
+        {
+          "name": "RMC Sport",
+          "free": false,
+          "source": "https://matchs.tv/2026/10/16/droits-tv-rmc-sport-prolonge-lufc-en-france-et-elargit-son-accord/",
+          "note": "Diffuseur exclusif de l'UFC en France"
+        }
+      ],
+      "participants": {
+        "type": "athletes",
+        "matches": [
+          {
+            "a": "Charles Oliveira",
+            "b": "Diego Lopes",
+            "date": "2026-12-12",
+            "label": "Combat principal (ceinture BMF)"
+          },
+          {
+            "a": "Alex Pereira",
+            "b": "Sergei Pavlovich",
+            "date": "2026-12-12",
+            "label": "Co-main event (poids lourds)"
+          }
+        ],
+        "source": "https://www.t-mobilearena.com/events/detail/ufc-335"
+      },
+      "schedule": [
+        {
+          "label": "Carte principale",
+          "at": "2026-12-13T03:00:00+01:00",
+          "source": "https://www.ufc.com/event/ufc-335"
+        }
+      ]
+    },
+    {
+      "id": "judo-masters-mondiaux-de-judo-2026",
+      "sport": "Judo",
+      "name": "Masters mondiaux de judo",
+      "start": "2026-12-18",
+      "end": "2026-12-20",
+      "location": "Douchanbé (Tadjikistan)",
+      "url": "https://www.ijf.org/competition/3343",
+      "source": "https://www.ijf.org/competition/3343"
+    },
+    {
+      "id": "boxe-haney-vs-paro-unification-poids-welters-2026",
+      "sport": "Boxe",
+      "name": "Haney vs Paro (unification poids welters)",
+      "start": "2026-12-19",
+      "end": "2026-12-19",
+      "location": "San Francisco (États-Unis)",
+      "url": "https://toprank.com/news/press-conference-notes-devin-haney-and-liam-paro-meet-face-to-face-to-announce-dec-19-unification-at-chase-center-in-san-francisco-live-on-dazn-ppv",
+      "source": "https://toprank.com/news/press-conference-notes-devin-haney-and-liam-paro-meet-face-to-face-to-announce-dec-19-unification-at-chase-center-in-san-francisco-live-on-dazn-ppv",
+      "participants": {
+        "type": "athletes",
+        "matches": [
+          {
+            "a": "Devin Haney",
+            "b": "Liam Paro",
+            "date": "2026-12-19",
+            "label": "Unification WBO/IBF poids welters"
+          }
+        ],
+        "source": "https://www.si.com/fannation/boxing/date-and-location-announced-for-devin-haney-vs-liam-paro-fight"
+      },
+      "schedule": [
+        {
+          "label": "Carte principale",
+          "at": "2026-12-19T17:00:00-08:00",
+          "source": "https://www.yahoo.com/news/articles/bay-area-native-devin-haney-024528057.html"
+        }
+      ]
+    },
+    {
+      "id": "mma-pfl-lyon-2026",
+      "sport": "MMA",
+      "name": "PFL Lyon",
+      "start": "2026-12-19",
+      "end": "2026-12-19",
+      "location": "Lyon (France)",
+      "url": "https://pflmma.com/event/pfl-lyon-2026",
+      "source": "https://pflmma.com/event/pfl-lyon-2026",
+      "broadcasts": [
+        {
+          "name": "RMC Sport",
+          "free": false,
+          "source": "https://pflmma.com/news/professional-fighters-league-and-rmc-sport-announce-multiyear-partnership-to-broadcast-pfl-in-france-nationwide",
+          "note": "Accord pluriannuel couvrant tous les événements PFL en France"
+        }
+      ],
+      "participants": {
+        "type": "athletes",
+        "matches": [
+          {
+            "a": "Taylor Lapilus",
+            "b": "Mitch McKee",
+            "date": "2026-12-19",
+            "label": "Combat principal, titre poids coqs"
+          },
+          {
+            "a": "Boris Atangana",
+            "b": "Bryan Battle",
+            "date": "2026-12-19",
+            "label": "Co-main event"
+          }
+        ],
+        "source": "https://www.ldlcarena.com/en/evenement/pfl-lyon-december-2026/"
+      }
+    },
+    {
+      "id": "sport-auto-dakar-dates-soumises-a-l-approbation-de-la-fia-2027",
+      "sport": "Sport auto",
+      "name": "Dakar (dates soumises à l'approbation de la FIA)",
+      "start": "2027-01-09",
+      "end": "2027-01-23",
+      "location": "Portugal et Maroc (arrivée à Marrakech)",
+      "url": "https://www.dakar.com",
+      "source": "https://fr.apanews.net/?p=331116"
+    },
+    {
+      "id": "handball-championnat-du-monde-masculin-2027",
+      "sport": "Handball",
+      "name": "Championnat du monde masculin",
+      "start": "2027-01-13",
+      "end": "2027-01-31",
+      "location": "Allemagne",
+      "url": "https://www.ihf.info",
+      "source": "https://dicodusport.fr/blog/?p=669557",
+      "broadcasts": [
+        {
+          "name": "beIN Sports",
+          "free": false,
+          "source": "https://fr.themedialeader.com/bein-regie-devoile-ses-cgv-2027-entre-convergence-tvvol-et-engagement-societal-renforce/",
+          "note": "Diffuseur payant annoncé ; co-diffuseur en clair des Bleus non confirmé"
+        },
+        {
+          "name": "TF1",
+          "free": true,
+          "confirmed": false,
+          "source": "https://info.fr/mondial-handball-2027-tf1-bein-sports-diffusion-bleus/",
+          "note": "Matchs des Bleus ; source peu fiable, France Télévisions également citée"
+        }
+      ],
+      "participants": {
+        "type": "teams",
+        "entries": [
+          "Allemagne",
+          "Danemark",
+          "Croatie",
+          "France",
+          "Îles Féroé",
+          "Grèce",
+          "Islande",
+          "Italie",
+          "Macédoine du Nord",
+          "Norvège",
+          "Pologne",
+          "Portugal",
+          "Serbie",
+          "Slovénie",
+          "Espagne",
+          "Suède",
+          "Turquie",
+          "Algérie",
+          "Angola",
+          "Cap-Vert",
+          "Égypte",
+          "Tunisie",
+          "Bahreïn",
+          "Japon",
+          "Koweït",
+          "Qatar",
+          "Arabie saoudite",
+          "États-Unis",
+          "Argentine",
+          "Brésil",
+          "Chili",
+          "Uruguay"
+        ],
+        "source": "https://en.wikipedia.org/wiki/2027_World_Men%27s_Handball_Championship"
+      }
+    },
+    {
+      "id": "mma-ares-marseille-2027",
+      "sport": "MMA",
+      "name": "ARES Marseille",
+      "start": "2027-01-15",
+      "location": "Marseille (France)",
+      "url": "https://www.aresfighting.com/",
+      "source": "https://www.aresfighting.com/events/",
+      "tentative": true
+    },
+    {
+      "id": "tennis-open-d-australie-2027",
+      "sport": "Tennis",
+      "name": "Open d'Australie",
+      "start": "2027-01-17",
+      "end": "2027-01-31",
+      "location": "Melbourne (Australie)",
+      "url": "https://ausopen.com",
+      "source": "https://toomanyrackets.com/australian-open-guide/",
+      "broadcasts": [
+        {
+          "name": "Eurosport",
+          "free": false,
+          "source": "https://www.tennisactu.net/news-open-d-australie-l-open-d-australie-diffuse-sur-eurosport-jusqu-en-2031-92728.html",
+          "note": "Droits jusqu'en 2031 ; aussi via HBO Max"
+        }
+      ]
+    },
+    {
+      "id": "sport-auto-rallye-monte-carlo-2027",
+      "sport": "Sport auto",
+      "name": "Rallye Monte-Carlo",
+      "start": "2027-01-21",
+      "end": "2027-01-24",
+      "location": "Monaco et Alpes",
+      "url": "https://acm.mc",
+      "source": "https://acm.mc/en/epreuves/rallye-automobile-monte-carlo/event/presentation-of-the-event/",
+      "broadcasts": [
+        {
+          "name": "Canal+",
+          "free": false,
+          "source": "https://www.sportcal.com/media/wrc-and-canal-plus-extend-french-coverage-deal-until-2030/",
+          "note": "Droits WRC jusqu'à fin 2030"
+        }
+      ]
+    },
+    {
+      "id": "boxe-bank-vs-alimkhanuly-championnat-du-monde-wbo-poids-super-moyens-2027",
+      "sport": "Boxe",
+      "name": "Bank vs Alimkhanuly (championnat du monde WBO poids super-moyens)",
+      "start": "2027-01-23",
+      "end": "2027-01-23",
+      "location": "Horsens (Danemark)",
+      "url": "https://middleeasy.com/boxing/janibek-alimkhanuly-jacob-bank-january23-horsens-wbo-title/",
+      "source": "https://middleeasy.com/boxing/janibek-alimkhanuly-jacob-bank-january23-horsens-wbo-title/",
+      "participants": {
+        "type": "athletes",
+        "matches": [
+          {
+            "a": "Jacob Bank",
+            "b": "Janibek Alimkhanuly",
+            "date": "2027-01-23",
+            "label": "Titre WBO vacant poids super-moyens"
+          }
+        ],
+        "source": "https://middleeasy.com/boxing/janibek-alimkhanuly-jacob-bank-january23-horsens-wbo-title/"
+      }
+    },
+    {
+      "id": "mma-ufc-336-2027",
+      "sport": "MMA",
+      "name": "UFC 336",
+      "start": "2027-01-30",
+      "end": "2027-01-30",
+      "location": "Toronto (Canada)",
+      "url": "https://www.ufc.com/event/ufc-336",
+      "source": "https://www.ufc.com/event/ufc-336",
+      "broadcasts": [
+        {
+          "name": "RMC Sport",
+          "free": false,
+          "source": "https://matchs.tv/2026/10/16/droits-tv-rmc-sport-prolonge-lufc-en-france-et-elargit-son-accord/",
+          "note": "Diffuseur exclusif de l'UFC en France"
+        }
+      ],
+      "participants": {
+        "type": "athletes",
+        "matches": [
+          {
+            "a": "Joshua Van",
+            "b": "Manel Kape",
+            "date": "2027-01-30",
+            "label": "Combat principal, titre poids mouches"
+          },
+          {
+            "a": "Carlos Prates",
+            "b": "Michael Morales",
+            "date": "2027-01-30",
+            "label": "Co-main event, titre intérimaire poids welters"
+          }
+        ],
+        "source": "https://www.espn.com/mma/fightcenter/_/id/600062191/league/ufc"
+      },
+      "schedule": [
+        {
+          "label": "Préliminaires",
+          "at": "2027-01-30T19:00:00-05:00",
+          "source": "https://www.ufc.com/event/ufc-336"
+        },
+        {
+          "label": "Carte principale",
+          "at": "2027-01-30T21:00:00-05:00",
+          "source": "https://www.ufc.com/event/ufc-336"
+        }
+      ]
+    },
+    {
+      "id": "ski-alpin-championnats-du-monde-de-ski-alpin-2027",
+      "sport": "Ski alpin",
+      "name": "Championnats du monde de ski alpin",
+      "start": "2027-02-01",
+      "end": "2027-02-14",
+      "location": "Crans-Montana (Suisse)",
+      "url": "https://www.fis-ski.com",
+      "source": "https://planetski.eu/2026/05/11/provisional-calendar-for-2026-27-alpine-ski-racing-unveiled/"
+    },
+    {
+      "id": "judo-grand-chelem-de-paris-2027",
+      "sport": "Judo",
+      "name": "Grand Chelem de Paris",
+      "start": "2027-02-05",
+      "end": "2027-02-07",
+      "location": "Paris (France)",
+      "url": "https://www.ijf.org/competition/3376",
+      "source": "https://www.ijf.org/competition/3376",
+      "broadcasts": [
+        {
+          "name": "RMC Sport",
+          "free": false,
+          "confirmed": false,
+          "source": "https://www.ijf.org/news/show/the-world-judo-tour-the-paris-grand-slam-and-the-judo-pro-league-on-rmc-sport",
+          "note": "Accord de janvier 2025 sans durée publiée"
+        }
+      ]
+    },
+    {
+      "id": "mma-ares-paris-fevrier-2027-2027",
+      "sport": "MMA",
+      "name": "ARES Paris (février 2027)",
+      "start": "2027-02-05",
+      "location": "Paris (France)",
+      "url": "https://www.aresfighting.com/",
+      "source": "https://www.aresfighting.com/events/",
+      "tentative": true
+    },
+    {
+      "id": "rugby-tournoi-des-six-nations-masculin-2027",
+      "sport": "Rugby",
+      "name": "Tournoi des Six Nations masculin",
+      "start": "2027-02-05",
+      "end": "2027-03-13",
+      "location": "Europe",
+      "url": "https://www.sixnationsrugby.com",
+      "source": "https://www.redbull.com/fr-fr/tournoi-six-nations-rugby-guide",
+      "broadcasts": [
+        {
+          "name": "France Télévisions",
+          "free": true,
+          "source": "https://www.francetvpro.fr/contenu-de-presse/74067401",
+          "note": "Droits exclusifs 2026-2029 (chaînes France TV et france.tv)"
+        }
+      ],
+      "participants": {
+        "type": "teams",
+        "matches": [
+          {
+            "a": "Irlande",
+            "b": "Angleterre",
+            "date": "2027-02-05",
+            "label": "1re journée",
+            "at": "2027-02-05T20:10:00+00:00",
+            "source": "https://www.ultimaterugby.com/news/2027-men-s-six-nations-fixtures-schedule-confirmed/664732"
+          },
+          {
+            "a": "Écosse",
+            "b": "Italie",
+            "date": "2027-02-06",
+            "label": "1re journée",
+            "at": "2027-02-06T14:10:00+00:00",
+            "source": "https://www.ultimaterugby.com/news/2027-men-s-six-nations-fixtures-schedule-confirmed/664732"
+          },
+          {
+            "a": "France",
+            "b": "Pays de Galles",
+            "date": "2027-02-06",
+            "label": "1re journée",
+            "at": "2027-02-06T16:40:00+00:00",
+            "source": "https://www.ultimaterugby.com/news/2027-men-s-six-nations-fixtures-schedule-confirmed/664732"
+          },
+          {
+            "a": "Italie",
+            "b": "Irlande",
+            "date": "2027-02-13",
+            "label": "2e journée",
+            "at": "2027-02-13T14:10:00+00:00",
+            "source": "https://www.ultimaterugby.com/news/2027-men-s-six-nations-fixtures-schedule-confirmed/664732"
+          },
+          {
+            "a": "Écosse",
+            "b": "Pays de Galles",
+            "date": "2027-02-13",
+            "label": "2e journée",
+            "at": "2027-02-13T16:40:00+00:00",
+            "source": "https://www.ultimaterugby.com/news/2027-men-s-six-nations-fixtures-schedule-confirmed/664732"
+          },
+          {
+            "a": "Angleterre",
+            "b": "France",
+            "date": "2027-02-14",
+            "label": "2e journée",
+            "at": "2027-02-14T15:10:00+00:00",
+            "source": "https://www.ultimaterugby.com/news/2027-men-s-six-nations-fixtures-schedule-confirmed/664732"
+          },
+          {
+            "a": "Pays de Galles",
+            "b": "Irlande",
+            "date": "2027-02-20",
+            "label": "3e journée",
+            "at": "2027-02-20T14:10:00+00:00",
+            "source": "https://www.ultimaterugby.com/news/2027-men-s-six-nations-fixtures-schedule-confirmed/664732"
+          },
+          {
+            "a": "Angleterre",
+            "b": "Italie",
+            "date": "2027-02-20",
+            "label": "3e journée",
+            "at": "2027-02-20T16:40:00+00:00",
+            "source": "https://www.ultimaterugby.com/news/2027-men-s-six-nations-fixtures-schedule-confirmed/664732"
+          },
+          {
+            "a": "France",
+            "b": "Écosse",
+            "date": "2027-02-21",
+            "label": "3e journée",
+            "at": "2027-02-21T15:10:00+00:00",
+            "source": "https://www.ultimaterugby.com/news/2027-men-s-six-nations-fixtures-schedule-confirmed/664732"
+          },
+          {
+            "a": "Écosse",
+            "b": "Irlande",
+            "date": "2027-03-05",
+            "label": "4e journée",
+            "at": "2027-03-05T20:10:00+00:00",
+            "source": "https://www.ultimaterugby.com/news/2027-men-s-six-nations-fixtures-schedule-confirmed/664732"
+          },
+          {
+            "a": "Italie",
+            "b": "France",
+            "date": "2027-03-06",
+            "label": "4e journée",
+            "at": "2027-03-06T14:10:00+00:00",
+            "source": "https://www.ultimaterugby.com/news/2027-men-s-six-nations-fixtures-schedule-confirmed/664732"
+          },
+          {
+            "a": "Pays de Galles",
+            "b": "Angleterre",
+            "date": "2027-03-06",
+            "label": "4e journée",
+            "at": "2027-03-06T16:40:00+00:00",
+            "source": "https://www.ultimaterugby.com/news/2027-men-s-six-nations-fixtures-schedule-confirmed/664732"
+          },
+          {
+            "a": "Italie",
+            "b": "Pays de Galles",
+            "date": "2027-03-13",
+            "label": "5e journée",
+            "at": "2027-03-13T14:10:00+00:00",
+            "source": "https://www.ultimaterugby.com/news/2027-men-s-six-nations-fixtures-schedule-confirmed/664732"
+          },
+          {
+            "a": "Angleterre",
+            "b": "Écosse",
+            "date": "2027-03-13",
+            "label": "5e journée",
+            "at": "2027-03-13T16:40:00+00:00",
+            "source": "https://www.ultimaterugby.com/news/2027-men-s-six-nations-fixtures-schedule-confirmed/664732"
+          },
+          {
+            "a": "Irlande",
+            "b": "France",
+            "date": "2027-03-13",
+            "label": "5e journée",
+            "at": "2027-03-13T20:10:00+00:00",
+            "source": "https://www.ultimaterugby.com/news/2027-men-s-six-nations-fixtures-schedule-confirmed/664732"
+          }
+        ],
+        "entries": [
+          "Angleterre",
+          "Écosse",
+          "France",
+          "Irlande",
+          "Italie",
+          "Pays de Galles"
+        ],
+        "source": "https://www.irishrugby.ie/2026/03/09/guinness-mens-six-nations-fixtures-confirmed-for-2027"
+      },
+      "schedule": [
+        {
+          "label": "Match d'ouverture",
+          "at": "2027-02-05T20:10:00+00:00",
+          "source": "https://www.ultimaterugby.com/news/2027-men-s-six-nations-fixtures-schedule-confirmed/664732"
+        }
+      ]
+    },
+    {
+      "id": "boxe-mayweather-vs-garcia-2027",
+      "sport": "Boxe",
+      "name": "Mayweather vs Garcia",
+      "start": "2027-02-06",
+      "location": "Las Vegas (États-Unis)",
+      "url": "https://www.worldboxingnews.com/mayweather-garcia-hopkins-253-day-record/",
+      "source": "https://www.worldboxingnews.com/mayweather-garcia-hopkins-253-day-record/",
+      "tentative": true
+    },
+    {
+      "id": "football-americain-super-bowl-lxi-2027",
+      "sport": "Football américain",
+      "name": "Super Bowl LXI",
+      "start": "2027-02-14",
+      "end": "2027-02-14",
+      "location": "Inglewood, Californie (États-Unis)",
+      "url": "https://www.nfl.com",
+      "source": "https://www.nbcconnecticut.com/news/sports/nfl/super-bowl-61-location-2027-host-stadium-date-time-watch-tv-stream/3770160/",
+      "broadcasts": [
+        {
+          "name": "L'Équipe",
+          "free": true,
+          "source": "https://www.cbnews.fr/medias/droits-tv-les-groupes-equipe-france-televisions-investissent-football-americain",
+          "note": "La Chaîne L'Équipe, saison 2026-2027 avec le Super Bowl"
+        },
+        {
+          "name": "beIN Sports",
+          "free": false,
+          "source": "https://beinregie.beinsports.com/nfl-bein-sports-2026/"
+        },
+        {
+          "name": "DAZN",
+          "free": false,
+          "source": "https://www.sportbuzzbusiness.fr/comment-regarder-la-nfl-en-france-en-2026-2027.html",
+          "note": "Via NFL Game Pass (Season Pro)"
+        }
+      ]
+    },
+    {
+      "id": "basket-ball-nba-all-star-game-2027",
+      "sport": "Basket-ball",
+      "name": "NBA All-Star Game",
+      "start": "2027-02-19",
+      "end": "2027-02-21",
+      "location": "Phoenix (États-Unis)",
+      "url": "https://www.nba.com",
+      "source": "https://wikipedia.com/wiki/2027_in_sports",
+      "broadcasts": [
+        {
+          "name": "beIN Sports",
+          "free": false,
+          "source": "https://www.sportbuzzbusiness.fr/nba-2026-2027-sur-quelles-chaines-et-plateformes-de-streaming-regarder-les-matchs-en-france.html"
+        }
+      ]
+    },
+    {
+      "id": "boxe-usyk-vs-wilder-mars-2027-date-exacte-non-annoncee-2027",
+      "sport": "Boxe",
+      "name": "Usyk vs Wilder (mars 2027, date exacte non annoncée)",
+      "start": "2027-03-01",
+      "location": "Las Vegas (États-Unis)",
+      "url": "https://www.worldboxingnews.com/usyk-vs-wilder-march-2027-vegas-zuffa/",
+      "source": "https://www.worldboxingnews.com/usyk-vs-wilder-march-2027-vegas-zuffa/",
+      "tentative": true
+    },
+    {
+      "id": "motogp-gp-de-thailande-provisoire-2027",
+      "sport": "MotoGP",
+      "name": "GP de Thaïlande (provisoire)",
+      "start": "2027-03-05",
+      "end": "2027-03-07",
+      "location": "Buriram (Thaïlande)",
+      "url": "https://www.motogp.com",
+      "source": "https://www.moto-net.com/article/calendrier-provisoire-des-grands-prix-motogp-2027.html",
+      "broadcasts": [
+        {
+          "name": "Canal+",
+          "free": false,
+          "source": "https://www.motogp.com/fr/news/2021/08/30/canal-restera-diffuseur-exclusif-du-motogp-jusquen-2029/184939",
+          "note": "Droits exclusifs jusqu'en 2029 (au moins deux GP par saison en clair)"
+        }
+      ]
+    },
+    {
+      "id": "formule-1-gp-de-bahrein-2027",
+      "sport": "Formule 1",
+      "name": "GP de Bahreïn",
+      "start": "2027-03-12",
+      "end": "2027-03-14",
+      "location": "Bahreïn",
+      "url": "https://www.formula1.com",
+      "source": "https://lesvoitures.fr/calendrier-f1-2027-course-sprint-gp-de-monaco/",
+      "broadcasts": [
+        {
+          "name": "Canal+",
+          "free": false,
+          "source": "https://www.sportbuzzbusiness.fr/droits-tv-canal-prolonge-son-accord-exclusif-avec-la-formule-1-jusquen-2029.html",
+          "note": "Droits exclusifs jusqu'en 2029"
+        }
+      ]
+    },
+    {
+      "id": "motogp-gp-du-qatar-provisoire-2027",
+      "sport": "MotoGP",
+      "name": "GP du Qatar (provisoire)",
+      "start": "2027-03-12",
+      "end": "2027-03-14",
+      "location": "Lusail (Qatar)",
+      "url": "https://www.motogp.com",
+      "source": "https://www.moto-net.com/article/calendrier-provisoire-des-grands-prix-motogp-2027.html",
+      "broadcasts": [
+        {
+          "name": "Canal+",
+          "free": false,
+          "source": "https://www.motogp.com/fr/news/2021/08/30/canal-restera-diffuseur-exclusif-du-motogp-jusquen-2029/184939",
+          "note": "Droits exclusifs jusqu'en 2029 (au moins deux GP par saison en clair)"
+        }
+      ]
+    },
+    {
+      "id": "formule-1-gp-d-arabie-saoudite-2027",
+      "sport": "Formule 1",
+      "name": "GP d'Arabie saoudite",
+      "start": "2027-03-19",
+      "end": "2027-03-21",
+      "location": "Djeddah (Arabie saoudite)",
+      "url": "https://www.formula1.com",
+      "source": "https://lesvoitures.fr/calendrier-f1-2027-course-sprint-gp-de-monaco/",
+      "broadcasts": [
+        {
+          "name": "Canal+",
+          "free": false,
+          "source": "https://www.sportbuzzbusiness.fr/droits-tv-canal-prolonge-son-accord-exclusif-avec-la-formule-1-jusquen-2029.html",
+          "note": "Droits exclusifs jusqu'en 2029"
+        }
+      ]
+    },
+    {
+      "id": "karate-championnats-d-europe-de-karate-2027",
+      "sport": "Karaté",
+      "name": "Championnats d'Europe de karaté",
+      "start": "2027-03-24",
+      "end": "2027-03-28",
+      "location": "Marseille (France)",
+      "url": "https://www.wkf.net/continental-championships",
+      "source": "https://www.wkf.net/continental-championships"
+    },
+    {
+      "id": "formule-1-gp-d-australie-2027",
+      "sport": "Formule 1",
+      "name": "GP d'Australie",
+      "start": "2027-04-02",
+      "end": "2027-04-04",
+      "location": "Melbourne (Australie)",
+      "url": "https://www.formula1.com",
+      "source": "https://lesvoitures.fr/calendrier-f1-2027-course-sprint-gp-de-monaco/",
+      "broadcasts": [
+        {
+          "name": "Canal+",
+          "free": false,
+          "source": "https://www.sportbuzzbusiness.fr/droits-tv-canal-prolonge-son-accord-exclusif-avec-la-formule-1-jusquen-2029.html",
+          "note": "Droits exclusifs jusqu'en 2029"
+        }
+      ]
+    },
+    {
+      "id": "mma-ares-paris-avril-2027-2027",
+      "sport": "MMA",
+      "name": "ARES Paris (avril 2027)",
+      "start": "2027-04-02",
+      "location": "Paris (France)",
+      "url": "https://www.aresfighting.com/",
+      "source": "https://www.aresfighting.com/events/",
+      "tentative": true
+    },
+    {
+      "id": "motogp-gp-du-bresil-provisoire-2027",
+      "sport": "MotoGP",
+      "name": "GP du Brésil (provisoire)",
+      "start": "2027-04-02",
+      "end": "2027-04-04",
+      "location": "Goiânia (Brésil)",
+      "url": "https://www.motogp.com",
+      "source": "https://www.moto-net.com/article/calendrier-provisoire-des-grands-prix-motogp-2027.html",
+      "broadcasts": [
+        {
+          "name": "Canal+",
+          "free": false,
+          "source": "https://www.motogp.com/fr/news/2021/08/30/canal-restera-diffuseur-exclusif-du-motogp-jusquen-2029/184939",
+          "note": "Droits exclusifs jusqu'en 2029 (au moins deux GP par saison en clair)"
+        }
+      ]
+    },
+    {
+      "id": "lutte-championnats-d-europe-de-lutte-2027",
+      "sport": "Lutte",
+      "name": "Championnats d'Europe de lutte",
+      "start": "2027-04-05",
+      "end": "2027-04-11",
+      "location": "Budapest (Hongrie)",
+      "url": "https://uww.org/event/senior-european-championships-1/news",
+      "source": "https://uww.org/event/senior-european-championships-1/news"
+    },
+    {
+      "id": "golf-masters-2027",
+      "sport": "Golf",
+      "name": "Masters",
+      "start": "2027-04-08",
+      "end": "2027-04-11",
+      "location": "Augusta (États-Unis)",
+      "url": "https://www.masters.com",
+      "source": "https://thegolfnewsnet.com/ryan_ballengee/2026/05/16/future-golf-major-championship-venues-sites-dates-masters-us-open-british-open-pga-championship-101077/",
+      "broadcasts": [
+        {
+          "name": "Canal+",
+          "free": false,
+          "confirmed": false,
+          "source": "https://www.touslesforfaits.fr/box-internet/guides/sports/golf/masters",
+          "note": "Seule source : un guide grand public sans origine citée"
+        }
+      ]
+    },
+    {
+      "id": "formule-1-gp-du-japon-2027",
+      "sport": "Formule 1",
+      "name": "GP du Japon",
+      "start": "2027-04-09",
+      "end": "2027-04-11",
+      "location": "Japon",
+      "url": "https://www.formula1.com",
+      "source": "https://lesvoitures.fr/calendrier-f1-2027-course-sprint-gp-de-monaco/",
+      "broadcasts": [
+        {
+          "name": "Canal+",
+          "free": false,
+          "source": "https://www.sportbuzzbusiness.fr/droits-tv-canal-prolonge-son-accord-exclusif-avec-la-formule-1-jusquen-2029.html",
+          "note": "Droits exclusifs jusqu'en 2029"
+        }
+      ]
+    },
+    {
+      "id": "motogp-gp-d-argentine-provisoire-2027",
+      "sport": "MotoGP",
+      "name": "GP d'Argentine (provisoire)",
+      "start": "2027-04-09",
+      "end": "2027-04-11",
+      "location": "Buenos Aires (Argentine)",
+      "url": "https://www.motogp.com",
+      "source": "https://www.moto-net.com/article/calendrier-provisoire-des-grands-prix-motogp-2027.html",
+      "broadcasts": [
+        {
+          "name": "Canal+",
+          "free": false,
+          "source": "https://www.motogp.com/fr/news/2021/08/30/canal-restera-diffuseur-exclusif-du-motogp-jusquen-2029/184939",
+          "note": "Droits exclusifs jusqu'en 2029 (au moins deux GP par saison en clair)"
+        }
+      ]
+    },
+    {
+      "id": "boxe-championnats-du-monde-de-boxe-2027",
+      "sport": "Boxe",
+      "name": "Championnats du monde de boxe",
+      "start": "2027-04-12",
+      "end": "2027-04-25",
+      "location": "Astana (Kazakhstan)",
+      "url": "https://worldboxing.org/",
+      "source": "https://worldboxing.org/calendar/"
+    },
+    {
+      "id": "judo-championnats-d-europe-de-judo-2027",
+      "sport": "Judo",
+      "name": "Championnats d'Europe de judo",
+      "start": "2027-04-15",
+      "end": "2027-04-18",
+      "location": "Apeldoorn (Pays-Bas)",
+      "url": "https://www.eju.net/calendar/7030",
+      "source": "https://eju.net/news/10283/ticket-sales-now-open-for-the-senior-european-judo-championships-apeldoorn-2027"
+    },
+    {
+      "id": "formule-1-gp-de-chine-2027",
+      "sport": "Formule 1",
+      "name": "GP de Chine",
+      "start": "2027-04-16",
+      "end": "2027-04-18",
+      "location": "Chine",
+      "url": "https://www.formula1.com",
+      "source": "https://lesvoitures.fr/calendrier-f1-2027-course-sprint-gp-de-monaco/",
+      "broadcasts": [
+        {
+          "name": "Canal+",
+          "free": false,
+          "source": "https://www.sportbuzzbusiness.fr/droits-tv-canal-prolonge-son-accord-exclusif-avec-la-formule-1-jusquen-2029.html",
+          "note": "Droits exclusifs jusqu'en 2029"
+        }
+      ]
+    },
+    {
+      "id": "formule-1-gp-de-miami-2027",
+      "sport": "Formule 1",
+      "name": "GP de Miami",
+      "start": "2027-04-30",
+      "end": "2027-05-02",
+      "location": "Miami (États-Unis)",
+      "url": "https://www.formula1.com",
+      "source": "https://www.p1travel.com/fr/blog/formula-1-calendar-2027",
+      "broadcasts": [
+        {
+          "name": "Canal+",
+          "free": false,
+          "source": "https://www.sportbuzzbusiness.fr/droits-tv-canal-prolonge-son-accord-exclusif-avec-la-formule-1-jusquen-2029.html",
+          "note": "Droits exclusifs jusqu'en 2029"
+        }
+      ]
+    },
+    {
+      "id": "cyclisme-giro-d-italia-2027",
+      "sport": "Cyclisme",
+      "name": "Giro d'Italia",
+      "start": "2027-05-08",
+      "end": "2027-05-30",
+      "location": "Italie",
+      "url": "https://www.giroditalia.it",
+      "source": "https://www.cyclingnews.com/pro-cycling/racing/uci-reveals-2027-worldtour-racing-calendars-with-super-world-championships-in-france-forcing-changes/",
+      "broadcasts": [
+        {
+          "name": "Eurosport",
+          "free": false,
+          "source": "https://www.sportbusiness.club/cyclisme-warner-bros-discovery-conserve-les-droits-tv-du-giro/",
+          "note": "Accord WBD prolongé jusqu'en 2029 (Eurosport et HBO Max)"
+        },
+        {
+          "name": "HBO Max",
+          "free": false,
+          "source": "https://www.sportbusiness.club/cyclisme-warner-bros-discovery-conserve-les-droits-tv-du-giro/",
+          "note": "Direct et replay de toutes les étapes"
+        }
+      ]
+    },
+    {
+      "id": "motogp-gp-de-france-provisoire-2027",
+      "sport": "MotoGP",
+      "name": "GP de France (provisoire)",
+      "start": "2027-05-14",
+      "end": "2027-05-16",
+      "location": "Le Mans (France)",
+      "url": "https://www.motogp.com",
+      "source": "https://radiosports.fr/?p=20950",
+      "broadcasts": [
+        {
+          "name": "Canal+",
+          "free": false,
+          "source": "https://www.sportspro.com/news/motogp-wrc-rally-canal-plus-tv-rights-france/",
+          "note": "Droits exclusifs MotoGP jusqu'en 2029"
+        }
+      ]
+    },
+    {
+      "id": "golf-pga-championship-2027",
+      "sport": "Golf",
+      "name": "PGA Championship",
+      "start": "2027-05-20",
+      "end": "2027-05-23",
+      "location": "Frisco, Texas (États-Unis)",
+      "url": "https://www.pgachampionship.com",
+      "source": "https://golfreviewsguide.com/?p=116582",
+      "broadcasts": [
+        {
+          "name": "Canal+",
+          "free": false,
+          "confirmed": false,
+          "source": "https://www.sportbuzzbusiness.fr/droits-tv-golf-canal-prolonge-le-pga-tour-jusquen-2030.html",
+          "note": "Golf+ ; Article de décembre 2023 citant les quatre majeurs sur Canal+, sans date de fin publique des droits du PGA Championship."
+        }
+      ]
+    },
+    {
+      "id": "tennis-roland-garros-2027",
+      "sport": "Tennis",
+      "name": "Roland-Garros",
+      "start": "2027-05-23",
+      "end": "2027-06-06",
+      "location": "Paris (France)",
+      "url": "https://www.rolandgarros.com",
+      "source": "https://en.tennistemple.com/actu/atp-unveils-2027-calendar-as-2026-season/xpOS",
+      "broadcasts": [
+        {
+          "name": "France Télévisions",
+          "free": true,
+          "source": "https://www.tennisactu.net/news-roland-garros-france-televisions-prime-video-diffuseurs-jusqu-en-2027-101721.html",
+          "note": "France 2 / France 3 / France 4 / france.tv, sessions de jour (accord 2024-2027)"
+        },
+        {
+          "name": "Amazon Prime Video",
+          "free": false,
+          "source": "https://www.tennisactu.net/news-roland-garros-france-televisions-prime-video-diffuseurs-jusqu-en-2027-101721.html",
+          "note": "Sessions de soirée en exclusivité, demies et finales en codiffusion"
+        }
+      ]
+    },
+    {
+      "id": "football-finale-de-la-ligue-europa-2027",
+      "sport": "Football",
+      "name": "Finale de la Ligue Europa",
+      "start": "2027-05-26",
+      "end": "2027-05-26",
+      "location": "Francfort (Allemagne)",
+      "url": "https://www.uefa.com",
+      "source": "https://www.topendsports.com/fr/evenements/calendrier-football.htm",
+      "broadcasts": [
+        {
+          "name": "Canal+",
+          "free": false,
+          "source": "https://football-passion.fr/droits-tv-europa-league.php",
+          "note": "Tous les matchs jusqu'à la finale (saison 2026-2027)"
+        }
+      ]
+    },
+    {
+      "id": "cyclisme-giro-d-italia-women-2027",
+      "sport": "Cyclisme",
+      "name": "Giro d'Italia Women",
+      "start": "2027-05-29",
+      "end": "2027-06-06",
+      "location": "Italie",
+      "url": "https://www.giroditalia.it",
+      "source": "https://en.brujulabike.com/the-super-worlds-force-some-date-changes-uci-confirms-the-2027-worldtour-calendar/",
+      "broadcasts": [
+        {
+          "name": "Eurosport",
+          "free": false,
+          "source": "https://www.sportbusiness.club/cyclisme-warner-bros-discovery-conserve-les-droits-tv-du-giro/",
+          "note": "Accord WBD jusqu'en 2029 incluant le Giro Women"
+        },
+        {
+          "name": "HBO Max",
+          "free": false,
+          "source": "https://www.sportbusiness.club/cyclisme-warner-bros-discovery-conserve-les-droits-tv-du-giro/"
+        }
+      ]
+    },
+    {
+      "id": "escrime-championnats-d-europe-d-escrime-jeux-europeens-2027",
+      "sport": "Escrime",
+      "name": "Championnats d'Europe d'escrime (Jeux européens)",
+      "start": "2027-05-29",
+      "end": "2027-06-09",
+      "location": "Istanbul (Turquie)",
+      "url": "https://fie.org/tournaments/2027/165",
+      "source": "https://fie.org/tournaments/2027/165",
+      "tentative": true
+    },
+    {
+      "id": "formule-1-gp-de-monaco-2027",
+      "sport": "Formule 1",
+      "name": "GP de Monaco",
+      "start": "2027-06-04",
+      "end": "2027-06-06",
+      "location": "Monaco",
+      "url": "https://www.formula1.com",
+      "source": "https://www.p1travel.com/fr/blog/formula-1-calendar-2027",
+      "broadcasts": [
+        {
+          "name": "Canal+",
+          "free": false,
+          "source": "https://www.sportbuzzbusiness.fr/droits-tv-canal-prolonge-son-accord-exclusif-avec-la-formule-1-jusquen-2029.html",
+          "note": "Droits exclusifs F1 jusqu'en 2029"
+        }
+      ]
+    },
+    {
+      "id": "mma-ares-paris-juin-2027-2027",
+      "sport": "MMA",
+      "name": "ARES Paris (juin 2027)",
+      "start": "2027-06-04",
+      "location": "Paris (France)",
+      "url": "https://www.aresfighting.com/",
+      "source": "https://www.aresfighting.com/events/",
+      "tentative": true
+    },
+    {
+      "id": "football-finale-de-la-ligue-des-champions-2027",
+      "sport": "Football",
+      "name": "Finale de la Ligue des champions",
+      "start": "2027-06-05",
+      "end": "2027-06-05",
+      "location": "Madrid (Espagne)",
+      "url": "https://www.uefa.com",
+      "source": "https://www.uefa.com/uefachampionsleague/news/029d-1eb2d5faf53c-d67c9fed04fa-1000--2027-uefa-champions-league-final-estadio-metropolitano",
+      "broadcasts": [
+        {
+          "name": "Canal+",
+          "free": false,
+          "source": "https://www.goal.com/fr/news/chaines-programmation-repartition-des-lots-tout-sur-la-diffusion-de-la-ligue-des-champions-en-france-lors-de-la-periode-2024-2027/blt62835a9391691c15",
+          "note": "Cycle 2024-2027"
+        },
+        {
+          "name": "M6",
+          "free": true,
+          "source": "https://www.goal.com/fr/news/chaines-programmation-repartition-des-lots-tout-sur-la-diffusion-de-la-ligue-des-champions-en-france-lors-de-la-periode-2024-2027/blt62835a9391691c15",
+          "note": "Finale en clair (cycle 2024-2027), M6 / M6+"
+        }
+      ],
+      "schedule": [
+        {
+          "label": "Finale",
+          "at": "2027-06-05T18:00:00+02:00",
+          "source": "https://sports.yahoo.com/articles/where-next-years-champions-league-183833215.html"
+        }
+      ]
+    },
+    {
+      "id": "judo-championnats-du-monde-de-judo-2027",
+      "sport": "Judo",
+      "name": "Championnats du monde de judo",
+      "start": "2027-06-07",
+      "end": "2027-06-14",
+      "location": "Astana (Kazakhstan)",
+      "url": "https://www.ijf.org/",
+      "source": "https://judoinside.com/news/8288/Kazakhstans_next_World_Championships_will_be_personal",
+      "broadcasts": [
+        {
+          "name": "RMC Sport",
+          "free": false,
+          "confirmed": false,
+          "source": "https://www.ijf.org/news/show/the-world-judo-tour-the-paris-grand-slam-and-the-judo-pro-league-on-rmc-sport",
+          "note": "Accord de janvier 2025 sans durée publiée"
+        }
+      ]
+    },
+    {
+      "id": "sport-auto-24-heures-du-mans-2027",
+      "sport": "Sport auto",
+      "name": "24 Heures du Mans",
+      "start": "2027-06-09",
+      "end": "2027-06-13",
+      "location": "Le Mans (France)",
+      "url": "https://www.24h-lemans.com",
+      "source": "https://www.24h-lemans.com/en/news/95th-24-hours-of-le-mans-see-you-on-9-13-june-2027-60819",
+      "broadcasts": [
+        {
+          "name": "L'Équipe",
+          "free": true,
+          "source": "https://fr.motorsport.com/wec/news/24-heures-mans-wec-diffusion-clair/10774011/",
+          "note": "La chaîne L'Équipe et sa plateforme numérique, accord renouvelé couvrant 2027"
+        }
+      ],
+      "schedule": [
+        {
+          "label": "Départ",
+          "at": "2027-06-12T16:00:00+02:00",
+          "source": "https://www.24h-lemans.com/en/schedule"
+        }
+      ]
+    },
+    {
+      "id": "basket-ball-eurobasket-feminin-2027",
+      "sport": "Basket-ball",
+      "name": "EuroBasket féminin",
+      "start": "2027-06-16",
+      "end": "2027-06-27",
+      "location": "Belgique, Finlande, Lituanie et Suède",
+      "url": "https://www.fiba.basketball",
+      "source": "https://www.fiba.basketball/events",
+      "broadcasts": [
+        {
+          "name": "TF1",
+          "free": true,
+          "source": "https://about.fiba.basketball/fr/news/fiba-broadcast-partnership-sees-tf1-group-become-the-home-of-french-national-team",
+          "note": "Matchs des Bleues uniquement, sur TF1 / TMC / TFX / TF1+"
+        },
+        {
+          "name": "beIN Sports",
+          "free": false,
+          "source": "https://www.basketeurope.com/bein-sports-diffusera-les-competition-internationales-jusquen-2029/",
+          "note": "Compétitions FIBA jusqu'en 2029"
+        }
+      ]
+    },
+    {
+      "id": "golf-us-open-2027",
+      "sport": "Golf",
+      "name": "US Open",
+      "start": "2027-06-17",
+      "end": "2027-06-20",
+      "location": "Pebble Beach (États-Unis)",
+      "url": "https://www.usopen.com",
+      "source": "https://www.skysports.com/golf/news/12040/13563739/golf-majors-in-2027-schedule-dates-venues-for-the-open-us-open-ryder-cup-and-more",
+      "broadcasts": [
+        {
+          "name": "Canal+",
+          "free": false,
+          "confirmed": false,
+          "source": "https://www.sportbuzzbusiness.fr/droits-tv-golf-canal-prolonge-le-pga-tour-jusquen-2030.html",
+          "note": "Golf+ ; Article de décembre 2023 citant les quatre majeurs sur Canal+, sans date de fin publique des droits de l'US Open."
+        }
+      ]
+    },
+    {
+      "id": "formule-1-gp-du-portugal-2027",
+      "sport": "Formule 1",
+      "name": "GP du Portugal",
+      "start": "2027-06-18",
+      "end": "2027-06-20",
+      "location": "Portimão (Portugal)",
+      "url": "https://www.formula1.com",
+      "source": "https://www.p1travel.com/fr/blog/formula-1-calendar-2027",
+      "broadcasts": [
+        {
+          "name": "Canal+",
+          "free": false,
+          "source": "https://www.sportbuzzbusiness.fr/droits-tv-canal-prolonge-son-accord-exclusif-avec-la-formule-1-jusquen-2029.html",
+          "note": "Droits exclusifs F1 jusqu'en 2029"
+        }
+      ]
+    },
+    {
+      "id": "football-coupe-d-afrique-des-nations-can-2027",
+      "sport": "Football",
+      "name": "Coupe d'Afrique des nations (CAN)",
+      "start": "2027-06-19",
+      "end": "2027-07-17",
+      "location": "Kenya, Tanzanie et Ouganda",
+      "url": "https://www.cafonline.com",
+      "source": "https://fr.allafrica.com/stories/202604290155.html",
+      "broadcasts": [
+        {
+          "name": "beIN Sports",
+          "free": false,
+          "source": "https://sabonner.beinsports.com/",
+          "note": "100 % des matchs en exclusivité"
+        }
+      ]
+    },
+    {
+      "id": "football-coupe-du-monde-feminine-de-la-fifa-2027",
+      "sport": "Football",
+      "name": "Coupe du monde féminine de la FIFA",
+      "start": "2027-06-24",
+      "end": "2027-07-25",
+      "location": "Brésil",
+      "url": "https://www.fifa.com",
+      "source": "https://inside.fifa.com/fr/news/confirmation-des-dates-de-la-coupe-du-monde-feminine-de-la-fifa-bresil-2027",
+      "broadcasts": [
+        {
+          "name": "M6",
+          "free": true,
+          "source": "https://www.ozap.com/actu/football-m6-soffre-les-droits-de-diffusion-exclusifs-en-france-de-la-coupe-du-monde-feminine-2027/650583",
+          "note": "Droits exclusifs, au moins 33 matchs en clair"
+        }
+      ]
+    },
+    {
+      "id": "natation-championnats-du-monde-world-aquatics-2027",
+      "sport": "Natation",
+      "name": "Championnats du monde World Aquatics",
+      "start": "2027-06-26",
+      "end": "2027-07-18",
+      "location": "Budapest (Hongrie)",
+      "url": "https://www.worldaquatics.com",
+      "source": "https://radiosports.fr/?p=20959",
+      "broadcasts": [
+        {
+          "name": "France Télévisions",
+          "free": true,
+          "source": "https://www.ebu.ch/news/2026/11/ebu-and-world-aquatics-renew-partnership-through-2032",
+          "note": "Accord UER / World Aquatics jusqu'en 2032, FTV parmi les membres couverts"
+        }
+      ]
+    },
+    {
+      "id": "tennis-wimbledon-2027",
+      "sport": "Tennis",
+      "name": "Wimbledon",
+      "start": "2027-06-28",
+      "end": "2027-07-11",
+      "location": "Londres (Royaume-Uni)",
+      "url": "https://www.wimbledon.com",
+      "source": "https://www.basket-mag.com/wimbledon-2027-dates-billets-prix/",
+      "broadcasts": [
+        {
+          "name": "beIN Sports",
+          "free": false,
+          "source": "https://www.sportbuzzbusiness.fr/droits-tv-bein-sports-conserve-wimbledon-sur-2024-2028.html",
+          "note": "Diffuseur exclusif jusqu'en 2028"
+        }
+      ]
+    },
+    {
+      "id": "cyclisme-tour-de-france-2027",
+      "sport": "Cyclisme",
+      "name": "Tour de France",
+      "start": "2027-07-02",
+      "end": "2027-07-25",
+      "location": "Royaume-Uni (Grand Départ à Édimbourg) et France",
+      "url": "https://www.letour.fr",
+      "source": "https://en.brujulabike.com/the-super-worlds-force-some-date-changes-uci-confirms-the-2027-worldtour-calendar/",
+      "broadcasts": [
+        {
+          "name": "France Télévisions",
+          "free": true,
+          "source": "https://www.sportbuzzbusiness.fr/droits-tv-france-televisions-signe-un-nouveau-contrat-avec-le-tour-de-france-pour-le-cycle-2026-2030.html",
+          "note": "Contrat ASO 2026-2030 ; Eurosport exclu en France pour le Tour"
+        }
+      ]
+    },
+    {
+      "id": "formule-1-gp-de-grande-bretagne-2027",
+      "sport": "Formule 1",
+      "name": "GP de Grande-Bretagne",
+      "start": "2027-07-02",
+      "end": "2027-07-04",
+      "location": "Silverstone (Royaume-Uni)",
+      "url": "https://www.formula1.com",
+      "source": "https://www.p1travel.com/fr/blog/formula-1-calendar-2027",
+      "broadcasts": [
+        {
+          "name": "Canal+",
+          "free": false,
+          "source": "https://www.sportbuzzbusiness.fr/droits-tv-canal-prolonge-son-accord-exclusif-avec-la-formule-1-jusquen-2029.html",
+          "note": "Exclusivité jusqu'en 2029"
+        }
+      ]
+    },
+    {
+      "id": "taekwondo-championnats-du-monde-de-taekwondo-2027",
+      "sport": "Taekwondo",
+      "name": "Championnats du monde de taekwondo",
+      "start": "2027-07-07",
+      "end": "2027-07-13",
+      "location": "Astana (Kazakhstan)",
+      "url": "https://www.worldtaekwondo.org/",
+      "source": "https://www.worldtaekwondo.org/calendar/event-calendar/view?typeCd=TW&detailsKey=26890&year=2027&q="
+    },
+    {
+      "id": "golf-the-open-2027",
+      "sport": "Golf",
+      "name": "The Open",
+      "start": "2027-07-15",
+      "end": "2027-07-18",
+      "location": "St Andrews (Écosse)",
+      "url": "https://www.theopen.com",
+      "source": "https://www.skysports.com/golf/news/12040/13563739/golf-majors-in-2027-schedule-dates-venues-for-the-open-us-open-ryder-cup-and-more",
+      "broadcasts": [
+        {
+          "name": "Canal+",
+          "free": false,
+          "confirmed": false,
+          "source": "https://www.sportbuzzbusiness.fr/droits-tv-golf-canal-prolonge-le-pga-tour-jusquen-2030.html",
+          "note": "Golf+ ; Article de décembre 2023 citant les quatre majeurs sur Canal+, sans date de fin publique des droits de The Open."
+        }
+      ]
+    },
+    {
+      "id": "escrime-championnats-du-monde-d-escrime-2027",
+      "sport": "Escrime",
+      "name": "Championnats du monde d'escrime",
+      "start": "2027-07-20",
+      "end": "2027-07-28",
+      "location": "Tachkent (Ouzbékistan)",
+      "url": "https://fie.org/tournaments/2027/169",
+      "source": "https://fie.org/tournaments/2027/169"
+    },
+    {
+      "id": "cyclisme-tour-de-france-femmes-2027",
+      "sport": "Cyclisme",
+      "name": "Tour de France Femmes",
+      "start": "2027-07-30",
+      "end": "2027-08-07",
+      "location": "Royaume-Uni (Grand Départ) et France",
+      "url": "https://www.letour.fr",
+      "source": "https://en.brujulabike.com/the-super-worlds-force-some-date-changes-uci-confirms-the-2027-worldtour-calendar/",
+      "broadcasts": [
+        {
+          "name": "France Télévisions",
+          "free": true,
+          "source": "https://www.sportbuzzbusiness.fr/droits-tv-france-televisions-signe-un-nouveau-contrat-avec-le-tour-de-france-pour-le-cycle-2026-2030.html",
+          "note": "Inclus dans le contrat ASO 2026-2030"
+        }
+      ]
+    },
+    {
+      "id": "cyclisme-championnats-du-monde-uci-super-worlds-2027",
+      "sport": "Cyclisme",
+      "name": "Championnats du monde UCI (Super Worlds)",
+      "start": "2027-08-24",
+      "end": "2027-09-05",
+      "location": "Haute-Savoie (France)",
+      "url": "https://www.uci.org",
+      "source": "https://www.copaci.org/en/the-2027-super-cycling-world-championships-have-their-venues/",
+      "broadcasts": [
+        {
+          "name": "France Télévisions",
+          "free": true,
+          "source": "https://www.uci.org/pressrelease/2027-uci-cycling-world-championships-to-receive-extensive-coverage-on-france/4xRAneWxkffpakUor1sE3V",
+          "note": "Diffuseur hôte, toutes les épreuves sur les antennes du groupe et france.tv"
+        }
+      ]
+    },
+    {
+      "id": "netball-coupe-du-monde-de-netball-2027",
+      "sport": "Netball",
+      "name": "Coupe du monde de netball",
+      "start": "2027-08-25",
+      "end": "2027-09-05",
+      "location": "Australie",
+      "url": "https://netballworldcup.com",
+      "source": "https://mysportstourist.com/sports-events-calendar/biggest-sports-events-of-2027",
+      "participants": {
+        "type": "teams",
+        "entries": [
+          "Australie",
+          "Nouvelle-Zélande",
+          "Jamaïque",
+          "Angleterre",
+          "Afrique du Sud",
+          "Ouganda",
+          "Singapour",
+          "Hong Kong (Chine)",
+          "Tonga",
+          "Samoa",
+          "Malawi",
+          "Namibie",
+          "Écosse",
+          "Irlande du Nord",
+          "Trinité-et-Tobago",
+          "Saint-Vincent-et-les-Grenadines"
+        ],
+        "source": "https://netball.sport/events-and-results/netball-world-cup/"
+      }
+    },
+    {
+      "id": "basket-ball-coupe-du-monde-fiba-masculine-2027",
+      "sport": "Basket-ball",
+      "name": "Coupe du monde FIBA masculine",
+      "start": "2027-08-27",
+      "end": "2027-09-12",
+      "location": "Doha (Qatar)",
+      "url": "https://www.fiba.basketball",
+      "source": "https://wikipedia.com/wiki/2027_FIBA_Basketball_World_Cup",
+      "broadcasts": [
+        {
+          "name": "beIN Sports",
+          "free": false,
+          "source": "https://beinregie.beinsports.com/fiba-bein-sports-2029/",
+          "note": "Compétitions FIBA jusqu'en 2029, Coupe du monde 2027 citée"
+        },
+        {
+          "name": "TF1",
+          "free": true,
+          "source": "https://about.fiba.basketball/fr/news/fiba-broadcast-partnership-sees-tf1-group-become-the-home-of-french-national-team",
+          "note": "Matchs des équipes de France uniquement, accord jusqu'en 2029"
+        }
+      ]
+    },
+    {
+      "id": "tennis-us-open-2027",
+      "sport": "Tennis",
+      "name": "US Open",
+      "start": "2027-08-29",
+      "end": "2027-09-12",
+      "location": "New York (États-Unis)",
+      "url": "https://www.usopen.org",
+      "source": "https://en.tennistemple.com/actu/atp-unveils-2027-calendar-as-2026-season/xpOS",
+      "broadcasts": [
+        {
+          "name": "Eurosport",
+          "free": false,
+          "confirmed": false,
+          "source": "https://alloforfait.fr/actualites/115800-eurosport-garde-droits-francais-us-open-2032.html",
+          "note": "Fin de contrat donnée par une seule source secondaire"
+        }
+      ]
+    },
+    {
+      "id": "cyclisme-vuelta-a-espana-2027",
+      "sport": "Cyclisme",
+      "name": "Vuelta a España",
+      "start": "2027-09-04",
+      "end": "2027-09-26",
+      "location": "Espagne",
+      "url": "https://www.lavuelta.es",
+      "source": "https://www.cyclingnews.com/pro-cycling/racing/uci-reveals-2027-worldtour-racing-calendars-with-super-world-championships-in-france-forcing-changes/",
+      "broadcasts": [
+        {
+          "name": "Eurosport",
+          "free": false,
+          "source": "https://www.cyclismactu.net/news-route-tour-de-france-un-nouvel-accord-de-diffusion-signe-par-a-s-o-jusqu-en-2030-84842.html",
+          "note": "Sous-licence UER jusqu'en 2030, la Vuelta incluse pour la France ; accessible via HBO Max"
+        }
+      ]
+    },
+    {
+      "id": "athletisme-championnats-du-monde-d-athletisme-2027",
+      "sport": "Athlétisme",
+      "name": "Championnats du monde d'athlétisme",
+      "start": "2027-09-10",
+      "end": "2027-09-19",
+      "location": "Pékin (Chine)",
+      "url": "https://worldathletics.org",
+      "source": "https://worldathletics.org/competitions/world-athletics-championships/beijing27/news/press-releases/logo-mascot-slogan-beijing-27",
+      "broadcasts": [
+        {
+          "name": "France Télévisions",
+          "free": true,
+          "source": "https://stadion-actu.fr/les-championnats-du-monde-dathletisme-sur-france-televisions-jusquen-2029/",
+          "note": "Droits 2024-2029 via l'UER, en direct et en clair"
+        }
+      ]
+    },
+    {
+      "id": "lutte-championnats-du-monde-de-lutte-2027",
+      "sport": "Lutte",
+      "name": "Championnats du monde de lutte",
+      "start": "2027-09-11",
+      "end": "2027-09-19",
+      "location": "Las Vegas (États-Unis)",
+      "url": "https://uww.org/",
+      "source": "https://uww.org/articles/las-vegas-host-2027-world-championships"
+    },
+    {
+      "id": "golf-ryder-cup-2027",
+      "sport": "Golf",
+      "name": "Ryder Cup",
+      "start": "2027-09-17",
+      "end": "2027-09-19",
+      "location": "Adare Manor (Irlande)",
+      "url": "https://www.rydercup.com",
+      "source": "https://www.golfmagic.com/tour/ryder-cup/confirmed-dates-revealed-2027-ryder-cup-adare-manor",
+      "broadcasts": [
+        {
+          "name": "Canal+",
+          "free": false,
+          "source": "https://www.rydercup.com/content/international-broadcast-providers",
+          "note": "Liste officielle des diffuseurs de l'édition 2027"
+        }
+      ],
+      "participants": {
+        "type": "teams",
+        "matches": [
+          {
+            "a": "Europe",
+            "b": "États-Unis",
+            "label": "Capitaines : Luke Donald / Jim Furyk"
+          }
+        ],
+        "source": "https://en.wikipedia.org/wiki/2027_Ryder_Cup"
+      }
+    },
+    {
+      "id": "rugby-coupe-du-monde-de-rugby-masculine-2027",
+      "sport": "Rugby",
+      "name": "Coupe du monde de rugby masculine",
+      "start": "2027-10-01",
+      "end": "2027-11-13",
+      "location": "Australie",
+      "url": "https://www.rugbyworldcup.com",
+      "source": "https://www.rugbyworldcup.com/2027/fr",
+      "broadcasts": [
+        {
+          "name": "TF1",
+          "free": true,
+          "source": "https://www.sportbuzzbusiness.fr/droits-tv-tf1-soffre-la-coupe-du-monde-de-rugby-2027-et-la-nouvelle-coupe-des-nations.html",
+          "note": "Droits exclusifs en clair"
+        }
+      ],
+      "participants": {
+        "type": "teams",
+        "matches": [
+          {
+            "a": "Australie",
+            "b": "Hong Kong (Chine)",
+            "date": "2027-10-01",
+            "label": "Match d'ouverture",
+            "at": "2027-10-01T18:45:00+08:00",
+            "source": "https://www.rugby.com.au/news/2027-rugby-world-cup-fixtures-matches-schedule-wallabies-games-how-to-watch-202622"
+          }
+        ],
+        "entries": [
+          "Nouvelle-Zélande",
+          "Australie",
+          "Chili",
+          "Hong Kong (Chine)",
+          "Afrique du Sud",
+          "Italie",
+          "Géorgie",
+          "Roumanie",
+          "Argentine",
+          "Fidji",
+          "Espagne",
+          "Canada",
+          "Irlande",
+          "Écosse",
+          "Uruguay",
+          "Portugal",
+          "France",
+          "Japon",
+          "États-Unis",
+          "Samoa",
+          "Angleterre",
+          "Pays de Galles",
+          "Tonga",
+          "Zimbabwe"
+        ],
+        "source": "https://www.world.rugby/news/1019390/pools-confirmed-for-mens-rugby-world-cup-2027-in-australia?lang=en"
+      },
+      "schedule": [
+        {
+          "label": "Match d'ouverture",
+          "at": "2027-10-01T18:45:00+08:00",
+          "source": "https://www.rugby.com.au/news/2027-rugby-world-cup-fixtures-matches-schedule-wallabies-games-how-to-watch-202622"
+        },
+        {
+          "label": "Finale",
+          "at": "2027-11-13T20:00:00+11:00",
+          "source": "https://www.rugby.com.au/news/2027-rugby-world-cup-fixtures-matches-schedule-wallabies-games-how-to-watch-202622"
+        }
+      ]
+    },
+    {
+      "id": "cricket-coupe-du-monde-masculine-de-cricket-icc-2027",
+      "sport": "Cricket",
+      "name": "Coupe du monde masculine de cricket (ICC)",
+      "start": "2027-10-04",
+      "end": "2027-11-21",
+      "location": "Afrique du Sud, Namibie et Zimbabwe",
+      "url": "https://www.icc-cricket.com",
+      "source": "https://content.sport-social.co.uk/blog/2027-sporting-calendar-major-sports-events"
+    },
+    {
+      "id": "karate-championnats-du-monde-de-karate-phase-de-qualification-2027",
+      "sport": "Karaté",
+      "name": "Championnats du monde de karaté (phase de qualification)",
+      "start": "2027-10-08",
+      "end": "2027-10-10",
+      "location": "Rabat (Maroc)",
+      "url": "https://www.wkf.net/world-championships/championship/!/464/2027-senior-world-championships-qualification-phase-event",
+      "source": "https://www.wkf.net/news-center/article/!/3250/wkf-launches-2027-competition-calendar-featuring-packed-international-season",
+      "tentative": true
+    },
+    {
+      "id": "sport-auto-rallye-du-maroc-finale-w2rc-2027",
+      "sport": "Sport auto",
+      "name": "Rallye du Maroc (finale W2RC)",
+      "start": "2027-10-24",
+      "end": "2027-10-29",
+      "location": "Maroc",
+      "url": "https://www.fia.com",
+      "source": "https://api.fia.com/news/fia-approves-five-round-2027-world-rally-raid-championship-calendar"
+    },
+    {
+      "id": "karate-championnats-du-monde-de-karate-2027",
+      "sport": "Karaté",
+      "name": "Championnats du monde de karaté",
+      "start": "2027-11-11",
+      "end": "2027-11-14",
+      "location": "Milan-Bergame (Italie)",
+      "url": "https://www.wkf.net/world-championships/championship/!/465/2027-world-senior-championships-final-phase-event",
+      "source": "https://www.wkf.net/world-championships/championship/!/465/2027-world-senior-championships-final-phase-event"
+    },
+    {
+      "id": "motogp-gp-d-australie-provisoire-2027",
+      "sport": "MotoGP",
+      "name": "GP d'Australie (provisoire)",
+      "start": "2027-11-12",
+      "end": "2027-11-14",
+      "location": "Adélaïde (Australie)",
+      "url": "https://www.motogp.com",
+      "source": "https://ultimatemotorcycling.com/2026/09/27/2027-motogp-schedule/",
+      "broadcasts": [
+        {
+          "name": "Canal+",
+          "free": false,
+          "source": "https://www.paddock-gp.com/motogp-canal-prolonge-jusquen-2029/",
+          "note": "Exclusivité jusqu'en 2029"
+        }
+      ]
+    },
+    {
+      "id": "motogp-gp-de-valence-provisoire-2027",
+      "sport": "MotoGP",
+      "name": "GP de Valence (provisoire)",
+      "start": "2027-11-26",
+      "end": "2027-11-28",
+      "location": "Cheste (Espagne)",
+      "url": "https://www.motogp.com",
+      "source": "https://ultimatemotorcycling.com/2026/09/27/2027-motogp-schedule/",
+      "broadcasts": [
+        {
+          "name": "Canal+",
+          "free": false,
+          "source": "https://www.paddock-gp.com/motogp-canal-prolonge-jusquen-2029/",
+          "note": "Exclusivité jusqu'en 2029"
+        }
+      ]
+    },
+    {
+      "id": "football-coupe-d-asie-des-nations-afc-asian-cup-2027",
+      "sport": "Football",
+      "name": "Coupe d'Asie des nations (AFC Asian Cup, dates soumises à l'approbation de la FIFA)",
+      "start": "2027-12-23",
+      "end": "2028-01-21",
+      "location": "Arabie saoudite",
+      "url": "https://www.the-afc.com",
+      "source": "https://www.the-afc.com/en/national/afc_asian_cup.html/news/important-update-afc-asian-cup-saudi-arabia-2027%E2%84%A2",
+      "participants": {
+        "type": "teams",
+        "entries": [
+          "Arabie saoudite",
+          "Koweït",
+          "Oman",
+          "Palestine",
+          "Ouzbékistan",
+          "Bahreïn",
+          "Corée du Nord",
+          "Jordanie",
+          "Iran",
+          "Syrie",
+          "Kirghizistan",
+          "Chine",
+          "Australie",
+          "Tadjikistan",
+          "Irak",
+          "Singapour",
+          "Corée du Sud",
+          "Émirats arabes unis",
+          "Viêt Nam",
+          "Yémen",
+          "Japon",
+          "Qatar",
+          "Thaïlande",
+          "Indonésie"
+        ],
+        "source": "https://en.wikipedia.org/wiki/2027_AFC_Asian_Cup"
+      }
+    }
+  ],
+  "pending": [
+    {
+      "id": "fifa-wc-2026-source",
+      "kind": "uncertain",
+      "events": [
+        "football-coupe-du-monde-masculine-de-la-fifa-2026"
+      ],
+      "title": "Source des dates inadaptée",
+      "detail": "La source enregistrée pour les dates renvoie vers une page sur le Tour de France. Les dates sont exactes mais la source doit être remplacée par une page FIFA.",
+      "since": "2026-11-11"
+    },
+    {
+      "id": "rugby-nations-championship-tf1",
+      "kind": "uncertain",
+      "events": [
+        "rugby-nations-championship-2026"
+      ],
+      "title": "Diffusion TF1 : étendue non confirmée",
+      "detail": "TF1 est retenu d'après un blog. Les articles sur l'accord évoquent 7 matchs en 2026 : TF1 ne diffuse peut-être pas toutes les rencontres hors XV de France.",
+      "since": "2026-11-11"
+    },
+    {
+      "id": "six-nations-2027-tf1",
+      "kind": "uncertain",
+      "events": [
+        "rugby-tournoi-des-six-nations-masculin-2027"
+      ],
+      "title": "Partage avec TF1 possible",
+      "detail": "France Télévisions a l'exclusivité 2026-2029, mais une partie des matchs 2026 a été cédée à TF1. Aucune annonce officielle pour 2027 ; une source secondaire indique que tout reste sur France TV.",
+      "since": "2026-11-11"
+    },
+    {
+      "id": "ski-alpin-eurosport",
+      "kind": "uncertain",
+      "events": [
+        "ski-alpin-coupe-du-monde-de-ski-alpin-2026-2027-2026"
+      ],
+      "title": "Diffusion Eurosport fondée sur les grilles TV",
+      "detail": "Aucune annonce officielle des droits 2026-27 ; seules les grilles TV de Sölden citent Eurosport. Diffusion en clair sur L'Équipe non confirmée cette saison.",
+      "since": "2026-11-11"
+    },
+    {
+      "id": "masters-canal",
+      "kind": "uncertain",
+      "events": [
+        "golf-masters-2027"
+      ],
+      "title": "Diffuseur non confirmé : Canal+",
+      "detail": "Affiché comme non confirmé : seul un guide grand public sans source cite Canal+ jusqu’en 2030, probablement par confusion avec l’accord PGA Tour.",
+      "since": "2026-11-11"
+    },
+    {
+      "id": "golf-majors-tv",
+      "kind": "uncertain",
+      "events": [
+        "golf-pga-championship-2027",
+        "golf-us-open-2027",
+        "golf-the-open-2027"
+      ],
+      "title": "Canal+ non confirmé pour les majeurs 2027",
+      "detail": "Affiché comme non confirmé : un article de décembre 2023 cite les quatre majeurs sur Canal+ (Golf+), sans date de fin publique des droits.",
+      "since": "2026-11-11"
+    },
+    {
+      "id": "davis-cup-bein",
+      "kind": "uncertain",
+      "events": [
+        "tennis-davis-cup-finals-2026"
+      ],
+      "title": "Diffuseur non confirmé : beIN Sports",
+      "detail": "Affiché comme non confirmé : beIN Sports n’est cité que par un site secondaire.",
+      "since": "2026-11-11"
+    },
+    {
+      "id": "us-open-tennis-eurosport",
+      "kind": "uncertain",
+      "events": [
+        "tennis-us-open-2027"
+      ],
+      "title": "Diffuseur non confirmé : Eurosport",
+      "detail": "Affiché comme non confirmé : Eurosport a signé un accord « pluriannuel » en 2023, seule une source secondaire en donne la fin (2032).",
+      "since": "2026-11-11"
+    },
+    {
+      "id": "handball-wc-free",
+      "kind": "uncertain",
+      "events": [
+        "handball-championnat-du-monde-masculin-2027"
+      ],
+      "title": "Diffuseur en clair des Bleus non confirmé",
+      "detail": "TF1 est affiché comme non confirmé d’après un site peu fiable ; d’autres guides citent France Télévisions. beIN Sports est confirmé.",
+      "since": "2026-11-11"
+    },
+    {
+      "id": "judo-rmc",
+      "kind": "uncertain",
+      "events": [
+        "judo-masters-mondiaux-de-judo-2026",
+        "judo-grand-chelem-de-paris-2027",
+        "judo-championnats-d-europe-de-judo-2027",
+        "judo-championnats-du-monde-de-judo-2027"
+      ],
+      "title": "RMC Sport non confirmé pour le judo 2027",
+      "detail": "Affiché comme non confirmé pour le Grand Chelem de Paris et les Mondiaux : l’accord de janvier 2025 n’a pas de durée publiée et ne cite ni le World Masters ni les championnats d’Europe.",
+      "since": "2026-11-11",
+      "sources": [
+        "https://www.ijf.org/news/show/the-world-judo-tour-the-paris-grand-slam-and-the-judo-pro-league-on-rmc-sport"
+      ]
+    },
+    {
+      "id": "boxing-dazn-france",
+      "kind": "uncertain",
+      "events": [
+        "boxe-benavidez-vs-cieslak-unification-poids-lourds-legers-2026",
+        "boxe-bivol-vs-smith-championnat-du-monde-unifie-poids-mi-lourds-2026",
+        "boxe-lara-vs-tszyu-championnat-du-monde-wba-poids-moyens-2026",
+        "boxe-haney-vs-paro-unification-poids-welters-2026",
+        "boxe-bank-vs-alimkhanuly-championnat-du-monde-wbo-poids-super-moyens-2027"
+      ],
+      "title": "DAZN non confirmé en France",
+      "detail": "Affiché comme non confirmé : Benavidez vs Cieslak, Bivol vs Smith et Lara vs Tszyu figurent au calendrier DAZN sans confirmation pour la France. Rien pour Haney vs Paro et Bank vs Alimkhanuly.",
+      "since": "2026-11-11"
+    },
+    {
+      "id": "lara-tszyu-date",
+      "kind": "uncertain",
+      "events": [
+        "boxe-lara-vs-tszyu-championnat-du-monde-wba-poids-moyens-2026"
+      ],
+      "title": "Date locale : 12 ou 13 décembre",
+      "detail": "Les sources se contredisent ; le 12 est retenu d'après l'horaire DAZN (9 h GMT, samedi soir en Australie).",
+      "since": "2026-11-11"
+    },
+    {
+      "id": "fury-joshua-title",
+      "kind": "uncertain",
+      "events": [
+        "boxe-fury-vs-joshua-poids-lourds-2026"
+      ],
+      "title": "Titre en jeu incertain",
+      "detail": "Le calendrier ESPN mentionne une ceinture WBA « super » vacante, ESPN et Netflix disent qu'aucune ceinture n'est en jeu. Le nom reste neutre.",
+      "since": "2026-11-11"
+    },
+    {
+      "id": "pfl-mvp",
+      "kind": "uncertain",
+      "events": [
+        "mma-pfl-lyon-2026"
+      ],
+      "title": "Changement de marque PFL annoncé",
+      "detail": "Selon la presse, la PFL passerait sous la marque MVP au 1er janvier 2027. Non vérifié.",
+      "since": "2026-11-11"
+    },
+    {
+      "id": "afc-asian-cup-fifa",
+      "kind": "uncertain",
+      "events": [
+        "football-coupe-d-asie-des-nations-afc-asian-cup-2027"
+      ],
+      "title": "Nouvelles dates à approuver par la FIFA",
+      "detail": "Report annoncé par l'AFC le 3 novembre 2026 : 23 décembre 2027 au 21 janvier 2028, sous réserve d'approbation de la FIFA.",
+      "sources": [
+        "https://www.the-afc.com/en/national/afc_asian_cup.html/news/important-update-afc-asian-cup-saudi-arabia-2027%E2%84%A2"
+      ],
+      "since": "2026-11-11"
+    },
+    {
+      "id": "dakar-2027",
+      "kind": "uncertain",
+      "events": [
+        "sport-auto-dakar-dates-soumises-a-l-approbation-de-la-fia-2027"
+      ],
+      "title": "Dates et parcours à reconfirmer",
+      "detail": "Dates soumises à l'approbation de la FIA, course déplacée au Portugal et au Maroc. Diffuseur 2027 inconnu : L'Équipe avait un contrat « pour plusieurs années » sans durée publiée.",
+      "since": "2026-11-11"
+    },
+    {
+      "id": "motogp-2027-provisional",
+      "kind": "uncertain",
+      "events": [
+        "motogp-gp-de-thailande-provisoire-2027",
+        "motogp-gp-du-qatar-provisoire-2027",
+        "motogp-gp-du-bresil-provisoire-2027",
+        "motogp-gp-d-argentine-provisoire-2027",
+        "motogp-gp-de-france-provisoire-2027",
+        "motogp-gp-d-australie-provisoire-2027",
+        "motogp-gp-de-valence-provisoire-2027"
+      ],
+      "title": "Calendrier MotoGP 2027 provisoire",
+      "detail": "Les 7 GP 2027 reposent sur un calendrier provisoire. Au moins deux GP par saison passent en clair, sans précision sur lesquels.",
+      "since": "2026-11-11"
+    },
+    {
+      "id": "taekwondo-dates",
+      "kind": "uncertain",
+      "events": [
+        "taekwondo-championnats-du-monde-de-taekwondo-2027"
+      ],
+      "title": "Date de début : 5 ou 7 juillet",
+      "detail": "Le calendrier officiel de World Taekwondo indique 7-13 juillet, un article de presse 5-13 juillet. La page officielle est retenue.",
+      "since": "2026-11-11"
+    },
+    {
+      "id": "escrime-lieu",
+      "kind": "uncertain",
+      "events": [
+        "escrime-championnats-du-monde-d-escrime-2027"
+      ],
+      "title": "Lieu : Tachkent ou Téhéran",
+      "detail": "La FIE indique Tachkent ; certaines sources secondaires citent Téhéran. La FIE est retenue.",
+      "since": "2026-11-11"
+    },
+    {
+      "id": "karate-qualif",
+      "kind": "uncertain",
+      "events": [
+        "karate-championnats-du-monde-de-karate-phase-de-qualification-2027"
+      ],
+      "title": "Ville de la phase qualificative : Rabat ou Tanger",
+      "detail": "Affiché comme non finalisé : l’annonce du calendrier WKF indique Rabat, la fiche de l’événement indique Tanger. Aucune salle annoncée.",
+      "since": "2026-11-11",
+      "sources": [
+        "https://www.wkf.net/news-center/article/!/3250/wkf-launches-2027-competition-calendar-featuring-packed-international-season",
+        "https://www.wkf.net/world-championships/championship/!/464/2027-senior-world-championships-qualification-phase-event"
+      ]
+    },
+    {
+      "id": "euro-escrime-2027",
+      "kind": "uncertain",
+      "title": "Dates et lieu non fixés",
+      "detail": "Affiché comme non finalisé : la FIE ne donne qu’une fenêtre (29 mai au 9 juin 2027) avec un lieu « TBD » ; Istanbul vient de British Fencing, et Wikipédia situe les Jeux européens du 16 au 27 juin.",
+      "since": "2026-11-11",
+      "events": [
+        "escrime-championnats-d-europe-d-escrime-jeux-europeens-2027"
+      ],
+      "sources": [
+        "https://fie.org/tournaments/2027/165"
+      ]
+    },
+    {
+      "id": "euro-boxe-2027",
+      "kind": "missing",
+      "title": "Championnats d'Europe de boxe 2027 non ajoutés",
+      "detail": "Aucun pays hôte ni date trouvés.",
+      "since": "2026-11-11"
+    },
+    {
+      "id": "boxing-unconfirmed",
+      "kind": "uncertain",
+      "title": "Combats annoncés mais non finalisés",
+      "detail": "Affichés comme non finalisés. Mayweather vs Garcia : annoncé par Garcia seul, sans contrat ni salle, Mayweather sans licence au Nevada. Usyk vs Wilder : seul le mois de mars 2027 est visé et les négociations bloquent sur la bourse.",
+      "since": "2026-11-11",
+      "events": [
+        "boxe-mayweather-vs-garcia-2027",
+        "boxe-usyk-vs-wilder-mars-2027-date-exacte-non-annoncee-2027"
+      ],
+      "sources": [
+        "https://www.worldboxingnews.com/mayweather-garcia-hopkins-253-day-record/",
+        "https://www.worldboxingnews.com/usyk-vs-wilder-march-2027-vegas-zuffa/"
+      ]
+    },
+    {
+      "id": "mma-unconfirmed",
+      "kind": "uncertain",
+      "title": "Soirées ARES 2027 sans salle ni affiche",
+      "detail": "Affichées comme non finalisées : ARES publie les dates (Marseille le 15 janvier, Paris les 5 février, 2 avril et 4 juin 2027) sans salle ni carte des combats. Aucun UFC Paris ni PFL Paris annoncé pour 2027.",
+      "since": "2026-11-11",
+      "events": [
+        "mma-ares-marseille-2027",
+        "mma-ares-paris-fevrier-2027-2027",
+        "mma-ares-paris-avril-2027-2027",
+        "mma-ares-paris-juin-2027-2027"
+      ],
+      "sources": [
+        "https://www.aresfighting.com/events/"
+      ]
+    },
+    {
+      "id": "coverage",
+      "kind": "missing",
+      "title": "Couverture non exhaustive",
+      "detail": "Seuls les événements majeurs sont listés ; il n'y a pas d'exhaustivité par sport.",
+      "since": "2026-11-11"
+    },
+    {
+      "id": "participants-wikipedia",
+      "kind": "uncertain",
+      "events": [
+        "rugby-nations-championship-2026",
+        "rugby-nations-championship-finals-weekend-2026",
+        "handball-championnat-du-monde-masculin-2027",
+        "football-coupe-d-asie-des-nations-afc-asian-cup-2027"
+      ],
+      "title": "Participants tirés de Wikipédia",
+      "detail": "Les participants du Nations Championship (équipes et matchs des journées 5 et 6), du Mondial de handball 2027 (32 équipes, l’IHF n’en confirmait que 19 avant les barrages) et de la Coupe d’Asie 2027 reposent sur Wikipédia, à remplacer par une source officielle.",
+      "since": "2026-11-11"
+    },
+    {
+      "id": "f1-grid-2026",
+      "kind": "uncertain",
+      "events": [
+        "formule-1-gp-de-las-vegas-2026",
+        "formule-1-gp-du-qatar-2026",
+        "formule-1-gp-d-abou-dabi-2026"
+      ],
+      "title": "Grille F1 : engagés non publiés",
+      "detail": "Les 22 pilotes des GP de Las Vegas, du Qatar et d’Abou Dabi viennent du classement du GP de São Paulo, pas d’une liste d’engagés officielle. Un changement de pilote reste possible.",
+      "since": "2026-11-11"
+    },
+    {
+      "id": "davis-cup-quarters",
+      "kind": "uncertain",
+      "events": [
+        "tennis-davis-cup-finals-2026"
+      ],
+      "title": "Quarts de finale déduits de la presse",
+      "detail": "Les 8 nations et les quarts viennent d’un article de presse ; deux affiches ne sont pas explicitement présentées comme des quarts.",
+      "since": "2026-11-11"
+    },
+    {
+      "id": "mma-cards",
+      "kind": "uncertain",
+      "events": [
+        "mma-ufc-334-2026",
+        "mma-ares-45-2026",
+        "mma-ufc-335-2026",
+        "mma-pfl-lyon-2026",
+        "mma-ufc-336-2027"
+      ],
+      "title": "Affiches MMA susceptibles de changer",
+      "detail": "UFC 336 n’est confirmé que par ESPN ; les affiches UFC, ARES et PFL peuvent changer jusqu’au soir du combat. Le co-main event d’ARES 45 n’est pas confirmé.",
+      "since": "2026-11-11"
+    },
+    {
+      "id": "qualifiers-open",
+      "kind": "missing",
+      "events": [
+        "basket-ball-eurobasket-feminin-2027",
+        "football-coupe-d-afrique-des-nations-can-2027",
+        "football-coupe-du-monde-feminine-de-la-fifa-2027"
+      ],
+      "title": "Qualifiés pas encore connus",
+      "detail": "CAN 2027, Coupe du monde féminine 2027 et EuroBasket féminin 2027 : qualifications en cours, la liste n’est pas affichée tant qu’elle n’est pas complète. Grilles F1 et MotoGP 2027 non confirmées.",
+      "since": "2026-11-11"
+    },
+    {
+      "id": "ucl-final-2027-time",
+      "kind": "uncertain",
+      "events": [
+        "football-finale-de-la-ligue-des-champions-2027"
+      ],
+      "title": "Horaire de la finale à confirmer",
+      "detail": "L’UEFA fixe les finales à 18h00 à partir de 2026 sans citer 2027 ; l’heure 2027 vient de la presse.",
+      "since": "2026-11-11"
+    },
+    {
+      "id": "six-nations-2027-times",
+      "kind": "uncertain",
+      "events": [
+        "rugby-tournoi-des-six-nations-masculin-2027"
+      ],
+      "title": "Horaires tirés d’un site tiers",
+      "detail": "Les heures des 15 matchs viennent d’Ultimate Rugby, le site officiel n’ayant pas pu être lu.",
+      "since": "2026-11-11"
+    },
+    {
+      "id": "lara-tszyu-time",
+      "kind": "uncertain",
+      "events": [
+        "boxe-lara-vs-tszyu-championnat-du-monde-wba-poids-moyens-2026"
+      ],
+      "title": "Heure du combat principal approximative",
+      "detail": "L’heure du combat (13h30 locale) vient de la page du stade ; la montée sur le ring peut varier.",
+      "since": "2026-11-11"
+    },
+    {
+      "id": "atp-finals-times",
+      "kind": "uncertain",
+      "events": [
+        "tennis-nitto-atp-finals-2026"
+      ],
+      "title": "Programme indicatif",
+      "detail": "L’organisateur précise que le programme est indicatif ; 15h00 est le début de la session des finales, double puis simple.",
+      "since": "2026-11-11"
+    },
+    {
+      "id": "super-bowl-time",
+      "kind": "missing",
+      "events": [
+        "football-americain-super-bowl-lxi-2027"
+      ],
+      "title": "Heure du coup d’envoi non retenue",
+      "detail": "Seule la billetterie donne 15h30 heure de Los Angeles ; la NFL ne l’a pas confirmée.",
+      "since": "2026-11-11"
+    },
+    {
+      "id": "fight-times",
+      "kind": "missing",
+      "events": [
+        "mma-ares-45-2026",
+        "boxe-kabayel-vs-hysa-championnat-du-monde-wbc-poids-lourds-2026",
+        "boxe-fury-vs-joshua-poids-lourds-2026",
+        "boxe-bivol-vs-smith-championnat-du-monde-unifie-poids-mi-lourds-2026",
+        "mma-pfl-lyon-2026"
+      ],
+      "title": "Heures de combats non publiées",
+      "detail": "Fury vs Joshua, Kabayel vs Hysa, Bivol vs Smith, ARES 45 et PFL Lyon : heures contradictoires ou estimées, non retenues.",
+      "since": "2026-11-11"
+    }
+  ]
+}
