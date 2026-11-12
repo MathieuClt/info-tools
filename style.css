@@ -117,6 +117,20 @@ ul.events, .pending-list { list-style: none; margin: 0; padding: 0; display: gri
 .is-past { opacity: .75; }
 .place { margin: 0; color: var(--muted); font-size: .9rem; }
 
+/* Films & séries */
+.segmented { display: grid; grid-template-columns: repeat(3, 1fr); gap: 3px; margin: 0; padding: 3px; border: 0; background: var(--soft); border-radius: 10px; }
+.segmented label { position: relative; }
+.segmented input { position: absolute; opacity: 0; pointer-events: none; }
+.segmented span { display: block; text-align: center; font-weight: 600; font-size: .9rem; color: var(--muted); padding: 8px 6px; border-radius: 8px; cursor: pointer; }
+.segmented input:checked + span { background: var(--card); color: var(--fg); box-shadow: 0 1px 2px rgb(0 0 0 / .12); }
+.segmented input:focus-visible + span { outline: 2px solid var(--accent); outline-offset: 1px; }
+#f-genres .chip { --sport: var(--accent); }
+.original { margin: 0; font-size: .85rem; font-style: italic; color: var(--muted); }
+.credits { display: grid; grid-template-columns: auto 1fr; gap: 2px 10px; margin: 4px 0 0; font-size: .88rem; }
+.credits dt { color: var(--muted); }
+.credits dd { margin: 0; }
+.tv-name.w-cinema { background: color-mix(in srgb, var(--sport) 14%, var(--card)); }
+
 /* Horaires */
 .schedule { list-style: none; margin: 2px 0 0; padding: 0; display: flex; flex-wrap: wrap; gap: 6px; }
 .schedule li { display: inline-flex; flex-direction: column; background: var(--soft); border-radius: 8px; padding: 4px 10px; }
@@ -182,7 +196,8 @@ footer { color: var(--muted); font-size: .78rem; padding-top: 32px; padding-bott
   h1 { font-size: 1.7rem; }
   .tabs { max-width: 420px; }
   .filters { grid-template-columns: 1fr auto; align-items: end; }
-  .sports { grid-column: 1 / -1; }
+  .sports, .segmented { grid-column: 1 / -1; }
+  .segmented { max-width: 420px; }
   .selects { grid-template-columns: 220px 220px; }
   .event { grid-template-columns: 5.5rem 1fr; }
   .d1 { font-size: 1.45rem; }
@@ -191,6 +206,8 @@ footer { color: var(--muted); font-size: .78rem; padding-top: 32px; padding-bott
 
 /* Couleur par sport : teinte fixe, saturation et luminosité adaptées au thème ; gris pour un sport sans teinte. */
 .event, .chip, .plain-list li { --sport: var(--muted); }
+.t-film { --sport: hsl(342 var(--sport-s) var(--sport-l)); }
+.t-serie { --sport: hsl(262 var(--sport-s) var(--sport-l)); }
 .s-formule-1 { --sport: hsl(0 var(--sport-s) var(--sport-l)); }
 .s-boxe { --sport: hsl(8 var(--sport-s) var(--sport-l)); }
 .s-motogp { --sport: hsl(20 var(--sport-s) var(--sport-l)); }

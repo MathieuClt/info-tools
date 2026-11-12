@@ -1,0 +1,3198 @@
+{
+  "updated": "2026-11-12",
+  "items": [
+    {
+      "id": "film-il-faut-bruler-maman-2026",
+      "type": "film",
+      "title": "Il faut brûler Maman",
+      "release": "2026-11-11",
+      "genres": [
+        "Comédie"
+      ],
+      "people": {
+        "directors": [
+          "Albert Dupontel"
+        ],
+        "cast": [
+          "Louise Coldefy",
+          "Julia Piaton",
+          "Artus",
+          "Albert Dupontel"
+        ]
+      },
+      "where": [
+        {
+          "name": "Cinéma",
+          "kind": "cinema",
+          "free": false,
+          "confirmed": true,
+          "source": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000039483.html"
+        }
+      ],
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000039483.html",
+      "source": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000039483.html"
+    },
+    {
+      "id": "serie-le-seigneur-des-anneaux-les-anneaux-de-pouvoir-2026-s3",
+      "type": "serie",
+      "title": "Le Seigneur des anneaux : Les Anneaux de pouvoir",
+      "originalTitle": "The Lord of the Rings: The Rings of Power",
+      "season": 3,
+      "release": "2026-11-11",
+      "releaseEnd": "2026-11-25",
+      "genres": [
+        "Fantastique",
+        "Aventure"
+      ],
+      "people": {
+        "cast": [
+          "Charlie Vickers",
+          "Morfydd Clark",
+          "Robert Aramayo"
+        ]
+      },
+      "where": [
+        {
+          "name": "Prime Video",
+          "kind": "streaming",
+          "free": false,
+          "confirmed": true,
+          "source": "https://www.serie-news.com/amazon-prime-video/61333-les-anneaux-de-pouvoir-saison-3-quand-sortent-les-episodes-sur-prime-video-le-calendrier-complet-jusquau-final-02-11-2026/"
+        }
+      ],
+      "url": "https://www.primevideo.com/",
+      "source": "https://www.serie-news.com/amazon-prime-video/61333-les-anneaux-de-pouvoir-saison-3-quand-sortent-les-episodes-sur-prime-video-le-calendrier-complet-jusquau-final-02-11-2026/"
+    },
+    {
+      "id": "serie-l-imperatrice-2026-s3",
+      "type": "serie",
+      "title": "L'Impératrice",
+      "originalTitle": "Die Kaiserin",
+      "season": 3,
+      "release": "2026-11-12",
+      "genres": [
+        "Drame",
+        "Historique"
+      ],
+      "people": {
+        "creators": [
+          "Katharina Eyssen"
+        ],
+        "cast": [
+          "Devrim Lingnau",
+          "Philip Froissant",
+          "Melika Foroutan",
+          "Johannes Nussbaum"
+        ]
+      },
+      "where": [
+        {
+          "name": "Netflix",
+          "kind": "streaming",
+          "free": false,
+          "confirmed": true,
+          "source": "https://www.netflix-news.com/articles/programmes/series/1630073-limperatrice-saison-3-sur-netflix-la-date-de-sortie-de-la-serie-finale-est-confirmee-26-09-2026/"
+        }
+      ],
+      "url": "https://www.netflix.com/",
+      "source": "https://www.netflix-news.com/articles/programmes/series/1630073-limperatrice-saison-3-sur-netflix-la-date-de-sortie-de-la-serie-finale-est-confirmee-26-09-2026/"
+    },
+    {
+      "id": "serie-12-12-12-2026",
+      "type": "serie",
+      "title": "12 12 12",
+      "release": "2026-11-13",
+      "releaseEnd": "2026-12-25",
+      "genres": [
+        "Thriller",
+        "Policier"
+      ],
+      "people": {
+        "directors": [
+          "Kari Skogland"
+        ],
+        "creators": [
+          "Jim Keeble",
+          "Dudi Appleton"
+        ],
+        "cast": [
+          "Anthony Mackie",
+          "Jamie Dornan",
+          "Jack Kesy",
+          "Agathe Rousselle",
+          "Kali Reis"
+        ]
+      },
+      "where": [
+        {
+          "name": "Apple TV+",
+          "kind": "streaming",
+          "free": false,
+          "confirmed": true,
+          "source": "https://www.apple.com/tv-pr/originals/12-12-12/"
+        }
+      ],
+      "url": "https://www.apple.com/tv-pr/originals/12-12-12/",
+      "source": "https://en.wikipedia.org/wiki/12_12_12"
+    },
+    {
+      "id": "serie-astrid-et-raphaelle-2026-s7",
+      "type": "serie",
+      "title": "Astrid et Raphaëlle",
+      "season": 7,
+      "release": "2026-11-13",
+      "genres": [
+        "Policier"
+      ],
+      "people": {
+        "cast": [
+          "Sara Mortensen",
+          "Lola Dewaere",
+          "Benoît Michel"
+        ]
+      },
+      "where": [
+        {
+          "name": "France TV",
+          "kind": "streaming",
+          "free": true,
+          "confirmed": true,
+          "source": "https://www.tv.fr/actualites/astrid-et-raphaelle-saison-7-2026-10-31"
+        }
+      ],
+      "url": "https://www.france.tv/",
+      "source": "https://www.tv.fr/actualites/astrid-et-raphaelle-saison-7-2026-10-31"
+    },
+    {
+      "id": "serie-la-comtesse-de-monte-cristo-2026",
+      "type": "serie",
+      "title": "La Comtesse de Monte-Cristo",
+      "release": "2026-11-16",
+      "genres": [
+        "Drame",
+        "Historique",
+        "Aventure"
+      ],
+      "people": {
+        "cast": [
+          "Audrey Fleurot",
+          "Simon Ehrlacher",
+          "Zabou Breitman",
+          "Kad Merad",
+          "Thierry Godard"
+        ]
+      },
+      "where": [
+        {
+          "name": "TF1",
+          "kind": "tv",
+          "free": true,
+          "confirmed": true,
+          "source": "https://www.allocine.fr/article/fichearticle_gen_carticle=1000229375.html"
+        },
+        {
+          "name": "Netflix",
+          "kind": "streaming",
+          "free": false,
+          "confirmed": false,
+          "source": "https://www.netflix-news.com/articles/programmes/series/1632864-la-comtesse-de-monte-cristo-la-serie-de-tf1-arrive-sur-netflix-le-16-novembre-2026-05-11-2026/"
+        }
+      ],
+      "url": "https://www.tf1.fr/",
+      "source": "https://www.allocine.fr/article/fichearticle_gen_carticle=1000229375.html"
+    },
+    {
+      "id": "film-hunger-games-lever-de-soleil-sur-la-moisson-2026",
+      "type": "film",
+      "title": "Hunger Games : Lever de soleil sur la moisson",
+      "originalTitle": "The Hunger Games: Sunrise on the Reaping",
+      "release": "2026-11-18",
+      "genres": [
+        "Science-fiction",
+        "Action",
+        "Aventure"
+      ],
+      "people": {
+        "directors": [
+          "Francis Lawrence"
+        ],
+        "cast": [
+          "Joseph Zada",
+          "Whitney Peak",
+          "Mckenna Grace",
+          "Jesse Plemons"
+        ]
+      },
+      "where": [
+        {
+          "name": "Cinéma",
+          "kind": "cinema",
+          "free": false,
+          "confirmed": true,
+          "source": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000004528.html"
+        }
+      ],
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000004528.html",
+      "source": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000004528.html"
+    },
+    {
+      "id": "film-les-braves-2026",
+      "type": "film",
+      "title": "Les Braves",
+      "originalTitle": "Coward",
+      "release": "2026-11-18",
+      "genres": [
+        "Drame",
+        "Historique",
+        "Romance"
+      ],
+      "people": {
+        "directors": [
+          "Lukas Dhont"
+        ],
+        "cast": [
+          "Emmanuel Macchia",
+          "Valentin Campagne",
+          "Jonas Wertz",
+          "Jef Jacobs"
+        ]
+      },
+      "where": [
+        {
+          "name": "Cinéma",
+          "kind": "cinema",
+          "free": false,
+          "confirmed": true,
+          "source": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000017168.html"
+        }
+      ],
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000017168.html",
+      "source": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000017168.html"
+    },
+    {
+      "id": "serie-the-altruists-2026",
+      "type": "serie",
+      "title": "The Altruists",
+      "release": "2026-11-19",
+      "genres": [
+        "Drame",
+        "Biopic"
+      ],
+      "people": {
+        "creators": [
+          "Graham Moore",
+          "Jacqueline Hoyt"
+        ],
+        "cast": [
+          "Julia Garner",
+          "Anthony Boyle",
+          "Alex Lawther",
+          "Karan Soni",
+          "Madison Hu"
+        ]
+      },
+      "where": [
+        {
+          "name": "Netflix",
+          "kind": "streaming",
+          "free": false,
+          "confirmed": true,
+          "source": "https://www.netflix.com/tudum/articles/the-altruists-cast-release-date-news"
+        }
+      ],
+      "url": "https://www.netflix.com/tudum/articles/the-altruists-cast-release-date-news",
+      "source": "https://www.netflix.com/tudum/articles/the-altruists-cast-release-date-news"
+    },
+    {
+      "id": "serie-percy-jackson-et-les-olympiens-2026-s3",
+      "type": "serie",
+      "title": "Percy Jackson et les Olympiens",
+      "originalTitle": "Percy Jackson and the Olympians",
+      "season": 3,
+      "release": "2026-11-20",
+      "releaseEnd": "2026-12-11",
+      "genres": [
+        "Fantastique",
+        "Aventure"
+      ],
+      "people": {
+        "creators": [
+          "Jonathan E. Steinberg",
+          "Dan Shotz"
+        ],
+        "cast": [
+          "Walker Scobell",
+          "Leah Sava' Jeffries",
+          "Aryan Simhadri",
+          "Charlie Bushnell",
+          "Tamara Smart"
+        ]
+      },
+      "where": [
+        {
+          "name": "Disney+",
+          "kind": "streaming",
+          "free": false,
+          "confirmed": true,
+          "source": "https://www.disneyphile.fr/percy-jackson-saison-3-disney-plus-20-novembre/"
+        }
+      ],
+      "url": "https://www.disneyplus.com/",
+      "source": "https://www.disneyphile.fr/percy-jackson-saison-3-disney-plus-20-novembre/"
+    },
+    {
+      "id": "serie-yellowjackets-2026-s4",
+      "type": "serie",
+      "title": "Yellowjackets",
+      "season": 4,
+      "release": "2026-11-20",
+      "genres": [
+        "Drame",
+        "Thriller",
+        "Horreur"
+      ],
+      "people": {
+        "creators": [
+          "Ashley Lyle",
+          "Bart Nickerson"
+        ],
+        "cast": [
+          "Melanie Lynskey",
+          "Christina Ricci",
+          "Tawny Cypress",
+          "Lauren Ambrose",
+          "Hilary Swank"
+        ]
+      },
+      "where": [
+        {
+          "name": "Paramount+",
+          "kind": "streaming",
+          "free": false,
+          "confirmed": true,
+          "source": "https://www.leblogtvnews.com/2026/10/yellowjackets-saison-4-des-le-20-novembre.sur-paramount.html"
+        }
+      ],
+      "url": "https://www.paramountplus.com/",
+      "source": "https://www.leblogtvnews.com/2026/10/yellowjackets-saison-4-des-le-20-novembre.sur-paramount.html"
+    },
+    {
+      "id": "film-billie-a-la-croisee-des-mondes-2026",
+      "type": "film",
+      "title": "Billie, à la croisée des mondes",
+      "originalTitle": "Hexed",
+      "release": "2026-11-25",
+      "genres": [
+        "Animation",
+        "Aventure",
+        "Comédie"
+      ],
+      "people": {
+        "directors": [
+          "Fawn Veerasunthorn",
+          "Jason Hand",
+          "Josie Trinidad"
+        ],
+        "cast": [
+          "Hailee Steinfeld",
+          "Rashida Jones",
+          "Tracey Ullman"
+        ]
+      },
+      "where": [
+        {
+          "name": "Cinéma",
+          "kind": "cinema",
+          "free": false,
+          "confirmed": true,
+          "source": "https://www.allocine.fr/film/fichefilm_gen_cfilm=312529.html"
+        }
+      ],
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=312529.html",
+      "source": "https://www.allocine.fr/film/fichefilm_gen_cfilm=312529.html"
+    },
+    {
+      "id": "film-paper-tiger-2026",
+      "type": "film",
+      "title": "Paper Tiger",
+      "release": "2026-11-25",
+      "genres": [
+        "Drame",
+        "Policier",
+        "Thriller"
+      ],
+      "people": {
+        "directors": [
+          "James Gray"
+        ],
+        "cast": [
+          "Adam Driver",
+          "Scarlett Johansson",
+          "Miles Teller",
+          "Rosslyn Luke"
+        ]
+      },
+      "where": [
+        {
+          "name": "Cinéma",
+          "kind": "cinema",
+          "free": false,
+          "confirmed": true,
+          "source": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000014559.html"
+        }
+      ],
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000014559.html",
+      "source": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000014559.html"
+    },
+    {
+      "id": "film-un-bon-petit-soldat-2026",
+      "type": "film",
+      "title": "Un bon petit soldat",
+      "release": "2026-11-25",
+      "genres": [
+        "Drame"
+      ],
+      "people": {
+        "directors": [
+          "Stéphane Brizé"
+        ],
+        "cast": [
+          "Vincent Lindon",
+          "Alba Rohrwacher",
+          "Sharif Andoura",
+          "David Talbot"
+        ]
+      },
+      "where": [
+        {
+          "name": "Cinéma",
+          "kind": "cinema",
+          "free": false,
+          "confirmed": true,
+          "source": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000027620.html"
+        }
+      ],
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000027620.html",
+      "source": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000027620.html"
+    },
+    {
+      "id": "serie-blade-runner-2099-2026",
+      "type": "serie",
+      "title": "Blade Runner 2099",
+      "release": "2026-11-25",
+      "genres": [
+        "Science-fiction",
+        "Thriller"
+      ],
+      "people": {
+        "creators": [
+          "Silka Luisa"
+        ],
+        "cast": [
+          "Michelle Yeoh",
+          "Hunter Schafer",
+          "Dimitri Abold",
+          "Lewis Gribben"
+        ]
+      },
+      "where": [
+        {
+          "name": "Prime Video",
+          "kind": "streaming",
+          "free": false,
+          "confirmed": true,
+          "source": "https://www.aboutamazon.com/news/entertainment/blade-runner-2099-prime-video"
+        }
+      ],
+      "url": "https://www.aboutamazon.com/news/entertainment/blade-runner-2099-prime-video",
+      "source": "https://www.aboutamazon.com/news/entertainment/blade-runner-2099-prime-video"
+    },
+    {
+      "id": "serie-the-hunting-wives-2026-s2",
+      "type": "serie",
+      "title": "The Hunting Wives",
+      "season": 2,
+      "release": "2026-11-26",
+      "genres": [
+        "Thriller",
+        "Drame"
+      ],
+      "people": {},
+      "where": [
+        {
+          "name": "Netflix",
+          "kind": "streaming",
+          "free": false,
+          "confirmed": true,
+          "source": "https://www.allocine.fr/series/renouvelees/agenda/"
+        }
+      ],
+      "url": "https://www.netflix.com/",
+      "source": "https://www.allocine.fr/series/renouvelees/agenda/"
+    },
+    {
+      "id": "film-asterix-le-royaume-de-nubie-2026",
+      "type": "film",
+      "title": "Astérix - Le Royaume de Nubie",
+      "release": "2026-12-02",
+      "genres": [
+        "Animation",
+        "Aventure",
+        "Comédie"
+      ],
+      "people": {
+        "directors": [
+          "Alexandre Heboyan"
+        ],
+        "cast": [
+          "Christian Clavier",
+          "François-Xavier Demaison",
+          "Bernard Alane"
+        ]
+      },
+      "where": [
+        {
+          "name": "Cinéma",
+          "kind": "cinema",
+          "free": false,
+          "confirmed": true,
+          "source": "https://www.allocine.fr/film/fichefilm_gen_cfilm=313265.html"
+        }
+      ],
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=313265.html",
+      "source": "https://www.allocine.fr/film/fichefilm_gen_cfilm=313265.html"
+    },
+    {
+      "id": "film-behemoth-2026",
+      "type": "film",
+      "title": "Behemoth!",
+      "release": "2026-12-02",
+      "genres": [
+        "Drame",
+        "Musical"
+      ],
+      "people": {
+        "directors": [
+          "Tony Gilroy"
+        ],
+        "cast": [
+          "Pedro Pascal",
+          "Will Arnett",
+          "Eva Victor",
+          "Olivia Wilde"
+        ]
+      },
+      "where": [
+        {
+          "name": "Cinéma",
+          "kind": "cinema",
+          "free": false,
+          "confirmed": true,
+          "source": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000021740.html"
+        }
+      ],
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000021740.html",
+      "source": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000021740.html"
+    },
+    {
+      "id": "film-fatherland-2026",
+      "type": "film",
+      "title": "Fatherland",
+      "release": "2026-12-02",
+      "genres": [
+        "Drame"
+      ],
+      "people": {
+        "directors": [
+          "Pawel Pawlikowski"
+        ],
+        "cast": [
+          "Sandra Hüller",
+          "August Diehl",
+          "Hanns Zischler",
+          "Anna Madeley"
+        ]
+      },
+      "where": [
+        {
+          "name": "Cinéma",
+          "kind": "cinema",
+          "free": false,
+          "confirmed": true,
+          "source": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000031164.html"
+        }
+      ],
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000031164.html",
+      "source": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000031164.html"
+    },
+    {
+      "id": "serie-bad-monkey-2026-s2",
+      "type": "serie",
+      "title": "Bad Monkey",
+      "season": 2,
+      "release": "2026-12-02",
+      "releaseEnd": "2027-02-03",
+      "genres": [
+        "Comédie",
+        "Policier"
+      ],
+      "people": {
+        "creators": [
+          "Bill Lawrence"
+        ],
+        "cast": [
+          "Vince Vaughn",
+          "Natalie Martinez",
+          "John Ortiz",
+          "John Malkovich",
+          "Yvonne Strahovski"
+        ]
+      },
+      "where": [
+        {
+          "name": "Apple TV+",
+          "kind": "streaming",
+          "free": false,
+          "confirmed": true,
+          "source": "https://www.apple.com/tv-pr/news/2026/08/apple-tvs-acclaimed-comedy-bad-monkey-starring-and-executive-produced-by-vince-vaughn-returns-for-season-two-on-wednesday-december-2-2026/"
+        }
+      ],
+      "url": "https://www.apple.com/tv-pr/news/2026/08/apple-tvs-acclaimed-comedy-bad-monkey-starring-and-executive-produced-by-vince-vaughn-returns-for-season-two-on-wednesday-december-2-2026/",
+      "source": "https://www.apple.com/tv-pr/news/2026/08/apple-tvs-acclaimed-comedy-bad-monkey-starring-and-executive-produced-by-vince-vaughn-returns-for-season-two-on-wednesday-december-2-2026/"
+    },
+    {
+      "id": "serie-only-murders-in-the-building-2026-s6",
+      "type": "serie",
+      "title": "Only Murders in the Building",
+      "season": 6,
+      "release": "2026-12-08",
+      "genres": [
+        "Comédie",
+        "Policier"
+      ],
+      "people": {
+        "creators": [
+          "John Hoffman",
+          "Steve Martin"
+        ],
+        "cast": [
+          "Steve Martin",
+          "Martin Short",
+          "Selena Gomez",
+          "Meryl Streep",
+          "Olivia Colman"
+        ]
+      },
+      "where": [
+        {
+          "name": "Disney+",
+          "kind": "streaming",
+          "free": false,
+          "confirmed": true,
+          "source": "https://www.disneyphile.fr/only-murders-in-the-building-saison-6-londres-disney-plus-8-decembre/"
+        }
+      ],
+      "url": "https://www.disneyplus.com/",
+      "source": "https://www.disneyphile.fr/only-murders-in-the-building-saison-6-londres-disney-plus-8-decembre/"
+    },
+    {
+      "id": "film-changer-l-eau-des-fleurs-2026",
+      "type": "film",
+      "title": "Changer l'eau des fleurs",
+      "release": "2026-12-09",
+      "genres": [
+        "Drame"
+      ],
+      "people": {
+        "directors": [
+          "Jean-Pierre Jeunet"
+        ],
+        "cast": [
+          "Leïla Bekhti",
+          "Matthias Schoenaerts",
+          "Melvil Poupaud",
+          "Anouk Grinberg"
+        ]
+      },
+      "where": [
+        {
+          "name": "Cinéma",
+          "kind": "cinema",
+          "free": false,
+          "confirmed": true,
+          "source": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000018371.html"
+        }
+      ],
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000018371.html",
+      "source": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000018371.html"
+    },
+    {
+      "id": "film-mariage-au-gout-d-orange-2026",
+      "type": "film",
+      "title": "Mariage au goût d'orange",
+      "release": "2026-12-09",
+      "genres": [
+        "Comédie dramatique"
+      ],
+      "people": {
+        "directors": [
+          "Christophe Honoré"
+        ],
+        "cast": [
+          "Adèle Exarchopoulos",
+          "Vincent Lacoste",
+          "Paul Kircher",
+          "Alban Lenoir"
+        ]
+      },
+      "where": [
+        {
+          "name": "Cinéma",
+          "kind": "cinema",
+          "free": false,
+          "confirmed": true,
+          "source": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000033622.html"
+        }
+      ],
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000033622.html",
+      "source": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000033622.html"
+    },
+    {
+      "id": "film-wildwood-la-prophetie-de-la-foret-2026",
+      "type": "film",
+      "title": "Wildwood : la prophétie de la forêt",
+      "originalTitle": "Wildwood",
+      "release": "2026-12-09",
+      "genres": [
+        "Animation",
+        "Aventure",
+        "Fantastique"
+      ],
+      "people": {
+        "directors": [
+          "Travis Knight"
+        ],
+        "cast": [
+          "Peyton Elizabeth Lee",
+          "Jacob Tremblay",
+          "Mahershala Ali"
+        ]
+      },
+      "where": [
+        {
+          "name": "Cinéma",
+          "kind": "cinema",
+          "free": false,
+          "confirmed": true,
+          "source": "https://www.allocine.fr/film/fichefilm_gen_cfilm=296439.html"
+        }
+      ],
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=296439.html",
+      "source": "https://www.allocine.fr/film/fichefilm_gen_cfilm=296439.html"
+    },
+    {
+      "id": "serie-maxton-hall-le-monde-qui-nous-separe-2026-s3",
+      "type": "serie",
+      "title": "Maxton Hall - Le monde qui nous sépare",
+      "originalTitle": "Maxton Hall – Die Welt zwischen uns",
+      "season": 3,
+      "release": "2026-12-09",
+      "releaseEnd": "2026-12-23",
+      "genres": [
+        "Romance",
+        "Drame"
+      ],
+      "people": {
+        "directors": [
+          "Martin Schreier"
+        ],
+        "creators": [
+          "Sandra Stöckmann",
+          "Ceylan Yildirim"
+        ],
+        "cast": [
+          "Harriet Herbig-Matten",
+          "Damian Hardung",
+          "Sonja Weißer",
+          "Eidin Jalali",
+          "Ben Felipe"
+        ]
+      },
+      "where": [
+        {
+          "name": "Prime Video",
+          "kind": "streaming",
+          "free": false,
+          "confirmed": true,
+          "source": "https://www.aboutamazon.com/news/entertainment/maxton-hall-prime-video"
+        }
+      ],
+      "url": "https://www.aboutamazon.com/news/entertainment/maxton-hall-prime-video",
+      "source": "https://www.aboutamazon.com/news/entertainment/maxton-hall-prime-video"
+    },
+    {
+      "id": "film-avengers-doomsday-2026",
+      "type": "film",
+      "title": "Avengers: Doomsday",
+      "release": "2026-12-16",
+      "genres": [
+        "Action",
+        "Aventure"
+      ],
+      "people": {
+        "directors": [
+          "Joe Russo",
+          "Anthony Russo"
+        ],
+        "cast": [
+          "Robert Downey Jr.",
+          "Chris Evans",
+          "Chris Hemsworth",
+          "Pedro Pascal"
+        ]
+      },
+      "where": [
+        {
+          "name": "Cinéma",
+          "kind": "cinema",
+          "free": false,
+          "confirmed": true,
+          "source": "https://www.allocine.fr/film/fichefilm_gen_cfilm=269068.html"
+        }
+      ],
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=269068.html",
+      "source": "https://www.allocine.fr/film/fichefilm_gen_cfilm=269068.html"
+    },
+    {
+      "id": "film-dune-troisieme-partie-2026",
+      "type": "film",
+      "title": "Dune : Troisième partie",
+      "originalTitle": "Dune: Part Three",
+      "release": "2026-12-16",
+      "genres": [
+        "Science-fiction",
+        "Action",
+        "Aventure"
+      ],
+      "people": {
+        "directors": [
+          "Denis Villeneuve"
+        ],
+        "cast": [
+          "Timothée Chalamet",
+          "Zendaya",
+          "Jason Momoa",
+          "Anya Taylor-Joy"
+        ]
+      },
+      "where": [
+        {
+          "name": "Cinéma",
+          "kind": "cinema",
+          "free": false,
+          "confirmed": true,
+          "source": "https://www.allocine.fr/film/fichefilm_gen_cfilm=324508.html"
+        }
+      ],
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=324508.html",
+      "source": "https://www.allocine.fr/film/fichefilm_gen_cfilm=324508.html"
+    },
+    {
+      "id": "film-jumanji-bienvenue-dans-notre-monde-2026",
+      "type": "film",
+      "title": "Jumanji : Bienvenue dans notre monde",
+      "originalTitle": "Jumanji: Open World",
+      "release": "2026-12-23",
+      "genres": [
+        "Action",
+        "Aventure",
+        "Comédie"
+      ],
+      "people": {
+        "directors": [
+          "Jake Kasdan"
+        ],
+        "cast": [
+          "Dwayne Johnson",
+          "Jack Black",
+          "Karen Gillan",
+          "Madison Iseman"
+        ]
+      },
+      "where": [
+        {
+          "name": "Cinéma",
+          "kind": "cinema",
+          "free": false,
+          "confirmed": true,
+          "source": "https://www.allocine.fr/film/fichefilm_gen_cfilm=274111.html"
+        }
+      ],
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=274111.html",
+      "source": "https://www.allocine.fr/film/fichefilm_gen_cfilm=274111.html"
+    },
+    {
+      "id": "serie-emily-in-paris-2026-s6",
+      "type": "serie",
+      "title": "Emily in Paris",
+      "season": 6,
+      "release": "2026-12-24",
+      "genres": [
+        "Comédie",
+        "Romance"
+      ],
+      "people": {
+        "creators": [
+          "Darren Star"
+        ],
+        "cast": [
+          "Lily Collins",
+          "Philippine Leroy-Beaulieu",
+          "Ashley Park",
+          "Lucas Bravo",
+          "Lucien Laviscount"
+        ]
+      },
+      "where": [
+        {
+          "name": "Netflix",
+          "kind": "streaming",
+          "free": false,
+          "confirmed": true,
+          "source": "https://www.netflix-news.com/articles/programmes/series/1627946-emily-in-paris-saison-6-sur-netflix-rendez-vous-le-24-decembre-pour-un-dernier-voyage-entre-paris-et-la-grece-27-08-2026/"
+        }
+      ],
+      "url": "https://www.netflix.com/",
+      "source": "https://www.netflix-news.com/articles/programmes/series/1627946-emily-in-paris-saison-6-sur-netflix-rendez-vous-le-24-decembre-pour-un-dernier-voyage-entre-paris-et-la-grece-27-08-2026/"
+    },
+    {
+      "id": "serie-harry-potter-2026-s1",
+      "type": "serie",
+      "title": "Harry Potter",
+      "season": 1,
+      "release": "2026-12-25",
+      "releaseEnd": "2027-02-14",
+      "genres": [
+        "Fantastique",
+        "Aventure"
+      ],
+      "people": {
+        "directors": [
+          "Mark Mylod"
+        ],
+        "creators": [
+          "Francesca Gardiner"
+        ],
+        "cast": [
+          "Dominic McLaughlin",
+          "Arabella Stanton",
+          "Alastair Stout",
+          "John Lithgow",
+          "Paapa Essiedu"
+        ]
+      },
+      "where": [
+        {
+          "name": "HBO Max",
+          "kind": "streaming",
+          "free": false,
+          "confirmed": true,
+          "source": "https://www.jechange.fr/telecom/internet/news/serie-harry-potter-hbo-max-25-decembre-un-episode-par-semaine-prix-abonnement"
+        }
+      ],
+      "url": "https://www.hbomax.com/",
+      "source": "https://www.jechange.fr/telecom/internet/news/serie-harry-potter-hbo-max-25-decembre-un-episode-par-semaine-prix-abonnement"
+    },
+    {
+      "id": "film-les-curs-affames-2026",
+      "type": "film",
+      "title": "Les Cœurs affamés",
+      "originalTitle": "Succederà questa notte",
+      "release": "2026-12-30",
+      "genres": [
+        "Comédie",
+        "Romance"
+      ],
+      "people": {
+        "directors": [
+          "Nanni Moretti"
+        ],
+        "cast": [
+          "Louis Garrel",
+          "Jasmine Trinca",
+          "Angela Finocchiaro",
+          "Elena Lietti"
+        ]
+      },
+      "where": [
+        {
+          "name": "Cinéma",
+          "kind": "cinema",
+          "free": false,
+          "confirmed": true,
+          "source": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000026193.html"
+        }
+      ],
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000026193.html",
+      "source": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000026193.html"
+    },
+    {
+      "id": "serie-a-knight-of-the-seven-kingdoms-2027-s2",
+      "type": "serie",
+      "title": "A Knight of the Seven Kingdoms",
+      "season": 2,
+      "release": "2027-01-01",
+      "tentative": true,
+      "genres": [
+        "Fantastique",
+        "Aventure"
+      ],
+      "people": {
+        "creators": [
+          "Ira Parker"
+        ],
+        "cast": [
+          "Peter Claffey",
+          "Dexter Sol Ansell"
+        ]
+      },
+      "where": [
+        {
+          "name": "HBO Max",
+          "kind": "streaming",
+          "free": false,
+          "confirmed": true,
+          "source": "https://winteriscoming.net/a-knight-of-the-seven-kingdoms-boss-confirms-season-2-release-window"
+        }
+      ],
+      "url": "https://www.hbomax.com/",
+      "source": "https://winteriscoming.net/a-knight-of-the-seven-kingdoms-boss-confirms-season-2-release-window"
+    },
+    {
+      "id": "serie-the-pitt-2027-s3",
+      "type": "serie",
+      "title": "The Pitt",
+      "season": 3,
+      "release": "2027-01-01",
+      "tentative": true,
+      "genres": [
+        "Drame",
+        "Médical"
+      ],
+      "people": {
+        "cast": [
+          "Noah Wyle",
+          "Katherine LaNasa",
+          "Patrick Ball",
+          "Fiona Dourif",
+          "Taylor Dearden"
+        ]
+      },
+      "where": [
+        {
+          "name": "HBO Max",
+          "kind": "streaming",
+          "free": false,
+          "confirmed": true,
+          "source": "https://mcetv.ouest-france.fr/2026/the-pitt-saison-3-hbo-max-teaser-anxiogene/"
+        }
+      ],
+      "url": "https://www.hbomax.com/",
+      "source": "https://mcetv.ouest-france.fr/2026/the-pitt-saison-3-hbo-max-teaser-anxiogene/"
+    },
+    {
+      "id": "film-tabloid-2027",
+      "type": "film",
+      "title": "Tabloïd",
+      "originalTitle": "Ink",
+      "release": "2027-01-06",
+      "genres": [
+        "Drame"
+      ],
+      "people": {
+        "directors": [
+          "Danny Boyle"
+        ],
+        "cast": [
+          "Guy Pearce",
+          "Jack O'Connell",
+          "Claire Foy",
+          "Blake Harrison"
+        ]
+      },
+      "where": [
+        {
+          "name": "Cinéma",
+          "kind": "cinema",
+          "free": false,
+          "confirmed": true,
+          "source": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000029498.html"
+        }
+      ],
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000029498.html",
+      "source": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000029498.html"
+    },
+    {
+      "id": "film-werwulf-la-bete-maudite-2027",
+      "type": "film",
+      "title": "Werwulf : La Bête maudite",
+      "originalTitle": "Werwulf",
+      "release": "2027-01-06",
+      "genres": [
+        "Épouvante-horreur",
+        "Historique"
+      ],
+      "people": {
+        "directors": [
+          "Robert Eggers"
+        ],
+        "cast": [
+          "Aaron Taylor-Johnson",
+          "Lily-Rose Depp",
+          "Willem Dafoe",
+          "Bodhi Rae Breathnach"
+        ]
+      },
+      "where": [
+        {
+          "name": "Cinéma",
+          "kind": "cinema",
+          "free": false,
+          "confirmed": true,
+          "source": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000018715.html"
+        }
+      ],
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000018715.html",
+      "source": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000018715.html"
+    },
+    {
+      "id": "serie-votre-fidele-serviteur-spider-man-2027-s2",
+      "type": "serie",
+      "title": "Votre fidèle serviteur Spider-Man",
+      "originalTitle": "Your Friendly Neighborhood Spider-Man",
+      "season": 2,
+      "release": "2027-01-13",
+      "genres": [
+        "Animation",
+        "Super-héros"
+      ],
+      "people": {},
+      "where": [
+        {
+          "name": "Disney+",
+          "kind": "streaming",
+          "free": false,
+          "confirmed": true,
+          "source": "https://www.comicsblog.fr/52889-Votre_Fidele_Serviteur_SpiderMan_saison_2_confirmeee_pour_le_13_janvier_2027_sur_Disney"
+        }
+      ],
+      "url": "https://www.disneyplus.com/fr-fr/browse/entity-b1417e49-48ad-4827-bfd6-94580ecbecd7",
+      "source": "https://www.comicsblog.fr/52889-Votre_Fidele_Serviteur_SpiderMan_saison_2_confirmeee_pour_le_13_janvier_2027_sur_Disney"
+    },
+    {
+      "id": "serie-mayor-of-kingstown-2027-s5",
+      "type": "serie",
+      "title": "Mayor of Kingstown",
+      "season": 5,
+      "release": "2027-01-15",
+      "genres": [
+        "Drame",
+        "Policier"
+      ],
+      "people": {
+        "creators": [
+          "Taylor Sheridan",
+          "Hugh Dillon"
+        ],
+        "cast": [
+          "Jeremy Renner",
+          "Edie Falco",
+          "Laura Benanti",
+          "Hugh Dillon",
+          "David Morse"
+        ]
+      },
+      "where": [
+        {
+          "name": "Paramount+",
+          "kind": "streaming",
+          "free": false,
+          "confirmed": true,
+          "source": "https://enjoyeuse.com/actus/mayor-of-kingstown-saison-5-finale-paramount/"
+        }
+      ],
+      "url": "https://www.paramountplus.com/",
+      "source": "https://enjoyeuse.com/actus/mayor-of-kingstown-saison-5-finale-paramount/"
+    },
+    {
+      "id": "serie-blue-eye-samurai-2027-s2",
+      "type": "serie",
+      "title": "Blue Eye Samurai",
+      "season": 2,
+      "release": "2027-01-19",
+      "genres": [
+        "Animation",
+        "Action"
+      ],
+      "people": {
+        "creators": [
+          "Michael Green",
+          "Amber Noizumi"
+        ],
+        "cast": [
+          "Maya Erskine",
+          "Brenda Song",
+          "Masi Oka",
+          "Jonathan Pryce"
+        ]
+      },
+      "where": [
+        {
+          "name": "Netflix",
+          "kind": "streaming",
+          "free": false,
+          "confirmed": true,
+          "source": "https://www.whats-on-netflix.com/news/blue-eye-samurai-season-2-netflix-release-date-january-2027/"
+        }
+      ],
+      "url": "https://www.netflix.com/",
+      "source": "https://www.whats-on-netflix.com/news/blue-eye-samurai-season-2-netflix-release-date-january-2027/"
+    },
+    {
+      "id": "film-7h40-ce-matin-la-2027",
+      "type": "film",
+      "title": "7h40 ce matin-là",
+      "release": "2027-01-20",
+      "genres": [
+        "Comédie dramatique"
+      ],
+      "people": {
+        "directors": [
+          "Nicole Garcia"
+        ],
+        "cast": [
+          "Marion Cotillard",
+          "Théodore Pellerin",
+          "Artus",
+          "Laure Calamy"
+        ]
+      },
+      "where": [
+        {
+          "name": "Cinéma",
+          "kind": "cinema",
+          "free": false,
+          "confirmed": true,
+          "source": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000034048.html"
+        }
+      ],
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000034048.html",
+      "source": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000034048.html"
+    },
+    {
+      "id": "serie-star-wars-ahsoka-2027-s2",
+      "type": "serie",
+      "title": "Star Wars : Ahsoka",
+      "originalTitle": "Ahsoka",
+      "season": 2,
+      "release": "2027-01-20",
+      "genres": [
+        "Science-fiction",
+        "Aventure"
+      ],
+      "people": {
+        "cast": [
+          "Rosario Dawson",
+          "Natasha Liu Bordizzo",
+          "Hayden Christensen",
+          "Rory McCann"
+        ]
+      },
+      "where": [
+        {
+          "name": "Disney+",
+          "kind": "streaming",
+          "free": false,
+          "confirmed": true,
+          "source": "https://tbreak.com/ahsoka-season-2-premiere-date-january-2027/"
+        }
+      ],
+      "url": "https://www.disneyplus.com/",
+      "source": "https://tbreak.com/ahsoka-season-2-premiere-date-january-2027/"
+    },
+    {
+      "id": "film-artificial-2027",
+      "type": "film",
+      "title": "Artificial",
+      "release": "2027-01-27",
+      "genres": [
+        "Biopic",
+        "Comédie dramatique"
+      ],
+      "people": {
+        "directors": [
+          "Luca Guadagnino"
+        ],
+        "cast": [
+          "Andrew Garfield",
+          "Monica Barbaro",
+          "Yura Borisov",
+          "Cooper Koch"
+        ]
+      },
+      "where": [
+        {
+          "name": "Cinéma",
+          "kind": "cinema",
+          "free": false,
+          "confirmed": true,
+          "source": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000025577.html"
+        }
+      ],
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000025577.html",
+      "source": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000025577.html"
+    },
+    {
+      "id": "film-bunker-2027",
+      "type": "film",
+      "title": "Bunker",
+      "release": "2027-01-27",
+      "genres": [
+        "Drame",
+        "Thriller"
+      ],
+      "people": {
+        "directors": [
+          "Florian Zeller"
+        ],
+        "cast": [
+          "Penélope Cruz",
+          "Javier Bardem",
+          "Patrick Schwarzenegger",
+          "Paul Dano"
+        ]
+      },
+      "where": [
+        {
+          "name": "Cinéma",
+          "kind": "cinema",
+          "free": false,
+          "confirmed": true,
+          "source": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000023874.html"
+        }
+      ],
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000023874.html",
+      "source": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000023874.html"
+    },
+    {
+      "id": "film-l-age-de-glace-le-reveil-du-volcan-2027",
+      "type": "film",
+      "title": "L'Âge de glace : le réveil du volcan",
+      "originalTitle": "Ice Age: Boiling Point",
+      "release": "2027-02-03",
+      "genres": [
+        "Animation",
+        "Aventure",
+        "Comédie"
+      ],
+      "people": {
+        "directors": [
+          "Carlos Saldanha"
+        ],
+        "cast": [
+          "Ray Romano",
+          "John Leguizamo",
+          "Queen Latifah"
+        ]
+      },
+      "where": [
+        {
+          "name": "Cinéma",
+          "kind": "cinema",
+          "free": false,
+          "confirmed": true,
+          "source": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000014959.html"
+        }
+      ],
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000014959.html",
+      "source": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000014959.html"
+    },
+    {
+      "id": "film-reste-avec-moi-2027",
+      "type": "film",
+      "title": "Reste avec moi",
+      "originalTitle": "Remain",
+      "release": "2027-02-03",
+      "genres": [
+        "Fantastique",
+        "Romance",
+        "Thriller"
+      ],
+      "people": {
+        "directors": [
+          "M. Night Shyamalan"
+        ],
+        "cast": [
+          "Jake Gyllenhaal",
+          "Phoebe Dynevor",
+          "Ashley Walters",
+          "Julie Hagerty"
+        ]
+      },
+      "where": [
+        {
+          "name": "Cinéma",
+          "kind": "cinema",
+          "free": false,
+          "confirmed": true,
+          "source": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000011453.html"
+        }
+      ],
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000011453.html",
+      "source": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000011453.html"
+    },
+    {
+      "id": "film-fantomas-le-nouveau-monde-2027",
+      "type": "film",
+      "title": "Fantômas – Le nouveau monde",
+      "release": "2027-02-10",
+      "genres": [
+        "Action",
+        "Policier",
+        "Thriller"
+      ],
+      "people": {
+        "directors": [
+          "Frédéric Tellier"
+        ],
+        "cast": [
+          "Guillaume Canet",
+          "Romain Duris",
+          "Ana Girardot",
+          "Louis Peres"
+        ]
+      },
+      "where": [
+        {
+          "name": "Cinéma",
+          "kind": "cinema",
+          "free": false,
+          "confirmed": true,
+          "source": "https://www.allocine.fr/film/fichefilm_gen_cfilm=146592.html"
+        }
+      ],
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=146592.html",
+      "source": "https://www.allocine.fr/film/fichefilm_gen_cfilm=146592.html"
+    },
+    {
+      "id": "film-mystik-2027",
+      "type": "film",
+      "title": "Mystik",
+      "release": "2027-02-17",
+      "genres": [
+        "Comédie",
+        "Romance"
+      ],
+      "people": {
+        "directors": [
+          "Azedine Kasri",
+          "Raphaël Quenard"
+        ],
+        "cast": [
+          "Raphaël Quenard",
+          "François Cluzet",
+          "Magalie Lépine Blondeau",
+          "Hakim Jemili"
+        ]
+      },
+      "where": [
+        {
+          "name": "Cinéma",
+          "kind": "cinema",
+          "free": false,
+          "confirmed": true,
+          "source": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000026607.html"
+        }
+      ],
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000026607.html",
+      "source": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000026607.html"
+    },
+    {
+      "id": "serie-surcompensation-2027-s2",
+      "type": "serie",
+      "title": "Surcompensation",
+      "originalTitle": "Overcompensating",
+      "season": 2,
+      "release": "2027-02-17",
+      "genres": [
+        "Comédie"
+      ],
+      "people": {},
+      "where": [
+        {
+          "name": "Prime Video",
+          "kind": "streaming",
+          "free": false,
+          "confirmed": true,
+          "source": "https://www.allocine.fr/series/renouvelees/agenda/?page=2"
+        }
+      ],
+      "url": "https://www.primevideo.com/",
+      "source": "https://www.allocine.fr/series/renouvelees/agenda/?page=2"
+    },
+    {
+      "id": "film-le-clan-des-fairbank-2027",
+      "type": "film",
+      "title": "Le Clan des Fairbank",
+      "originalTitle": "Wife & Dog",
+      "release": "2027-02-24",
+      "genres": [
+        "Thriller"
+      ],
+      "people": {
+        "directors": [
+          "Guy Ritchie"
+        ],
+        "cast": [
+          "Benedict Cumberbatch",
+          "Rosamund Pike",
+          "Anthony Hopkins",
+          "Cosmo Jarvis"
+        ]
+      },
+      "where": [
+        {
+          "name": "Cinéma",
+          "kind": "cinema",
+          "free": false,
+          "confirmed": true,
+          "source": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000004480.html"
+        }
+      ],
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000004480.html",
+      "source": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000004480.html"
+    },
+    {
+      "id": "serie-daredevil-born-again-2027-s3",
+      "type": "serie",
+      "title": "Daredevil: Born Again",
+      "season": 3,
+      "release": "2027-03-01",
+      "tentative": true,
+      "genres": [
+        "Action",
+        "Super-héros"
+      ],
+      "people": {
+        "cast": [
+          "Charlie Cox",
+          "Vincent D'Onofrio",
+          "Deborah Ann Woll",
+          "Wilson Bethel",
+          "Krysten Ritter"
+        ]
+      },
+      "where": [
+        {
+          "name": "Disney+",
+          "kind": "streaming",
+          "free": false,
+          "confirmed": true,
+          "source": "https://www.9to5marvel.com/daredevil-born-again-season-3-release-date/"
+        }
+      ],
+      "url": "https://www.disneyplus.com/",
+      "source": "https://www.9to5marvel.com/daredevil-born-again-season-3-release-date/"
+    },
+    {
+      "id": "film-l-affaire-thomas-crown-2027",
+      "type": "film",
+      "title": "L'Affaire Thomas Crown",
+      "originalTitle": "The Thomas Crown Affair",
+      "release": "2027-03-03",
+      "genres": [
+        "Romance",
+        "Thriller"
+      ],
+      "people": {
+        "directors": [
+          "Michael B. Jordan"
+        ],
+        "cast": [
+          "Michael B. Jordan",
+          "Kenneth Branagh",
+          "Adria Arjona",
+          "Lily Gladstone"
+        ]
+      },
+      "where": [
+        {
+          "name": "Cinéma",
+          "kind": "cinema",
+          "free": false,
+          "confirmed": true,
+          "source": "https://www.allocine.fr/film/fichefilm_gen_cfilm=119080.html"
+        }
+      ],
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=119080.html",
+      "source": "https://www.allocine.fr/film/fichefilm_gen_cfilm=119080.html"
+    },
+    {
+      "id": "film-kaamelott-deuxieme-volet-partie-2-2027",
+      "type": "film",
+      "title": "Kaamelott – Deuxième volet (partie 2)",
+      "release": "2027-03-10",
+      "genres": [
+        "Aventure",
+        "Drame",
+        "Historique"
+      ],
+      "people": {
+        "directors": [
+          "Alexandre Astier"
+        ],
+        "cast": [
+          "Alexandre Astier",
+          "Franck Dubosc",
+          "Virginie Ledoyen",
+          "Nicolas Gabion"
+        ]
+      },
+      "where": [
+        {
+          "name": "Cinéma",
+          "kind": "cinema",
+          "free": false,
+          "confirmed": true,
+          "source": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000020292.html"
+        }
+      ],
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000020292.html",
+      "source": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000020292.html"
+    },
+    {
+      "id": "film-l-exorciste-martyrs-2027",
+      "type": "film",
+      "title": "L'Exorciste : Martyrs",
+      "originalTitle": "The Exorcist: Martyrs",
+      "release": "2027-03-10",
+      "genres": [
+        "Épouvante-horreur"
+      ],
+      "people": {
+        "directors": [
+          "Mike Flanagan"
+        ],
+        "cast": [
+          "Scarlett Johansson",
+          "Chiwetel Ejiofor",
+          "Diane Lane",
+          "Jacobi Jupe"
+        ]
+      },
+      "where": [
+        {
+          "name": "Cinéma",
+          "kind": "cinema",
+          "free": false,
+          "confirmed": true,
+          "source": "https://www.allocine.fr/film/fichefilm_gen_cfilm=294813.html"
+        }
+      ],
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=294813.html",
+      "source": "https://www.allocine.fr/film/fichefilm_gen_cfilm=294813.html"
+    },
+    {
+      "id": "film-le-mal-est-fait-2027",
+      "type": "film",
+      "title": "Le Mal est fait",
+      "release": "2027-03-10",
+      "genres": [
+        "Drame",
+        "Thriller"
+      ],
+      "people": {
+        "directors": [
+          "François Ozon"
+        ],
+        "cast": [
+          "Pio Marmaï",
+          "Sandor Funtek",
+          "Grégoire Danvin-Sellier",
+          "Judith Davis"
+        ]
+      },
+      "where": [
+        {
+          "name": "Cinéma",
+          "kind": "cinema",
+          "free": false,
+          "confirmed": true,
+          "source": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000048613.html"
+        }
+      ],
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000048613.html",
+      "source": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000048613.html"
+    },
+    {
+      "id": "film-secondes-chances-2027",
+      "type": "film",
+      "title": "Secondes chances",
+      "release": "2027-03-17",
+      "genres": [
+        "Comédie dramatique"
+      ],
+      "people": {
+        "directors": [
+          "Thomas Lilti"
+        ],
+        "cast": [
+          "François Civil",
+          "Léa Drucker",
+          "Karim Leklou",
+          "Miou-Miou"
+        ]
+      },
+      "where": [
+        {
+          "name": "Cinéma",
+          "kind": "cinema",
+          "free": false,
+          "confirmed": true,
+          "source": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000022207.html"
+        }
+      ],
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000022207.html",
+      "source": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000022207.html"
+    },
+    {
+      "id": "film-godzilla-x-kong-supernova-2027",
+      "type": "film",
+      "title": "Godzilla x Kong: Supernova",
+      "release": "2027-03-24",
+      "genres": [
+        "Action",
+        "Fantastique"
+      ],
+      "people": {
+        "directors": [
+          "Grant Sputore"
+        ],
+        "cast": [
+          "Kaitlyn Dever",
+          "Dan Stevens",
+          "Jack O'Connell",
+          "Alycia Debnam-Carey"
+        ]
+      },
+      "where": [
+        {
+          "name": "Cinéma",
+          "kind": "cinema",
+          "free": false,
+          "confirmed": true,
+          "source": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000002997.html"
+        }
+      ],
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000002997.html",
+      "source": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000002997.html"
+    },
+    {
+      "id": "film-sonic-4-le-film-2027",
+      "type": "film",
+      "title": "Sonic 4, le film",
+      "originalTitle": "Sonic the Hedgehog 4",
+      "release": "2027-03-31",
+      "genres": [
+        "Action",
+        "Animation",
+        "Aventure"
+      ],
+      "people": {
+        "directors": [
+          "Jeff Fowler"
+        ],
+        "cast": [
+          "Ben Schwartz",
+          "Jim Carrey",
+          "Kristen Bell",
+          "James Marsden",
+          "Tika Sumpter"
+        ]
+      },
+      "where": [
+        {
+          "name": "Cinéma",
+          "kind": "cinema",
+          "free": false,
+          "confirmed": true,
+          "source": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000017329.html"
+        }
+      ],
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000017329.html",
+      "source": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000017329.html"
+    },
+    {
+      "id": "film-the-legend-of-zelda-2027",
+      "type": "film",
+      "title": "The Legend of Zelda",
+      "release": "2027-04-28",
+      "genres": [
+        "Action",
+        "Aventure",
+        "Fantastique"
+      ],
+      "people": {
+        "directors": [
+          "Wes Ball"
+        ],
+        "cast": [
+          "Bo Bragason",
+          "Benjamin Evan Ainsworth",
+          "Dichen Lachman",
+          "Faith Delaney"
+        ]
+      },
+      "where": [
+        {
+          "name": "Cinéma",
+          "kind": "cinema",
+          "free": false,
+          "confirmed": true,
+          "source": "https://www.allocine.fr/film/fichefilm_gen_cfilm=223110.html"
+        }
+      ],
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=223110.html",
+      "source": "https://www.allocine.fr/film/fichefilm_gen_cfilm=223110.html"
+    },
+    {
+      "id": "serie-off-campus-2027-s2",
+      "type": "serie",
+      "title": "Off Campus",
+      "season": 2,
+      "release": "2027-04-28",
+      "genres": [
+        "Romance",
+        "Drame"
+      ],
+      "people": {},
+      "where": [
+        {
+          "name": "Prime Video",
+          "kind": "streaming",
+          "free": false,
+          "confirmed": true,
+          "source": "https://www.allocine.fr/series/renouvelees/agenda/?page=2"
+        }
+      ],
+      "url": "https://www.primevideo.com/",
+      "source": "https://www.allocine.fr/series/renouvelees/agenda/?page=2"
+    },
+    {
+      "id": "film-star-wars-starfighter-2027",
+      "type": "film",
+      "title": "Star Wars: Starfighter",
+      "release": "2027-05-26",
+      "genres": [
+        "Science-fiction",
+        "Aventure"
+      ],
+      "people": {
+        "directors": [
+          "Shawn Levy"
+        ],
+        "cast": [
+          "Ryan Gosling",
+          "Mia Goth",
+          "Matt Smith",
+          "Flynn Gray"
+        ]
+      },
+      "where": [
+        {
+          "name": "Cinéma",
+          "kind": "cinema",
+          "free": false,
+          "confirmed": true,
+          "source": "https://www.allocine.fr/film/fichefilm_gen_cfilm=310191.html"
+        }
+      ],
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=310191.html",
+      "source": "https://www.allocine.fr/film/fichefilm_gen_cfilm=310191.html"
+    },
+    {
+      "id": "film-dragons-2-2027",
+      "type": "film",
+      "title": "Dragons 2",
+      "originalTitle": "How to Train Your Dragon 2",
+      "release": "2027-06-09",
+      "genres": [
+        "Aventure",
+        "Fantastique"
+      ],
+      "people": {
+        "directors": [
+          "Dean DeBlois"
+        ],
+        "cast": [
+          "Mason Thames",
+          "Nico Parker",
+          "Gerard Butler",
+          "Cate Blanchett"
+        ]
+      },
+      "where": [
+        {
+          "name": "Cinéma",
+          "kind": "cinema",
+          "free": false,
+          "confirmed": true,
+          "source": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000022350.html"
+        }
+      ],
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000022350.html",
+      "source": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000022350.html"
+    },
+    {
+      "id": "film-ocean-s-prequel-2027",
+      "type": "film",
+      "title": "Ocean's Prequel",
+      "release": "2027-06-23",
+      "genres": [
+        "Action",
+        "Comédie",
+        "Thriller"
+      ],
+      "people": {
+        "directors": [
+          "Bradley Cooper"
+        ],
+        "cast": [
+          "Margot Robbie",
+          "Bradley Cooper",
+          "Wagner Moura",
+          "Monica Barbaro"
+        ]
+      },
+      "where": [
+        {
+          "name": "Cinéma",
+          "kind": "cinema",
+          "free": false,
+          "confirmed": true,
+          "source": "https://www.allocine.fr/film/fichefilm_gen_cfilm=304749.html"
+        }
+      ],
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=304749.html",
+      "source": "https://www.allocine.fr/film/fichefilm_gen_cfilm=304749.html"
+    },
+    {
+      "id": "film-spider-man-beyond-the-spider-verse-2027",
+      "type": "film",
+      "title": "Spider-Man: Beyond the Spider-Verse",
+      "release": "2027-06-23",
+      "genres": [
+        "Animation",
+        "Action",
+        "Fantastique"
+      ],
+      "people": {
+        "directors": [
+          "Justin Thompson",
+          "Bob Persichetti"
+        ],
+        "cast": [
+          "Shameik Moore",
+          "Hailee Steinfeld",
+          "Brian Tyree Henry"
+        ]
+      },
+      "where": [
+        {
+          "name": "Cinéma",
+          "kind": "cinema",
+          "free": false,
+          "confirmed": true,
+          "source": "https://www.allocine.fr/film/fichefilm_gen_cfilm=299163.html"
+        }
+      ],
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=299163.html",
+      "source": "https://www.allocine.fr/film/fichefilm_gen_cfilm=299163.html"
+    },
+    {
+      "id": "film-johnny-2027",
+      "type": "film",
+      "title": "Johnny",
+      "release": "2027-06-30",
+      "genres": [
+        "Biopic",
+        "Musical"
+      ],
+      "people": {
+        "directors": [
+          "Cédric Jimenez"
+        ],
+        "cast": [
+          "Benjamin Voisin",
+          "Nina Meurisse",
+          "Noée Abita",
+          "Marie Colomb"
+        ]
+      },
+      "where": [
+        {
+          "name": "Cinéma",
+          "kind": "cinema",
+          "free": false,
+          "confirmed": true,
+          "source": "https://www.allocine.fr/film/fichefilm_gen_cfilm=303907.html"
+        }
+      ],
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=303907.html",
+      "source": "https://www.allocine.fr/film/fichefilm_gen_cfilm=303907.html"
+    },
+    {
+      "id": "film-shrek-5-2027",
+      "type": "film",
+      "title": "Shrek 5",
+      "release": "2027-06-30",
+      "genres": [
+        "Animation",
+        "Comédie",
+        "Aventure"
+      ],
+      "people": {
+        "directors": [
+          "Walt Dohrn",
+          "Brad Ableson"
+        ],
+        "cast": [
+          "Mike Myers",
+          "Cameron Diaz",
+          "Eddie Murphy"
+        ]
+      },
+      "where": [
+        {
+          "name": "Cinéma",
+          "kind": "cinema",
+          "free": false,
+          "confirmed": true,
+          "source": "https://www.allocine.fr/film/fichefilm_gen_cfilm=227363.html"
+        }
+      ],
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=227363.html",
+      "source": "https://www.allocine.fr/film/fichefilm_gen_cfilm=227363.html"
+    },
+    {
+      "id": "film-man-of-tomorrow-2027",
+      "type": "film",
+      "title": "Man of Tomorrow",
+      "release": "2027-07-07",
+      "genres": [
+        "Action",
+        "Aventure",
+        "Science-fiction"
+      ],
+      "people": {
+        "directors": [
+          "James Gunn"
+        ],
+        "cast": [
+          "David Corenswet",
+          "Nicholas Hoult",
+          "Rachel Brosnahan",
+          "Frank Grillo"
+        ]
+      },
+      "where": [
+        {
+          "name": "Cinéma",
+          "kind": "cinema",
+          "free": false,
+          "confirmed": true,
+          "source": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000030435.html"
+        }
+      ],
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000030435.html",
+      "source": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000030435.html"
+    },
+    {
+      "id": "serie-silo-2027-s4",
+      "type": "serie",
+      "title": "Silo",
+      "season": 4,
+      "release": "2027-07-09",
+      "genres": [
+        "Science-fiction",
+        "Drame"
+      ],
+      "people": {
+        "creators": [
+          "Graham Yost"
+        ],
+        "cast": [
+          "Rebecca Ferguson"
+        ]
+      },
+      "where": [
+        {
+          "name": "Apple TV+",
+          "kind": "streaming",
+          "free": false,
+          "confirmed": true,
+          "source": "https://www.apple.com/tv-pr/news/2026/09/apple-tvs-global-hit-drama-silo-to-return-for-fourth-and-final-season-on-july-9-2027/"
+        }
+      ],
+      "url": "https://www.apple.com/tv-pr/news/2026/09/apple-tvs-global-hit-drama-silo-to-return-for-fourth-and-final-season-on-july-9-2027/",
+      "source": "https://www.apple.com/tv-pr/news/2026/09/apple-tvs-global-hit-drama-silo-to-return-for-fourth-and-final-season-on-july-9-2027/"
+    },
+    {
+      "id": "film-ally-2027",
+      "type": "film",
+      "title": "Ally",
+      "release": "2027-07-14",
+      "genres": [
+        "Animation",
+        "Aventure",
+        "Fantastique"
+      ],
+      "people": {
+        "directors": [
+          "Bong Joon Ho"
+        ],
+        "cast": [
+          "Alex Jayne Go",
+          "Bradley Cooper",
+          "Ayo Edebiri"
+        ]
+      },
+      "where": [
+        {
+          "name": "Cinéma",
+          "kind": "cinema",
+          "free": false,
+          "confirmed": true,
+          "source": "https://www.allocine.fr/film/fichefilm_gen_cfilm=292824.html"
+        }
+      ],
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=292824.html",
+      "source": "https://www.allocine.fr/film/fichefilm_gen_cfilm=292824.html"
+    },
+    {
+      "id": "film-untitled-crawl-sequel-2027",
+      "type": "film",
+      "title": "Untitled Crawl Sequel",
+      "release": "2027-07-14",
+      "genres": [
+        "Épouvante-horreur",
+        "Thriller"
+      ],
+      "people": {
+        "directors": [
+          "Alexandre Aja"
+        ],
+        "cast": [
+          "Mason Gooding",
+          "Emily Rudd"
+        ]
+      },
+      "where": [
+        {
+          "name": "Cinéma",
+          "kind": "cinema",
+          "free": false,
+          "confirmed": true,
+          "source": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000009070.html"
+        }
+      ],
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000009070.html",
+      "source": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000009070.html"
+    },
+    {
+      "id": "film-a-minecraft-movie-squared-2027",
+      "type": "film",
+      "title": "A Minecraft Movie Squared",
+      "release": "2027-07-21",
+      "genres": [
+        "Aventure",
+        "Comédie"
+      ],
+      "people": {
+        "directors": [
+          "Jared Hess"
+        ],
+        "cast": [
+          "Jack Black",
+          "Kirsten Dunst",
+          "Jason Momoa",
+          "Danielle Brooks"
+        ]
+      },
+      "where": [
+        {
+          "name": "Cinéma",
+          "kind": "cinema",
+          "free": false,
+          "confirmed": true,
+          "source": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000033017.html"
+        }
+      ],
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000033017.html",
+      "source": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000033017.html"
+    },
+    {
+      "id": "film-sans-un-bruit-3-2027",
+      "type": "film",
+      "title": "Sans un bruit 3",
+      "originalTitle": "A Quiet Place Part III",
+      "release": "2027-07-28",
+      "genres": [
+        "Épouvante-horreur",
+        "Science-fiction"
+      ],
+      "people": {
+        "directors": [
+          "John Krasinski"
+        ],
+        "cast": [
+          "Emily Blunt",
+          "Cillian Murphy",
+          "Jack O'Connell",
+          "Katy O'Brian"
+        ]
+      },
+      "where": [
+        {
+          "name": "Cinéma",
+          "kind": "cinema",
+          "free": false,
+          "confirmed": true,
+          "source": "https://www.allocine.fr/film/fichefilm_gen_cfilm=300948.html"
+        }
+      ],
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=300948.html",
+      "source": "https://www.allocine.fr/film/fichefilm_gen_cfilm=300948.html"
+    },
+    {
+      "id": "film-anatole-latuile-2027",
+      "type": "film",
+      "title": "Anatole Latuile",
+      "release": "2027-08-04",
+      "genres": [
+        "Comédie",
+        "Famille"
+      ],
+      "people": {
+        "directors": [
+          "François Descraques"
+        ],
+        "cast": [
+          "Arthur Ferrard",
+          "Fred Testot",
+          "Diane Segard",
+          "David Marsais"
+        ]
+      },
+      "where": [
+        {
+          "name": "Cinéma",
+          "kind": "cinema",
+          "free": false,
+          "confirmed": true,
+          "source": "https://www.allocine.fr/film/fichefilm_gen_cfilm=303625.html"
+        }
+      ],
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=303625.html",
+      "source": "https://www.allocine.fr/film/fichefilm_gen_cfilm=303625.html"
+    },
+    {
+      "id": "film-bluey-le-film-2027",
+      "type": "film",
+      "title": "Bluey, le film",
+      "originalTitle": "The Bluey Movie",
+      "release": "2027-08-04",
+      "genres": [
+        "Animation",
+        "Aventure",
+        "Famille"
+      ],
+      "people": {
+        "directors": [
+          "Joe Brumm"
+        ],
+        "cast": [
+          "Melanie Zanetti",
+          "David McCormack"
+        ]
+      },
+      "where": [
+        {
+          "name": "Cinéma",
+          "kind": "cinema",
+          "free": false,
+          "confirmed": true,
+          "source": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000017186.html"
+        }
+      ],
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000017186.html",
+      "source": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000017186.html"
+    },
+    {
+      "id": "film-teenage-mutant-ninja-turtles-mutant-mayhem-2-2027",
+      "type": "film",
+      "title": "Teenage Mutant Ninja Turtles: Mutant Mayhem 2",
+      "release": "2027-08-11",
+      "genres": [
+        "Animation",
+        "Action",
+        "Comédie"
+      ],
+      "people": {
+        "directors": [
+          "Jeff Rowe"
+        ]
+      },
+      "where": [
+        {
+          "name": "Cinéma",
+          "kind": "cinema",
+          "free": false,
+          "confirmed": true,
+          "source": "https://www.allocine.fr/film/fichefilm_gen_cfilm=318590.html"
+        }
+      ],
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=318590.html",
+      "source": "https://www.allocine.fr/film/fichefilm_gen_cfilm=318590.html"
+    },
+    {
+      "id": "film-the-new-simpsons-movie-2027",
+      "type": "film",
+      "title": "The New Simpsons Movie",
+      "release": "2027-09-01",
+      "genres": [
+        "Animation",
+        "Comédie",
+        "Famille"
+      ],
+      "people": {
+        "creators": [
+          "Matt Groening"
+        ],
+        "cast": [
+          "Dan Castellaneta",
+          "Nancy Cartwright",
+          "Julie Kavner"
+        ]
+      },
+      "where": [
+        {
+          "name": "Cinéma",
+          "kind": "cinema",
+          "free": false,
+          "confirmed": true,
+          "source": "https://www.allocine.fr/film/fichefilm_gen_cfilm=232136.html"
+        }
+      ],
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=232136.html",
+      "source": "https://www.allocine.fr/film/fichefilm_gen_cfilm=232136.html"
+    },
+    {
+      "id": "film-the-conjuring-first-communion-2027",
+      "type": "film",
+      "title": "The Conjuring: First Communion",
+      "release": "2027-09-08",
+      "genres": [
+        "Épouvante-horreur"
+      ],
+      "people": {
+        "directors": [
+          "Rodrigue Huart"
+        ],
+        "cast": [
+          "Garrett Wareing",
+          "Amanda Fix",
+          "Matthias Schweighöfer"
+        ]
+      },
+      "where": [
+        {
+          "name": "Cinéma",
+          "kind": "cinema",
+          "free": false,
+          "confirmed": true,
+          "source": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000030966.html"
+        }
+      ],
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000030966.html",
+      "source": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000030966.html"
+    },
+    {
+      "id": "film-the-great-beyond-2027",
+      "type": "film",
+      "title": "The Great Beyond",
+      "release": "2027-09-29",
+      "genres": [
+        "Aventure",
+        "Fantastique",
+        "Thriller"
+      ],
+      "people": {
+        "directors": [
+          "J.J. Abrams"
+        ],
+        "cast": [
+          "Glen Powell",
+          "Jenna Ortega",
+          "Emma Mackey",
+          "Sophie Okonedo"
+        ]
+      },
+      "where": [
+        {
+          "name": "Cinéma",
+          "kind": "cinema",
+          "free": false,
+          "confirmed": true,
+          "source": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000003283.html"
+        }
+      ],
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000003283.html",
+      "source": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000003283.html"
+    },
+    {
+      "id": "film-the-haunting-of-hotel-transylvania-2027",
+      "type": "film",
+      "title": "The Haunting of Hotel Transylvania",
+      "release": "2027-10-06",
+      "genres": [
+        "Animation",
+        "Comédie",
+        "Fantastique"
+      ],
+      "people": {
+        "directors": [
+          "Jennifer Kluska",
+          "Alan Hawkins"
+        ],
+        "cast": [
+          "Brian Hull",
+          "Selena Gomez",
+          "Keegan-Michael Key"
+        ]
+      },
+      "where": [
+        {
+          "name": "Cinéma",
+          "kind": "cinema",
+          "free": false,
+          "confirmed": true,
+          "source": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000038584.html"
+        }
+      ],
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000038584.html",
+      "source": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000038584.html"
+    },
+    {
+      "id": "film-dumas-diable-noir-2027",
+      "type": "film",
+      "title": "Dumas - diable noir",
+      "release": "2027-10-13",
+      "genres": [
+        "Aventure",
+        "Historique"
+      ],
+      "people": {
+        "directors": [
+          "Ladj Ly"
+        ],
+        "cast": [
+          "Théo Christine",
+          "François Civil",
+          "Vincent Cassel",
+          "Omar Sy"
+        ]
+      },
+      "where": [
+        {
+          "name": "Cinéma",
+          "kind": "cinema",
+          "free": false,
+          "confirmed": true,
+          "source": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000013823.html"
+        }
+      ],
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000013823.html",
+      "source": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000013823.html"
+    },
+    {
+      "id": "film-la-momie-4-2027",
+      "type": "film",
+      "title": "La Momie 4",
+      "originalTitle": "The Mummy: Book of the Dead",
+      "release": "2027-10-13",
+      "genres": [
+        "Action",
+        "Aventure"
+      ],
+      "people": {
+        "directors": [
+          "Matt Bettinelli-Olpin",
+          "Tyler Gillett"
+        ],
+        "cast": [
+          "Brendan Fraser",
+          "Rachel Weisz",
+          "John Hannah",
+          "Michael Johnston"
+        ]
+      },
+      "where": [
+        {
+          "name": "Cinéma",
+          "kind": "cinema",
+          "free": false,
+          "confirmed": true,
+          "source": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000034767.html"
+        }
+      ],
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000034767.html",
+      "source": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000034767.html"
+    },
+    {
+      "id": "film-les-enfants-de-la-resistance-l-escalade-2027",
+      "type": "film",
+      "title": "Les Enfants de la Résistance : L'escalade",
+      "release": "2027-10-20",
+      "genres": [
+        "Aventure",
+        "Comédie",
+        "Historique"
+      ],
+      "people": {
+        "directors": [
+          "Christophe Barratier"
+        ],
+        "cast": [
+          "Lucas Hector",
+          "Nina Filbrandt",
+          "Octave Gerbi",
+          "Gérard Jugnot"
+        ]
+      },
+      "where": [
+        {
+          "name": "Cinéma",
+          "kind": "cinema",
+          "free": false,
+          "confirmed": true,
+          "source": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000044740.html"
+        }
+      ],
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000044740.html",
+      "source": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000044740.html"
+    },
+    {
+      "id": "film-nana-2027",
+      "type": "film",
+      "title": "Nana",
+      "release": "2027-10-27",
+      "genres": [
+        "Drame"
+      ],
+      "people": {
+        "directors": [
+          "Olivier Dahan"
+        ],
+        "cast": [
+          "Daniel Auteuil",
+          "Benoît Magimel",
+          "Élodie Bouchez"
+        ]
+      },
+      "where": [
+        {
+          "name": "Cinéma",
+          "kind": "cinema",
+          "free": false,
+          "confirmed": true,
+          "source": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000038074.html"
+        }
+      ],
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000038074.html",
+      "source": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000038074.html"
+    },
+    {
+      "id": "film-5h48-place-des-martyrs-2027",
+      "type": "film",
+      "title": "5h48 : place des Martyrs",
+      "release": "2027-11-10",
+      "genres": [
+        "Action",
+        "Comédie",
+        "Drame"
+      ],
+      "people": {
+        "directors": [
+          "Franck Dubosc"
+        ],
+        "cast": [
+          "Franck Dubosc",
+          "Catherine Frot",
+          "Benoît Poelvoorde",
+          "Vincent Macaigne"
+        ]
+      },
+      "where": [
+        {
+          "name": "Cinéma",
+          "kind": "cinema",
+          "free": false,
+          "confirmed": true,
+          "source": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000037917.html"
+        }
+      ],
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000037917.html",
+      "source": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000037917.html"
+    },
+    {
+      "id": "film-l-ile-au-tresor-2027",
+      "type": "film",
+      "title": "L'Île au trésor",
+      "originalTitle": "Treasure Island",
+      "release": "2027-11-10",
+      "genres": [
+        "Action",
+        "Aventure"
+      ],
+      "people": {
+        "directors": [
+          "Ridley Scott"
+        ],
+        "cast": [
+          "Hugh Jackman",
+          "Hugh Grant",
+          "Owen Cooper"
+        ]
+      },
+      "where": [
+        {
+          "name": "Cinéma",
+          "kind": "cinema",
+          "free": false,
+          "confirmed": true,
+          "source": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000047151.html"
+        }
+      ],
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000047151.html",
+      "source": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000047151.html"
+    },
+    {
+      "id": "film-untitled-event-film-directed-by-daniels-2027",
+      "type": "film",
+      "title": "Untitled Event Film Directed By Daniels",
+      "release": "2027-11-17",
+      "genres": [
+        "Drame"
+      ],
+      "people": {
+        "directors": [
+          "Daniel Kwan",
+          "Daniel Scheinert"
+        ],
+        "cast": [
+          "Matt Damon",
+          "Sandra Oh",
+          "Charles Melton",
+          "Sean Kaufman"
+        ]
+      },
+      "where": [
+        {
+          "name": "Cinéma",
+          "kind": "cinema",
+          "free": false,
+          "confirmed": true,
+          "source": "https://www.allocine.fr/film/fichefilm_gen_cfilm=255013.html"
+        }
+      ],
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=255013.html",
+      "source": "https://www.allocine.fr/film/fichefilm_gen_cfilm=255013.html"
+    },
+    {
+      "id": "film-la-reine-des-neiges-3-2027",
+      "type": "film",
+      "title": "La Reine des Neiges 3",
+      "originalTitle": "Frozen 3",
+      "release": "2027-11-24",
+      "genres": [
+        "Animation",
+        "Aventure",
+        "Musical"
+      ],
+      "people": {
+        "directors": [
+          "Jennifer Lee",
+          "Marc Smith"
+        ],
+        "cast": [
+          "Kristen Bell",
+          "Jonathan Groff",
+          "Josh Gad"
+        ]
+      },
+      "where": [
+        {
+          "name": "Cinéma",
+          "kind": "cinema",
+          "free": false,
+          "confirmed": true,
+          "source": "https://www.allocine.fr/film/fichefilm_gen_cfilm=279451.html"
+        }
+      ],
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=279451.html",
+      "source": "https://www.allocine.fr/film/fichefilm_gen_cfilm=279451.html"
+    },
+    {
+      "id": "film-wings-of-freedom-2027",
+      "type": "film",
+      "title": "Wings of Freedom",
+      "release": "2027-12-08",
+      "genres": [
+        "Animation",
+        "Aventure",
+        "Science-fiction"
+      ],
+      "people": {
+        "directors": [
+          "Laurent Zeitoun",
+          "Xavier Aubague",
+          "Emmanuel Gorinstein"
+        ],
+        "cast": [
+          "Eva Longoria",
+          "Nicholas Galitzine",
+          "Scarlett Estevez"
+        ]
+      },
+      "where": [
+        {
+          "name": "Cinéma",
+          "kind": "cinema",
+          "free": false,
+          "confirmed": true,
+          "source": "https://www.allocine.fr/film/fichefilm_gen_cfilm=304179.html"
+        }
+      ],
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=304179.html",
+      "source": "https://www.allocine.fr/film/fichefilm_gen_cfilm=304179.html"
+    },
+    {
+      "id": "film-avengers-secret-wars-2027",
+      "type": "film",
+      "title": "Avengers: Secret Wars",
+      "release": "2027-12-15",
+      "genres": [
+        "Action",
+        "Fantastique"
+      ],
+      "people": {
+        "directors": [
+          "Anthony Russo",
+          "Joe Russo"
+        ],
+        "cast": [
+          "Robert Downey Jr.",
+          "Pedro Pascal",
+          "Vanessa Kirby",
+          "Joseph Quinn"
+        ]
+      },
+      "where": [
+        {
+          "name": "Cinéma",
+          "kind": "cinema",
+          "free": false,
+          "confirmed": true,
+          "source": "https://www.allocine.fr/film/fichefilm_gen_cfilm=295478.html"
+        }
+      ],
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=295478.html",
+      "source": "https://www.allocine.fr/film/fichefilm_gen_cfilm=295478.html"
+    },
+    {
+      "id": "film-les-secrets-de-la-femme-de-menage-2027",
+      "type": "film",
+      "title": "Les Secrets de la femme de ménage",
+      "originalTitle": "The Housemaid's Secret",
+      "release": "2027-12-15",
+      "genres": [
+        "Drame",
+        "Thriller"
+      ],
+      "people": {
+        "directors": [
+          "Paul Feig"
+        ],
+        "cast": [
+          "Sydney Sweeney",
+          "Michele Morrone",
+          "Kirsten Dunst",
+          "Paul Anthony Kelly"
+        ]
+      },
+      "where": [
+        {
+          "name": "Cinéma",
+          "kind": "cinema",
+          "free": false,
+          "confirmed": true,
+          "source": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000038149.html"
+        }
+      ],
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000038149.html",
+      "source": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000038149.html"
+    },
+    {
+      "id": "film-the-lord-of-the-rings-the-hunt-for-gollum-2027",
+      "type": "film",
+      "title": "The Lord of the Rings: The Hunt for Gollum",
+      "release": "2027-12-15",
+      "genres": [
+        "Aventure",
+        "Fantastique"
+      ],
+      "people": {
+        "directors": [
+          "Andy Serkis"
+        ],
+        "cast": [
+          "Andy Serkis",
+          "Ian McKellen",
+          "Elijah Wood",
+          "Kate Winslet"
+        ]
+      },
+      "where": [
+        {
+          "name": "Cinéma",
+          "kind": "cinema",
+          "free": false,
+          "confirmed": true,
+          "source": "https://www.allocine.fr/film/fichefilm_gen_cfilm=313770.html"
+        }
+      ],
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=313770.html",
+      "source": "https://www.allocine.fr/film/fichefilm_gen_cfilm=313770.html"
+    },
+    {
+      "id": "film-an-untitled-nancy-meyers-film-2027",
+      "type": "film",
+      "title": "An Untitled Nancy Meyers Film",
+      "release": "2027-12-22",
+      "genres": [
+        "Comédie",
+        "Romance"
+      ],
+      "people": {
+        "directors": [
+          "Nancy Meyers"
+        ],
+        "cast": [
+          "Penélope Cruz",
+          "Jude Law",
+          "Owen Wilson",
+          "Kieran Culkin"
+        ]
+      },
+      "where": [
+        {
+          "name": "Cinéma",
+          "kind": "cinema",
+          "free": false,
+          "confirmed": true,
+          "source": "https://www.allocine.fr/film/fichefilm_gen_cfilm=303428.html"
+        }
+      ],
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=303428.html",
+      "source": "https://www.allocine.fr/film/fichefilm_gen_cfilm=303428.html"
+    },
+    {
+      "id": "film-mes-tres-chers-petits-enfants-2027",
+      "type": "film",
+      "title": "Mes très chers petits-enfants",
+      "release": "2027-12-22",
+      "genres": [
+        "Comédie"
+      ],
+      "people": {
+        "directors": [
+          "Alexandra Leclère"
+        ],
+        "cast": [
+          "Josiane Balasko",
+          "Didier Bourdon",
+          "Marilou Berry"
+        ]
+      },
+      "where": [
+        {
+          "name": "Cinéma",
+          "kind": "cinema",
+          "free": false,
+          "confirmed": true,
+          "source": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000054573.html"
+        }
+      ],
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000054573.html",
+      "source": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000054573.html"
+    }
+  ],
+  "pending": [
+    {
+      "id": "sonic-4-date",
+      "kind": "uncertain",
+      "items": [
+        "film-sonic-4-le-film-2027"
+      ],
+      "title": "Date de Sonic 4 à confirmer",
+      "detail": "La fiche AlloCiné indique le 31 mars 2027, mais une actualité de la même page cite le 24 mars 2027. La date de la fiche a été retenue.",
+      "sources": [
+        "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000017329.html"
+      ],
+      "since": "2026-11-12"
+    },
+    {
+      "id": "films-official-pages",
+      "kind": "missing",
+      "title": "Pages officielles des distributeurs non vérifiées",
+      "detail": "Le champ url pointe vers la fiche AlloCiné de chaque film : les pages officielles des distributeurs n'ont pas pu être ouvertes (limite de requêtes atteinte).",
+      "sources": [
+        "https://www.allocine.fr/film/attendus/"
+      ],
+      "since": "2026-11-12"
+    },
+    {
+      "id": "films-streaming-platforms",
+      "kind": "missing",
+      "title": "Plateformes de streaming non annoncées",
+      "detail": "Aucune plateforme de streaming n'est officiellement annoncée pour ces films sur leurs fiches ; seule la sortie en salle est indiquée.",
+      "sources": [
+        "https://www.allocine.fr/film/agenda/mois/mois-2027-06/"
+      ],
+      "since": "2026-11-12"
+    },
+    {
+      "id": "dates-allocine-blockbusters-non-officielles",
+      "kind": "uncertain",
+      "items": [
+        "film-avengers-secret-wars-2027",
+        "film-the-lord-of-the-rings-the-hunt-for-gollum-2027",
+        "film-untitled-event-film-directed-by-daniels-2027",
+        "film-an-untitled-nancy-meyers-film-2027",
+        "film-the-new-simpsons-movie-2027",
+        "film-untitled-crawl-sequel-2027"
+      ],
+      "title": "Dates françaises à confirmer",
+      "detail": "Ces dates viennent des fiches AlloCiné (mercredi précédant la sortie américaine) ; aucune annonce officielle du distributeur français n'a été trouvée. Elles peuvent encore bouger.",
+      "sources": [
+        "https://www.allocine.fr/film/fichefilm_gen_cfilm=295478.html",
+        "https://www.allocine.fr/film/fichefilm_gen_cfilm=313770.html",
+        "https://www.allocine.fr/film/fichefilm_gen_cfilm=255013.html",
+        "https://www.allocine.fr/film/fichefilm_gen_cfilm=303428.html",
+        "https://www.allocine.fr/film/fichefilm_gen_cfilm=232136.html",
+        "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000009070.html"
+      ],
+      "since": "2026-11-12"
+    },
+    {
+      "id": "titres-provisoires",
+      "kind": "uncertain",
+      "items": [
+        "film-untitled-event-film-directed-by-daniels-2027",
+        "film-an-untitled-nancy-meyers-film-2027",
+        "film-untitled-crawl-sequel-2027",
+        "film-a-minecraft-movie-squared-2027",
+        "film-the-new-simpsons-movie-2027",
+        "film-teenage-mutant-ninja-turtles-mutant-mayhem-2-2027"
+      ],
+      "title": "Titres français non annoncés",
+      "detail": "Ces films n'ont pas encore de titre français (ou de titre définitif) : le titre affiché est le titre de travail d'AlloCiné.",
+      "sources": [
+        "https://www.allocine.fr/film/fichefilm_gen_cfilm=255013.html",
+        "https://www.allocine.fr/film/fichefilm_gen_cfilm=303428.html",
+        "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000009070.html",
+        "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000033017.html",
+        "https://www.allocine.fr/film/fichefilm_gen_cfilm=232136.html",
+        "https://www.allocine.fr/film/fichefilm_gen_cfilm=318590.html"
+      ],
+      "since": "2026-11-12"
+    },
+    {
+      "id": "star-wars-decembre-2027",
+      "kind": "missing",
+      "title": "Star Wars de décembre 2027",
+      "detail": "AlloCiné affiche New Jedi Order (17 décembre 2027) et le film de James Mangold (15 décembre 2027), mais des articles récents décrivent ces projets comme en suspens et sans date ; ils ne sont pas retenus.",
+      "sources": [
+        "https://www.allocine.fr/film/fichefilm_gen_cfilm=309618.html",
+        "https://www.allocine.fr/film/fichefilm_gen_cfilm=315097.html",
+        "https://geekslands.fr/prochain-film-star-wars-starfighter-date/"
+      ],
+      "since": "2026-11-12"
+    },
+    {
+      "id": "the-batman-part-ii-reporte",
+      "kind": "missing",
+      "title": "The Batman Part II reporté en 2028",
+      "detail": "Prévu le 1er octobre 2027 aux États-Unis, le film a été repoussé au 18 février 2028 ; il sort donc de la période. Certaines fiches (Pathé) affichent encore le 29 septembre 2027.",
+      "sources": [
+        "https://www.superpouvoir.com/the-batman-2-reporte-2028-date-sortie/",
+        "https://www.pathe.fr/films/the-batman-part-ii-20382"
+      ],
+      "since": "2026-11-12"
+    },
+    {
+      "id": "tmnt-2-casting",
+      "kind": "missing",
+      "items": [
+        "film-teenage-mutant-ninja-turtles-mutant-mayhem-2-2027"
+      ],
+      "title": "Casting de TMNT 2 non publié",
+      "detail": "La fiche AlloCiné ne liste pas encore de distribution vocale.",
+      "sources": [
+        "https://www.allocine.fr/film/fichefilm_gen_cfilm=318590.html"
+      ],
+      "since": "2026-11-12"
+    },
+    {
+      "id": "harry-potter-calendrier",
+      "kind": "uncertain",
+      "items": [
+        "serie-harry-potter-2026-s1"
+      ],
+      "title": "Harry Potter : date du final",
+      "detail": "La première le 25 décembre 2026 est confirmée, mais HBO n'a pas publié le calendrier des épisodes 2 à 8 ; le final au 14 février 2027 vient de la presse et de Wikipédia.",
+      "sources": [
+        "https://www.jechange.fr/telecom/internet/news/serie-harry-potter-hbo-max-25-decembre-un-episode-par-semaine-prix-abonnement",
+        "https://fr.wikipedia.org/wiki/Harry_Potter_(s%C3%A9rie_t%C3%A9l%C3%A9vis%C3%A9e)"
+      ],
+      "since": "2026-11-12"
+    },
+    {
+      "id": "the-pitt-s3-date",
+      "kind": "uncertain",
+      "items": [
+        "serie-the-pitt-2027-s3"
+      ],
+      "title": "The Pitt saison 3 : janvier 2027 sans jour précis",
+      "detail": "HBO Max annonce janvier 2027 sans date exacte ; le 1er janvier est un placeholder (le 7 janvier circule mais n'est pas officiel).",
+      "sources": [
+        "https://mcetv.ouest-france.fr/2026/the-pitt-saison-3-hbo-max-teaser-anxiogene/"
+      ],
+      "since": "2026-11-12"
+    },
+    {
+      "id": "knight-s2-date",
+      "kind": "uncertain",
+      "items": [
+        "serie-a-knight-of-the-seven-kingdoms-2027-s2"
+      ],
+      "title": "A Knight of the Seven Kingdoms saison 2 : premier semestre 2027",
+      "detail": "Le showrunner annonce une sortie au premier semestre 2027 sans date ; le 1er janvier est un placeholder.",
+      "sources": [
+        "https://winteriscoming.net/a-knight-of-the-seven-kingdoms-boss-confirms-season-2-release-window"
+      ],
+      "since": "2026-11-12"
+    },
+    {
+      "id": "daredevil-s3-date",
+      "kind": "uncertain",
+      "items": [
+        "serie-daredevil-born-again-2027-s3"
+      ],
+      "title": "Daredevil: Born Again saison 3 : mars 2027 non officiel",
+      "detail": "La fenêtre de mars 2027 est rapportée par la presse sans citation officielle de Marvel ni date précise ; dernière saison.",
+      "sources": [
+        "https://www.9to5marvel.com/daredevil-born-again-season-3-release-date/"
+      ],
+      "since": "2026-11-12"
+    },
+    {
+      "id": "comtesse-netflix",
+      "kind": "uncertain",
+      "items": [
+        "serie-la-comtesse-de-monte-cristo-2026"
+      ],
+      "title": "La Comtesse de Monte-Cristo sur Netflix",
+      "detail": "La diffusion sur TF1 le 16 novembre à 21h10 (deux épisodes par soirée) est confirmée ; la mise en ligne simultanée sur Netflix en France n'est pas confirmée.",
+      "sources": [
+        "https://www.allocine.fr/article/fichearticle_gen_carticle=1000229375.html",
+        "https://www.netflix-news.com/articles/programmes/series/1632864-la-comtesse-de-monte-cristo-la-serie-de-tf1-arrive-sur-netflix-le-16-novembre-2026-05-11-2026/"
+      ],
+      "since": "2026-11-12"
+    },
+    {
+      "id": "astrid-dates",
+      "kind": "uncertain",
+      "items": [
+        "serie-astrid-et-raphaelle-2026-s7"
+      ],
+      "title": "Astrid et Raphaëlle : france.tv puis France 2",
+      "detail": "Les quatre premiers épisodes sont en avant-première sur france.tv dès le 13 novembre, la diffusion sur France 2 commence le vendredi 20 novembre à 21h10.",
+      "sources": [
+        "https://www.tv.fr/actualites/astrid-et-raphaelle-saison-7-2026-10-31"
+      ],
+      "since": "2026-11-12"
+    },
+    {
+      "id": "omitb-calendrier",
+      "kind": "uncertain",
+      "items": [
+        "serie-only-murders-in-the-building-2026-s6"
+      ],
+      "title": "Only Murders in the Building : date du final",
+      "detail": "Le calendrier hebdomadaire (final vers février 2027) n'apparaît que sur Wikipédia FR, avec une liste incomplète ; releaseEnd non renseigné.",
+      "sources": [
+        "https://fr.wikipedia.org/wiki/Saison_6_d'Only_Murders_in_the_Building"
+      ],
+      "since": "2026-11-12"
+    },
+    {
+      "id": "allocine-only",
+      "kind": "uncertain",
+      "items": [
+        "serie-the-hunting-wives-2026-s2",
+        "serie-surcompensation-2027-s2",
+        "serie-off-campus-2027-s2"
+      ],
+      "title": "Dates issues du seul agenda AlloCiné",
+      "detail": "Ces dates et plateformes viennent uniquement de l'agenda AlloCiné des séries renouvelées, sans communiqué de la plateforme ni casting vérifié.",
+      "sources": [
+        "https://www.allocine.fr/series/renouvelees/agenda/",
+        "https://www.allocine.fr/series/renouvelees/agenda/?page=2"
+      ],
+      "since": "2026-11-12"
+    },
+    {
+      "id": "annonces-2027-sans-date",
+      "kind": "missing",
+      "title": "Grandes séries 2027 sans date",
+      "detail": "Annoncées pour 2027 sans date ni fenêtre précise : The Last of Us saison 3 (HBO Max), Fallout saison 3 (Prime Video), One Piece saison 3 et Bridgerton saison 5 (Netflix), Mercredi saison 3 (Netflix), Vought Rising (Prime Video), Baron Noir saison 4 (Canal+), Severance saison 3 (Apple TV+). House of the Dragon saison 4 est attendue en 2028.",
+      "sources": [
+        "https://www.serie-news.com/hbo-max/51934-the-last-of-us-saison-3-sur-hbo-max-john-goodman-et-des-voix-du-jeu-rejoignent-le-casting-27-09-2026/",
+        "https://www.xboxygen.com/News/372734-fallout-saison-3-sur-prime-video-le-tournage-est-termine-rendez-vous-en-2027",
+        "https://serieophile.fr/bridgerton-saison-5-date-de-sortie-netflix/",
+        "https://www.aboutamazon.com/news/entertainment/the-boys-vought-rising-prime-video",
+        "https://tv-programme.com/news/baron-noir-revient-sur-canal-plus-philippe-rickwaert-retrouve-une-alliee-inattendue-de-la-fievre-a06995"
+      ],
+      "since": "2026-11-12"
+    },
+    {
+      "id": "couverture-incomplete",
+      "kind": "missing",
+      "title": "Liste incomplète",
+      "detail": "La recherche a été interrompue par une limite de session : 25 séries seulement au lieu de 35 à 45, et les grilles 2027 de TF1, M6, France Télévisions, Arte et Canal+ restent à compléter.",
+      "since": "2026-11-12"
+    }
+  ]
+}
