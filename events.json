@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11",
+  "updated": "2026-11-15",
   "events": [
     {
       "id": "multisport-jeux-olympiques-d-hiver-milano-cortina-2026",
@@ -156,6 +156,30 @@
       }
     },
     {
+      "id": "nba-saison-reguliere-2026-27-2026",
+      "sport": "NBA",
+      "name": "Saison régulière 2026-27",
+      "start": "2026-10-20",
+      "end": "2027-04-11",
+      "location": "États-Unis et Canada (30 franchises)",
+      "url": "https://www.nba.com/",
+      "source": "https://www.nba.com/news/key-dates",
+      "broadcasts": [
+        {
+          "name": "beIN Sports",
+          "free": false,
+          "source": "https://blog.iambeezy.app/fr/reprise-nba-spurs-thunder-wembanyama-ou-regarder-francais/",
+          "note": "Au moins un match par jour"
+        },
+        {
+          "name": "Prime Video",
+          "free": false,
+          "source": "https://www.sortiraparis.com/en/what-to-do-in-paris/sport-wellness/articles/333493-nba-on-prime-video-how-to-follow-the-2026-2027-season-in-france",
+          "note": "Jusqu'à 86 matchs en France"
+        }
+      ]
+    },
+    {
       "id": "ski-alpin-coupe-du-monde-de-ski-alpin-2026-2027-2026",
       "sport": "Ski alpin",
       "name": "Coupe du monde de ski alpin 2026-2027",
@@ -172,6 +196,16 @@
           "note": "Eurosport 1 ; aussi via HBO Max"
         }
       ]
+    },
+    {
+      "id": "nba-emirates-nba-cup-2026",
+      "sport": "NBA",
+      "name": "Emirates NBA Cup",
+      "start": "2026-10-30",
+      "end": "2026-12-11",
+      "location": "États-Unis ; finale à Indianapolis (Hinkle Fieldhouse)",
+      "url": "https://www.nba.com/",
+      "source": "https://www.nba.com/news/key-dates"
     },
     {
       "id": "voile-route-du-rhum-destination-guadeloupe-2026",
@@ -1003,6 +1037,68 @@
       }
     },
     {
+      "id": "nba-matchs-de-noel-2026",
+      "sport": "NBA",
+      "name": "Matchs de Noël (5 rencontres)",
+      "start": "2026-12-25",
+      "location": "États-Unis",
+      "url": "https://www.nba.com/",
+      "source": "https://www.nba.com/news/key-dates",
+      "broadcasts": [
+        {
+          "name": "beIN Sports",
+          "free": false,
+          "source": "https://blog.iambeezy.app/fr/reprise-nba-spurs-thunder-wembanyama-ou-regarder-francais/"
+        }
+      ],
+      "participants": {
+        "type": "teams",
+        "source": "https://www.nba.com/news/key-dates",
+        "matches": [
+          {
+            "a": "San Antonio Spurs",
+            "b": "New York Knicks",
+            "date": "2026-12-25",
+            "at": "2026-12-25T12:00:00-05:00",
+            "label": "Noël",
+            "source": "https://www.nba.com/news/key-dates"
+          },
+          {
+            "a": "Miami Heat",
+            "b": "Boston Celtics",
+            "date": "2026-12-25",
+            "at": "2026-12-25T14:30:00-05:00",
+            "label": "Noël",
+            "source": "https://www.nba.com/news/key-dates"
+          },
+          {
+            "a": "Philadelphia 76ers",
+            "b": "Los Angeles Lakers",
+            "date": "2026-12-25",
+            "at": "2026-12-25T17:00:00-05:00",
+            "label": "Noël",
+            "source": "https://www.nba.com/news/key-dates"
+          },
+          {
+            "a": "Oklahoma City Thunder",
+            "b": "Minnesota Timberwolves",
+            "date": "2026-12-25",
+            "at": "2026-12-25T20:00:00-05:00",
+            "label": "Noël",
+            "source": "https://www.nba.com/news/key-dates"
+          },
+          {
+            "a": "Denver Nuggets",
+            "b": "Golden State Warriors",
+            "date": "2026-12-25",
+            "at": "2026-12-25T22:30:00-05:00",
+            "label": "Noël",
+            "source": "https://www.nba.com/news/key-dates"
+          }
+        ]
+      }
+    },
+    {
       "id": "sport-auto-dakar-dates-soumises-a-l-approbation-de-la-fia-2027",
       "sport": "Sport auto",
       "name": "Dakar (dates soumises à l'approbation de la FIA)",
@@ -1076,6 +1172,34 @@
       }
     },
     {
+      "id": "nba-nba-paris-game-2027",
+      "sport": "NBA",
+      "name": "NBA Paris Game",
+      "start": "2027-01-14",
+      "location": "Paris (Accor Arena)",
+      "url": "https://www.nba.com/",
+      "source": "https://www.nba.com/news/spurs-pelicans-nba-paris-nba-manchester-2027",
+      "broadcasts": [
+        {
+          "name": "Prime Video",
+          "free": false,
+          "source": "https://blog.iambeezy.app/fr/reprise-nba-spurs-thunder-wembanyama-ou-regarder-francais/"
+        }
+      ],
+      "participants": {
+        "type": "teams",
+        "source": "https://www.nba.com/news/spurs-pelicans-nba-paris-nba-manchester-2027",
+        "matches": [
+          {
+            "a": "San Antonio Spurs",
+            "b": "New Orleans Pelicans",
+            "date": "2027-01-14",
+            "source": "https://www.nba.com/news/spurs-pelicans-nba-paris-nba-manchester-2027"
+          }
+        ]
+      }
+    },
+    {
       "id": "mma-ares-marseille-2027",
       "sport": "MMA",
       "name": "ARES Marseille",
@@ -1084,6 +1208,27 @@
       "url": "https://www.aresfighting.com/",
       "source": "https://www.aresfighting.com/events/",
       "tentative": true
+    },
+    {
+      "id": "nba-nba-manchester-game-2027",
+      "sport": "NBA",
+      "name": "NBA Manchester Game",
+      "start": "2027-01-17",
+      "location": "Manchester (Co-op Live)",
+      "url": "https://www.nba.com/",
+      "source": "https://www.nba.com/news/spurs-pelicans-nba-paris-nba-manchester-2027",
+      "participants": {
+        "type": "teams",
+        "source": "https://www.nba.com/news/spurs-pelicans-nba-paris-nba-manchester-2027",
+        "matches": [
+          {
+            "a": "San Antonio Spurs",
+            "b": "New Orleans Pelicans",
+            "date": "2027-01-17",
+            "source": "https://www.nba.com/news/spurs-pelicans-nba-paris-nba-manchester-2027"
+          }
+        ]
+      }
     },
     {
       "id": "tennis-open-d-australie-2027",
@@ -1430,13 +1575,13 @@
     },
     {
       "id": "basket-ball-nba-all-star-game-2027",
-      "sport": "Basket-ball",
-      "name": "NBA All-Star Game",
+      "sport": "NBA",
+      "name": "NBA All-Star Weekend",
       "start": "2027-02-19",
       "end": "2027-02-21",
       "location": "Phoenix (États-Unis)",
       "url": "https://www.nba.com",
-      "source": "https://wikipedia.com/wiki/2027_in_sports",
+      "source": "https://www.nba.com/news/key-dates",
       "broadcasts": [
         {
           "name": "beIN Sports",
@@ -1657,6 +1802,23 @@
       "location": "Astana (Kazakhstan)",
       "url": "https://worldboxing.org/",
       "source": "https://worldboxing.org/calendar/"
+    },
+    {
+      "id": "nba-play-in-tournament-2027",
+      "sport": "NBA",
+      "name": "Play-In Tournament",
+      "start": "2027-04-13",
+      "end": "2027-04-16",
+      "location": "États-Unis",
+      "url": "https://www.nba.com/",
+      "source": "https://www.nba.com/news/key-dates",
+      "broadcasts": [
+        {
+          "name": "Prime Video",
+          "free": false,
+          "source": "https://blog.iambeezy.app/fr/reprise-nba-spurs-thunder-wembanyama-ou-regarder-francais/"
+        }
+      ]
     },
     {
       "id": "judo-championnats-d-europe-de-judo-2027",
@@ -2934,6 +3096,16 @@
       "title": "Heures de combats non publiées",
       "detail": "Fury vs Joshua, Kabayel vs Hysa, Bivol vs Smith, ARES 45 et PFL Lyon : heures contradictoires ou estimées, non retenues.",
       "since": "2026-11-11"
+    },
+    {
+      "id": "nba-playoffs-finales-2027",
+      "kind": "missing",
+      "title": "Playoffs et Finales NBA 2027 : dates non finalisées",
+      "detail": "Le Play-In est fixé au 13-16 avril 2027 et NBA.com annonce le début des playoffs le 17 avril (page libellée « 2026 », probable coquille), mais d'autres sources indiquent le 18 avril. Les dates des Finales (juin 2027) ne sont pas publiées. Événements écartés faute de dates sourcées.",
+      "since": "2026-11-15",
+      "sources": [
+        "https://www.nba.com/news/key-dates"
+      ]
     }
   ]
 }
