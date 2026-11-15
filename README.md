@@ -1,16 +1,18 @@
 # Au programme
 
-Site statique (HTML/JS vanilla, sans backend) en deux rubriques, accessibles par le menu latéral : le calendrier des événements sportifs et les sorties de films et de séries en France. Hébergé sur Netlify, source de vérité sur GitHub.
+Site statique (HTML/JS vanilla, sans backend) en trois rubriques, accessibles par le menu latéral : le calendrier des événements sportifs, les sorties de films et de séries en France, et les activités à Montpellier et jusqu'à 50 km alentour. Hébergé sur Netlify, source de vérité sur GitHub.
 
 ## Fichiers
 
 - `events.json` : les données, un objet `{ "updated": "AAAA-MM-JJ", "events": [...], "pending": [...] }`. `updated` est affiché sous le titre du site et doit être mis à jour à chaque modification des données.
 - `events.schema.json` : schéma JSON de `events.json`.
 - `screens.json` : les films et séries, même structure (`updated`, `items`, `pending`). Décrit par `screens.schema.json`.
-- `index.html` (Sports) et `films-series.html` (Films & séries) : les pages, avec `style.css` commun.
-- `js/common.js` : fonctions partagées (dates, liens sûrs, barre d'application et menu, onglet « Infos non abouties »). `js/sports.js` et `js/screens.js` : une rubrique chacun. Les statuts (à venir, en cours, sorti) sont calculés dans le navigateur, jamais stockés.
-- `scripts/validate.mjs` : validation des deux fichiers de données (schéma, doublons d'`id`, dates réelles, périodes cohérentes, références des infos non abouties). Lancée par la CI sur chaque PR.
-- `netlify.toml` : publication de la racine, en-têtes de sécurité.
+- `activities.json` : les activités autour de Montpellier, même structure. Décrit par `activities.schema.json`.
+- `index.html` (Sports), `films-series.html` (Films & séries) et `activites.html` (Activités) : les pages, avec `style.css` commun.
+- `js/common.js` : fonctions partagées (dates, liens sûrs, barre d'application et menu, onglet « Infos non abouties »). `js/sports.js`, `js/screens.js` et `js/activities.js` : une rubrique chacun. Les statuts (à venir, en cours, sorti) sont calculés dans le navigateur, jamais stockés.
+- `vendor/leaflet/` : [Leaflet](https://leafletjs.com/reference.html) 1.9.4, servi depuis le site pour la carte des activités (fond de carte [OpenStreetMap](https://operations.osmfoundation.org/policies/tiles/)).
+- `scripts/validate.mjs` : validation des trois fichiers de données (schéma, doublons d'`id`, dates réelles, périodes cohérentes, distance maximale des activités, références des infos non abouties). Lancée par la CI sur chaque PR.
+- `netlify.toml` : publication de la racine, en-têtes de sécurité ([headers Netlify](https://docs.netlify.com/routing/headers/)) ; la CSP autorise les tuiles `tile.openstreetmap.org`.
 
 ## Modèle de données
 
@@ -47,6 +49,26 @@ Site statique (HTML/JS vanilla, sans backend) en deux rubriques, accessibles par
 
 Dans `pending`, les titres concernés sont listés dans `items` (et non `events`).
 
+## Activités (`activities.json`)
+
+Distances calculées dans le navigateur, à vol d'oiseau depuis la place de la Comédie (43.6086, 3.8797). Un rendez-vous récurrent (quiz hebdomadaire, marché) est décrit par une seule entrée couvrant la période (`start`, `end`) avec sa récurrence dans `note`. Une activité sans `start` est un lieu ou une sortie possible toute l'année (affichée dans « Toute l'année », triée par distance).
+
+| Champ | Obligatoire | Description |
+|---|---|---|
+| `id` | oui | `type-nom-année` pour un événement, `type-nom` pour un lieu |
+| `type` | oui | `concert`, `spectacle` (théâtre, humour, danse, cirque), `soiree` (DJ, quiz, karaoké, jam, scène ouverte), `exposition`, `festival`, `marche` (marchés, brocantes, salons), `atelier` (ateliers, conférences, rencontres), `sport`, `nature`, `patrimoine`, `famille` |
+| `title` | oui | |
+| `start`, `end` | non | `AAAA-MM-JJ`. `end` seulement pour un événement de plusieurs jours |
+| `at` | non | horaire d'une séance unique, ISO 8601 avec décalage UTC (`2026-11-28T20:00:00+01:00`), compris entre `start` et `end` |
+| `venue`, `town` | `town` oui | lieu et commune |
+| `lat`, `lon` | oui | coordonnées du lieu (parking de départ pour une randonnée), à 50 km au plus de Montpellier |
+| `free` | non | `true` si l'accès est gratuit |
+| `note` | non | info pratique courte (160 caractères au plus) |
+| `url`, `source` | oui | page officielle, source qui confirme la date et le lieu |
+| `cancelled`, `tentative` | non | annulé, annoncé mais non définitif |
+
+Dans `pending`, les activités concernées sont listées dans `items`.
+
 ## Infos non abouties
 
 `pending` alimente l'onglet « Infos non abouties » : une entrée par information manquante (`kind: "missing"`, écartée faute de source) ou incertaine (`kind: "uncertain"`, retenue avec un doute). Champs : `id`, `kind`, `title`, `detail`, `since` (date du relevé), `events` (ids des événements concernés, facultatif), `sources` (facultatif). Sur les cartes, seuls les diffuseurs non confirmés (« ? ») et les événements non finalisés (badge) sont signalés. L'onglet ajoute de lui-même les événements à venir sans diffuseur confirmé. Une entrée est retirée dès que le point est résolu.
@@ -60,7 +82,7 @@ Dans `pending`, les titres concernés sont listés dans `items` (et non `events`
 
 ## Mise à jour quotidienne
 
-Un job tourne une fois par jour. Il relit `events.json` et `screens.json`, cherche sur le web les changements (dates, lieux, annulations, diffuseurs, dates de sortie, plateformes, casting), applique les corrections sourcées, complète les participants dès qu'ils sont connus, met à jour `pending` et `updated`, lance `npm run validate` puis ouvre une pull request listant chaque changement avec sa source. Il ne pousse jamais sur `main`.
+Un job tourne une fois par jour. Il relit `events.json`, `screens.json` et `activities.json`, cherche sur le web les changements (dates, lieux, annulations, diffuseurs, dates de sortie, plateformes, casting, nouveaux événements à Montpellier et dans un rayon de 50 km), retire les activités passées depuis plus d'un mois, applique les corrections sourcées, complète les participants dès qu'ils sont connus, met à jour `pending` et `updated`, lance `npm run validate` puis ouvre une pull request listant chaque changement avec sa source. Il ne pousse jamais sur `main`.
 
 ## Développement local
 

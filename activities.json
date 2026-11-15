@@ -1,0 +1,2040 @@
+{
+  "updated": "2026-11-15",
+  "items": [
+    {
+      "id": "exposition-l-art-romain-du-louvre-nimes-2026",
+      "type": "exposition",
+      "title": "L'art romain du Louvre. Un monde d'images",
+      "start": "2026-06-11",
+      "end": "2027-01-10",
+      "venue": "Musée de la Romanité",
+      "town": "Nîmes",
+      "lat": 43.834,
+      "lon": 4.3609,
+      "note": "Tous les jours 10h-19h. Gratuit le premier dimanche du mois (6 décembre).",
+      "url": "https://museedelaromanite.fr/",
+      "source": "https://museedelaromanite.fr/en/"
+    },
+    {
+      "id": "exposition-marie-ange-guilleminot-nimes-2026",
+      "type": "exposition",
+      "title": "Marie-Ange Guilleminot, « MA, l'espace qui relie »",
+      "start": "2026-11-07",
+      "end": "2027-03-14",
+      "venue": "Carré d'Art, musée d'art contemporain",
+      "town": "Nîmes",
+      "lat": 43.8384,
+      "lon": 4.3557,
+      "note": "Rétrospective entre sculpture, performance, design et architecture.",
+      "url": "https://carreartmusee.com/fr/expositions/marie-ange-guilleminot-238",
+      "source": "https://www.carreartmusee.com/"
+    },
+    {
+      "id": "spectacle-alex-vizorek-nimes-2026",
+      "type": "spectacle",
+      "title": "Alex Vizorek",
+      "start": "2026-11-18",
+      "end": "2026-11-19",
+      "venue": "Théâtre de Nîmes",
+      "town": "Nîmes",
+      "lat": 43.8384,
+      "lon": 4.3594,
+      "note": "Humour.",
+      "url": "https://theatredenimes.com/spectacle/alex-vizorek-2/",
+      "source": "https://theatredenimes.com/programme/"
+    },
+    {
+      "id": "spectacle-nocturne-parade-domaine-d-o-2026",
+      "type": "spectacle",
+      "title": "Nocturne (Parade) – Phia Ménard",
+      "start": "2026-11-18",
+      "end": "2026-11-21",
+      "venue": "Domaine d'O",
+      "town": "Montpellier",
+      "lat": 43.6339,
+      "lon": 3.839,
+      "note": "Théâtre-cirque, complet",
+      "url": "https://www.domainedo.fr/spectacles/tous-les-spectacles/nocturne-parade",
+      "source": "https://www.domainedo.fr/spectacles/tous-les-spectacles"
+    },
+    {
+      "id": "concert-dorothee-zenith-sud-2026",
+      "type": "concert",
+      "title": "Dorothée – Se retrouver",
+      "start": "2026-11-20",
+      "at": "2026-11-20T20:00:00+01:00",
+      "venue": "Zénith Sud",
+      "town": "Montpellier",
+      "lat": 43.6131,
+      "lon": 3.9309,
+      "url": "https://www.zenithsud-montpellier.com/fr/agenda/concert-spectacles-corum/dorothee",
+      "source": "https://zenithsud-montpellier.com/fr/agenda?name=&nbrMonths=24&place=&public=&scrollTo=1&type="
+    },
+    {
+      "id": "spectacle-l-opera-des-fleurs-opera-comedie-2026",
+      "type": "spectacle",
+      "title": "L'Opéra des fleurs (Hwajeonga)",
+      "start": "2026-11-20",
+      "end": "2026-11-22",
+      "venue": "Opéra Comédie",
+      "town": "Montpellier",
+      "lat": 43.6078,
+      "lon": 3.8787,
+      "note": "Opéra d'Uzung Choe ; ven. 20h, sam. 19h, dim. 17h",
+      "url": "https://www.opera-orchestre-montpellier.fr/evenements/l-opera-des-fleurs/",
+      "source": "https://www.opera-orchestre-montpellier.fr/evenements/l-opera-des-fleurs/"
+    },
+    {
+      "id": "exposition-les-santons-de-provence-lunel-2026",
+      "type": "exposition",
+      "title": "Les Santons de Provence (42e édition)",
+      "start": "2026-11-21",
+      "end": "2026-12-20",
+      "venue": "Espace Louis Feuillade",
+      "town": "Lunel",
+      "lat": 43.6753,
+      "lon": 4.1355,
+      "free": true,
+      "note": "Mar.-sam. 10h-12h et 14h-18h, dim. 10h-12h et 15h-18h, fermé le lundi.",
+      "url": "https://www.lejournaltoulousain.fr/occitanie/herault/lunel/magie-noel-revient-lunel-milliers-santons-decouvrir-des-21-novembre-403569/",
+      "source": "https://www.lejournaltoulousain.fr/occitanie/herault/lunel/magie-noel-revient-lunel-milliers-santons-decouvrir-des-21-novembre-403569/"
+    },
+    {
+      "id": "festival-la-calamarade-frontignan-2026",
+      "type": "festival",
+      "title": "La Calamarade (4e édition)",
+      "start": "2026-11-22",
+      "venue": "Autour de l'Hôtel de Ville",
+      "town": "Frontignan",
+      "lat": 43.4483,
+      "lon": 3.7558,
+      "note": "Reportée du 15 au 22 nov. Dès 10h, ambiance bodega jusqu'à 17h, dégustation de calamars.",
+      "url": "https://infoccitanie.fr/frontignan-la-calamarade-un-rendez-vous-gourmand-a-ne-pas-manquer/",
+      "source": "https://infoccitanie.fr/frontignan-la-calamarade-un-rendez-vous-gourmand-a-ne-pas-manquer/"
+    },
+    {
+      "id": "spectacle-mirabeau-l-insolent-castelnau-le-lez-2026",
+      "type": "spectacle",
+      "title": "Mirabeau l'insolent",
+      "start": "2026-11-22",
+      "at": "2026-11-22T17:30:00+01:00",
+      "venue": "Le Kiasma",
+      "town": "Castelnau-le-Lez",
+      "lat": 43.6368,
+      "lon": 3.8985,
+      "note": "Les Dimanches du Théâtre classique, par la Compagnie du Café Voltaire.",
+      "url": "https://www.castelnau-le-lez.fr/actualite/culture/la-billetterie-du-kiasma-est-ouverte/",
+      "source": "https://www.lartvues.com/castelnau-le-lez-les-dimanches-du-theatre-classique-4e-edition-au-kiasma-du-8-novembre-au-13-decembre/"
+    },
+    {
+      "id": "concert-zed-saint-jean-de-vedas-2026",
+      "type": "concert",
+      "title": "Zed",
+      "start": "2026-11-26",
+      "venue": "Victoire 2",
+      "town": "Saint-Jean-de-Védas",
+      "lat": 43.5736,
+      "lon": 3.8533,
+      "note": "Rap.",
+      "url": "https://www.victoire2.com/saison_en_cours/zed/",
+      "source": "https://www.victoire2.com/"
+    },
+    {
+      "id": "concert-bigflo-oli-sud-de-france-arena-2026",
+      "type": "concert",
+      "title": "Bigflo & Oli – Karma Tour",
+      "start": "2026-11-27",
+      "at": "2026-11-27T20:00:00+01:00",
+      "venue": "Sud de France Arena",
+      "town": "Pérols",
+      "lat": 43.5733,
+      "lon": 3.9517,
+      "url": "https://www.suddefrance-arena.com/event/bigflo-oli/",
+      "source": "https://rocksound.fr/salles/sud-de-france-arena-montpellier/"
+    },
+    {
+      "id": "marche-noel-promenade-du-peyrou-2026",
+      "type": "marche",
+      "title": "Marché de Noël – Montpellier fête Noël",
+      "start": "2026-11-27",
+      "end": "2026-12-30",
+      "venue": "Promenade du Peyrou",
+      "town": "Montpellier",
+      "lat": 43.6115,
+      "lon": 3.8701,
+      "free": true,
+      "note": "Une centaine d'artisans et commerçants",
+      "url": "https://www.jds.fr/montpellier/manifestations/fetes/coeur-de-ville-en-lumieres-a-montpellier-262258_A",
+      "source": "https://www.jds.fr/montpellier/manifestations/fetes/coeur-de-ville-en-lumieres-a-montpellier-262258_A"
+    },
+    {
+      "id": "spectacle-festival-mondial-de-la-magie-zenith-sud-2026",
+      "type": "spectacle",
+      "title": "Festival mondial de la magie – 3e édition",
+      "start": "2026-11-27",
+      "at": "2026-11-27T20:00:00+01:00",
+      "venue": "Zénith Sud",
+      "town": "Montpellier",
+      "lat": 43.6131,
+      "lon": 3.9309,
+      "url": "https://www.zenithsud-montpellier.com/fr/agenda/concert-spectacles-corum/festival-mondial-de-la-magie",
+      "source": "https://zenithsud-montpellier.com/fr/agenda?name=&nbrMonths=24&place=&public=&scrollTo=1&type="
+    },
+    {
+      "id": "spectacle-l-ecole-des-femmes-sete-2026",
+      "type": "spectacle",
+      "title": "L'École des femmes",
+      "start": "2026-11-27",
+      "end": "2026-11-28",
+      "venue": "Théâtre Molière",
+      "town": "Sète",
+      "lat": 43.4054,
+      "lon": 3.6935,
+      "note": "Molière, mise en scène Robin Renucci, avec François Morel. 20h. Le 27 novembre est complet.",
+      "url": "https://tmsete.com/saisons/saison-2026-2027/l-ecole-des-femmes",
+      "source": "https://tmsete.com/saisons/saison-2026-2027/l-ecole-des-femmes"
+    },
+    {
+      "id": "sport-mhb-cesson-rennes-2026",
+      "type": "sport",
+      "title": "Montpellier Handball – Cesson-Rennes",
+      "start": "2026-11-27",
+      "at": "2026-11-27T20:00:00+01:00",
+      "venue": "FDI Stadium (Palais des sports René-Bougnol)",
+      "town": "Montpellier",
+      "lat": 43.6381,
+      "lon": 3.8747,
+      "note": "Daikin Starligue, 12e journée",
+      "url": "https://www.montpellierhandball.com/",
+      "source": "https://www.montpellierhandball.com/"
+    },
+    {
+      "id": "concert-folie-s-theo-juice-saint-jean-de-vedas-2026",
+      "type": "concert",
+      "title": "Folie's + Théo Juice",
+      "start": "2026-11-28",
+      "venue": "Victoire 2",
+      "town": "Saint-Jean-de-Védas",
+      "lat": 43.5736,
+      "lon": 3.8533,
+      "note": "Rap, soul, disco.",
+      "url": "https://www.victoire2.com/saison_en_cours/folies/",
+      "source": "https://www.victoire2.com/"
+    },
+    {
+      "id": "famille-ouverture-foret-magique-la-grande-motte-2026",
+      "type": "famille",
+      "title": "Ouverture de la Forêt Magique et parade de Noël",
+      "start": "2026-11-28",
+      "at": "2026-11-28T17:00:00+01:00",
+      "venue": "Place de l'Épi puis place de l'Hôtel de Ville",
+      "town": "La Grande-Motte",
+      "lat": 43.5607,
+      "lon": 4.0844,
+      "note": "Parade lumineuse et retraite aux lampions à 17h, illumination de la Forêt Magique à 18h30.",
+      "url": "https://www.lagrandemotte.fr/agenda/illumination-de-la-grande-motte/",
+      "source": "https://www.lagrandemotte.fr/agenda/illumination-de-la-grande-motte/"
+    },
+    {
+      "id": "marche-marche-artisanal-de-noel-sete-2026",
+      "type": "marche",
+      "title": "Marché artisanal de Noël de Sète",
+      "start": "2026-11-28",
+      "end": "2026-11-29",
+      "venue": "Place Aristide-Briand",
+      "town": "Sète",
+      "lat": 43.4036,
+      "lon": 3.6963,
+      "note": "Première édition. Samedi 10h-19h, dimanche 10h-18h.",
+      "url": "https://www.sete.fr/article/premier-marche-artisanal-de-noel-a-sete-les-candidatures-sont-ouvertes/",
+      "source": "https://www.sete.fr/article/premier-marche-artisanal-de-noel-a-sete-les-candidatures-sont-ouvertes/"
+    },
+    {
+      "id": "concert-ben-mazue-sud-de-france-arena-2026",
+      "type": "concert",
+      "title": "Ben Mazué",
+      "start": "2026-11-29",
+      "at": "2026-11-29T19:00:00+01:00",
+      "venue": "Sud de France Arena",
+      "town": "Pérols",
+      "lat": 43.5733,
+      "lon": 3.9517,
+      "url": "https://www.suddefrance-arena.com/event/ben-mazue/",
+      "source": "https://rocksound.fr/salles/sud-de-france-arena-montpellier/"
+    },
+    {
+      "id": "concert-disiz-zenith-sud-2026",
+      "type": "concert",
+      "title": "Disiz – On s'en rappellera Tour",
+      "start": "2026-12-03",
+      "at": "2026-12-03T20:00:00+01:00",
+      "venue": "Zénith Sud",
+      "town": "Montpellier",
+      "lat": 43.6131,
+      "lon": 3.9309,
+      "url": "https://www.zenithsud-montpellier.com/fr/agenda/concert-spectacles-corum/disiz",
+      "source": "https://zenithsud-montpellier.com/fr/agenda?name=&nbrMonths=24&place=&public=&scrollTo=1&type="
+    },
+    {
+      "id": "concert-muse-sud-de-france-arena-2026",
+      "type": "concert",
+      "title": "Muse – The Wow! Signal Europa Tour",
+      "start": "2026-12-03",
+      "end": "2026-12-04",
+      "venue": "Sud de France Arena",
+      "town": "Pérols",
+      "lat": 43.5733,
+      "lon": 3.9517,
+      "note": "Deux soirs, 19h30",
+      "url": "https://www.suddefrance-arena.com/event/muse-the-wow-signal-europa-tour-2026/",
+      "source": "https://rocksound.fr/salles/sud-de-france-arena-montpellier/"
+    },
+    {
+      "id": "concert-kid-francescoli-rockstore-2026",
+      "type": "concert",
+      "title": "Kid Francescoli + Hedena",
+      "start": "2026-12-04",
+      "at": "2026-12-04T19:30:00+01:00",
+      "venue": "Rockstore",
+      "town": "Montpellier",
+      "lat": 43.6062,
+      "lon": 3.8814,
+      "url": "https://rockstore.fr/kid-francescoli-04-decembre-2026/",
+      "source": "https://billetterie.seetickets.fr/kid-francescoli-concert-le-rockstore-montpellier-04-decembre-2026-css5-rockstoremontpellier-pg101-ri11726611.html"
+    },
+    {
+      "id": "concert-saez-zenith-sud-2026",
+      "type": "concert",
+      "title": "Saez – La Tournée des Maudits",
+      "start": "2026-12-04",
+      "at": "2026-12-04T20:30:00+01:00",
+      "venue": "Zénith Sud",
+      "town": "Montpellier",
+      "lat": 43.6131,
+      "lon": 3.9309,
+      "url": "https://www.zenithsud-montpellier.com/fr/agenda/concert-spectacles-corum/saez",
+      "source": "https://zenithsud-montpellier.com/fr/agenda?name=&nbrMonths=24&place=&public=&scrollTo=1&type="
+    },
+    {
+      "id": "concert-seth-gueko-saint-jean-de-vedas-2026",
+      "type": "concert",
+      "title": "Seth Gueko",
+      "start": "2026-12-04",
+      "venue": "Victoire 2",
+      "town": "Saint-Jean-de-Védas",
+      "lat": 43.5736,
+      "lon": 3.8533,
+      "note": "Rap.",
+      "url": "https://www.victoire2.com/saison_en_cours/seth-gueko/",
+      "source": "https://www.victoire2.com/"
+    },
+    {
+      "id": "concert-yael-naim-nimes-2026",
+      "type": "concert",
+      "title": "Yael Naim",
+      "start": "2026-12-04",
+      "venue": "Théâtre de Nîmes",
+      "town": "Nîmes",
+      "lat": 43.8384,
+      "lon": 4.3594,
+      "url": "https://theatredenimes.com/spectacle/yael-naim/",
+      "source": "https://theatredenimes.com/programme/"
+    },
+    {
+      "id": "marche-marche-de-noel-frontignan-2026",
+      "type": "marche",
+      "title": "Marché de Noël de Frontignan",
+      "start": "2026-12-04",
+      "end": "2026-12-06",
+      "venue": "Centre-ville",
+      "town": "Frontignan",
+      "lat": 43.4483,
+      "lon": 3.7558,
+      "note": "Organisé par la municipalité dans le centre-ville.",
+      "url": "https://www.frontignan.fr/candidatures-marche-de-noel-2026/",
+      "source": "https://www.frontignan.fr/candidatures-marche-de-noel-2026/"
+    },
+    {
+      "id": "spectacle-les-roseaux-domaine-d-o-2026",
+      "type": "spectacle",
+      "title": "Les Roseaux",
+      "start": "2026-12-04",
+      "end": "2026-12-05",
+      "venue": "Domaine d'O",
+      "town": "Montpellier",
+      "lat": 43.6339,
+      "lon": 3.839,
+      "free": true,
+      "note": "Théâtre (Cours Florent), dès 16 ans",
+      "url": "https://www.domainedo.fr/spectacles/tous-les-spectacles/les-roseaux",
+      "source": "https://www.domainedo.fr/spectacles/tous-les-spectacles"
+    },
+    {
+      "id": "concert-plk-sud-de-france-arena-2026",
+      "type": "concert",
+      "title": "PLK",
+      "start": "2026-12-05",
+      "at": "2026-12-05T20:00:00+01:00",
+      "venue": "Sud de France Arena",
+      "town": "Pérols",
+      "lat": 43.5733,
+      "lon": 3.9517,
+      "note": "Complet",
+      "url": "https://www.suddefrance-arena.com/event/plk/",
+      "source": "https://rocksound.fr/salles/sud-de-france-arena-montpellier/"
+    },
+    {
+      "id": "concert-tete-rockstore-2026",
+      "type": "concert",
+      "title": "Tété – Une semaine sur deux",
+      "start": "2026-12-05",
+      "at": "2026-12-05T19:30:00+01:00",
+      "venue": "Rockstore",
+      "town": "Montpellier",
+      "lat": 43.6062,
+      "lon": 3.8814,
+      "url": "https://billetterie.seetickets.fr/tete-concert-le-rockstore-montpellier-05-decembre-2026-css5-rockstoremontpellier-pg101-ri11742273.html",
+      "source": "https://myherault.com/2026/05/rockstore-tete-en-concert-a-montpellier-le-5-decembre-2026/"
+    },
+    {
+      "id": "exposition-guimet-monde-indien-musee-fabre-2026",
+      "type": "exposition",
+      "title": "Guimet+ monde indien",
+      "start": "2026-12-05",
+      "end": "2027-10-31",
+      "venue": "Musée Fabre – Hôtel Sabatier d'Espeyran",
+      "town": "Montpellier",
+      "lat": 43.6111,
+      "lon": 3.8805,
+      "note": "Chefs-d'œuvre prêtés par le musée Guimet",
+      "url": "https://www.museefabre.fr/guimet2026-monde-indien",
+      "source": "https://www.museefabre.fr/expositions"
+    },
+    {
+      "id": "exposition-je-suis-le-fantome-de-mon-propre-opera-moco-2026",
+      "type": "exposition",
+      "title": "Je suis le fantôme de mon propre opéra",
+      "start": "2026-12-05",
+      "end": "2027-05-02",
+      "venue": "MO.CO. Hôtel des collections",
+      "town": "Montpellier",
+      "lat": 43.6064,
+      "lon": 3.8794,
+      "url": "https://www.moco.art/fr/exposition/je-suis-le-fantome-de-mon-propre-opera",
+      "source": "https://www.moco.art/fr/exposition"
+    },
+    {
+      "id": "exposition-june-crespo-pulsation-panacee-2026",
+      "type": "exposition",
+      "title": "June Crespo – Pulsation",
+      "start": "2026-12-05",
+      "end": "2027-05-02",
+      "venue": "MO.CO. Panacée",
+      "town": "Montpellier",
+      "lat": 43.6128,
+      "lon": 3.8784,
+      "url": "https://www.moco.art/fr/exposition/june-crespo-pulsation",
+      "source": "https://www.moco.art/fr/exposition"
+    },
+    {
+      "id": "sport-mhr-la-rochelle-2026",
+      "type": "sport",
+      "title": "MHR – Stade Rochelais",
+      "start": "2026-12-05",
+      "venue": "Septeo Stadium (ex-GGL Stadium)",
+      "town": "Montpellier",
+      "lat": 43.593,
+      "lon": 3.8497,
+      "note": "Top 14 ; week-end du 5 déc., horaire non fixé",
+      "url": "https://www.montpellier-rugby.com/equipes/equipe-pro/calendrier",
+      "source": "https://www.montpellier-rugby.com/equipes/equipe-pro/calendrier",
+      "tentative": true
+    },
+    {
+      "id": "sport-mhsc-nantes-mosson-2026",
+      "type": "sport",
+      "title": "MHSC – FC Nantes",
+      "start": "2026-12-05",
+      "at": "2026-12-05T14:00:00+01:00",
+      "venue": "Stade de la Mosson",
+      "town": "Montpellier",
+      "lat": 43.622,
+      "lon": 3.8121,
+      "note": "Ligue 2, 14e journée",
+      "url": "https://mhscfoot.com/",
+      "source": "https://www.fcnantes.com/articles/20262027/calendrier.php"
+    },
+    {
+      "id": "sport-nimes-olympique-saint-priest-2026",
+      "type": "sport",
+      "title": "Nîmes Olympique – AS Saint-Priest",
+      "start": "2026-12-05",
+      "venue": "Stade des Antonins",
+      "town": "Nîmes",
+      "lat": 43.8117,
+      "lon": 4.3561,
+      "note": "Date issue du calendrier remanié (17 clubs) ; horaire à confirmer.",
+      "url": "https://www.objectifsud.fr/actualites/nimes-olympique-decouvrez-le-nouveau-calendrier-des-crocos-pour-la-saison-2026-2027-168181.php",
+      "source": "https://www.objectifsud.fr/actualites/nimes-olympique-decouvrez-le-nouveau-calendrier-des-crocos-pour-la-saison-2026-2027-168181.php",
+      "tentative": true
+    },
+    {
+      "id": "exposition-le-chant-des-seuils-chourouk-hriech-sete-2026",
+      "type": "exposition",
+      "title": "Le Chant des seuils, Chourouk Hriech",
+      "start": "2026-12-06",
+      "end": "2027-04-18",
+      "venue": "Musée Paul Valéry",
+      "town": "Sète",
+      "lat": 43.3998,
+      "lon": 3.6915,
+      "note": "Exposition monographique sur tous les espaces temporaires. Gratuit le premier dimanche du mois.",
+      "url": "https://www.annesamson.com/le-chant-des-seuils-chourouk-hriech/",
+      "source": "https://www.annesamson.com/le-chant-des-seuils-chourouk-hriech/"
+    },
+    {
+      "id": "marche-marche-de-noel-sommieres-2026",
+      "type": "marche",
+      "title": "Marché de Noël de Sommières",
+      "start": "2026-12-06",
+      "venue": "Centre-ville",
+      "town": "Sommières",
+      "lat": 43.7836,
+      "lon": 4.0897,
+      "note": "Artisans et créateurs. Lieu précis et horaires non encore publiés.",
+      "url": "https://sommieres.fr/appel.a.candidatures.marche.de.noel.de.sommieres-33-569.php",
+      "source": "https://sommieres.fr/appel.a.candidatures.marche.de.noel.de.sommieres-33-569.php"
+    },
+    {
+      "id": "spectacle-soprane-sete-2026",
+      "type": "spectacle",
+      "title": "Soprane",
+      "start": "2026-12-06",
+      "at": "2026-12-06T16:00:00+01:00",
+      "venue": "Théâtre Molière",
+      "town": "Sète",
+      "lat": 43.4054,
+      "lon": 3.6935,
+      "note": "Opéra documentaire de David Gauchard (Cie L'unijambiste), 1h10.",
+      "url": "https://tmsete.com/saisons/saison-2026-2027/soprane",
+      "source": "https://tmsete.com/saisons/saison-2026-2027/soprane"
+    },
+    {
+      "id": "exposition-lucien-herve-pavillon-populaire-2026",
+      "type": "exposition",
+      "title": "Lucien Hervé. Dialogue avec le Soleil",
+      "start": "2026-12-09",
+      "end": "2027-04-11",
+      "venue": "Pavillon Populaire",
+      "town": "Montpellier",
+      "lat": 43.6102,
+      "lon": 3.8822,
+      "free": true,
+      "note": "Rétrospective photo, entrée libre",
+      "url": "https://pavillon-populaire.montpellier.fr/programmation/lucien-herve-dialogue-avec-le-soleil",
+      "source": "https://pavillon-populaire.montpellier.fr/"
+    },
+    {
+      "id": "spectacle-paradoxe-domaine-d-o-2026",
+      "type": "spectacle",
+      "title": "Paradoxe",
+      "start": "2026-12-10",
+      "end": "2026-12-12",
+      "venue": "Domaine d'O",
+      "town": "Montpellier",
+      "lat": 43.6339,
+      "lon": 3.839,
+      "note": "Théâtre, dès 15 ans",
+      "url": "https://www.domainedo.fr/spectacles/tous-les-spectacles/paradoxe",
+      "source": "https://www.domainedo.fr/spectacles/tous-les-spectacles"
+    },
+    {
+      "id": "spectacle-petrole-13-vents-2026",
+      "type": "spectacle",
+      "title": "Pétrole – Sylvain Creuzevault",
+      "start": "2026-12-10",
+      "end": "2026-12-11",
+      "venue": "Théâtre des 13 vents",
+      "town": "Montpellier",
+      "lat": 43.6169,
+      "lon": 3.931,
+      "note": "Théâtre, 19h–22h30",
+      "url": "https://www.13vents.fr/petrole/",
+      "source": "https://www.13vents.fr/"
+    },
+    {
+      "id": "concert-florent-pagny-sud-de-france-arena-2026",
+      "type": "concert",
+      "title": "Florent Pagny – 65 Tour, Le Retour",
+      "start": "2026-12-11",
+      "end": "2026-12-12",
+      "venue": "Sud de France Arena",
+      "town": "Pérols",
+      "lat": 43.5733,
+      "lon": 3.9517,
+      "note": "Deux soirs, 20h",
+      "url": "https://www.suddefrance-arena.com/event/florent-pagny-65-tour-le-retour/",
+      "source": "https://rocksound.fr/salles/sud-de-france-arena-montpellier/"
+    },
+    {
+      "id": "festival-bazr-sete-2026",
+      "type": "festival",
+      "title": "BAZR, festival pop à Noël",
+      "start": "2026-12-11",
+      "end": "2026-12-13",
+      "venue": "Le Chai des Moulins, 51 quai des Moulins",
+      "town": "Sète",
+      "lat": 43.411,
+      "lon": 3.6975,
+      "note": "14e édition : concerts (29,80 € la soirée), fête foraine, marché de Noël en entrée libre.",
+      "url": "https://bazr-festival.com/",
+      "source": "https://bazr-festival.com/"
+    },
+    {
+      "id": "festival-publicare-edition-1-nimes-2026",
+      "type": "festival",
+      "title": "Publicare #1, festival du multiple et de l'édition d'artiste",
+      "start": "2026-12-11",
+      "end": "2026-12-12",
+      "venue": "Carré d'Art, musée d'art contemporain",
+      "town": "Nîmes",
+      "lat": 43.8384,
+      "lon": 4.3557,
+      "url": "https://carreartmusee.com/fr/actualites/festival-du-multiple-de-l-edition-d-artiste-et-de-la-microedition-310",
+      "source": "https://www.carreartmusee.com/"
+    },
+    {
+      "id": "marche-feeries-de-noel-marche-gourmand-meze-2026",
+      "type": "marche",
+      "title": "Féeries de Noël, marché gourmand",
+      "start": "2026-12-11",
+      "end": "2026-12-13",
+      "venue": "Parc et Chai du Château de Girard",
+      "town": "Mèze",
+      "lat": 43.4255,
+      "lon": 3.6058,
+      "note": "Vendredi 16h-20h, samedi et dimanche 9h-20h. Produits artisanaux et locaux.",
+      "url": "https://www.ville-meze.fr/pdf/formulaire_feeries26.pdf",
+      "source": "https://www.ville-meze.fr/pdf/formulaire_feeries26.pdf"
+    },
+    {
+      "id": "marche-marche-de-noel-en-chalets-pezenas-2026",
+      "type": "marche",
+      "title": "Marché de Noël en chalets de Pézenas",
+      "start": "2026-12-11",
+      "end": "2026-12-30",
+      "venue": "Butte du Château (sous réserve)",
+      "town": "Pézenas",
+      "lat": 43.459,
+      "lon": 3.423,
+      "note": "Première édition, six chalets. Repli dans le centre-ville si la Butte du Château n'est pas sécurisée.",
+      "url": "https://www.ville-pezenas.fr/",
+      "source": "https://www.ville-pezenas.fr/pezenas-lance-son-premier-marche-de-noel-en-chalets-et-recherche-ses-exposants/"
+    },
+    {
+      "id": "marche-village-de-noel-les-flots-enchantes-palavas-2026",
+      "type": "marche",
+      "title": "Village de Noël « Les Flots Enchantés »",
+      "start": "2026-12-11",
+      "end": "2027-01-03",
+      "venue": "Front de mer rive gauche",
+      "town": "Palavas-les-Flots",
+      "lat": 43.5286,
+      "lon": 3.933,
+      "free": true,
+      "note": "Ateliers, spectacles, parades rue Saint-Roch, Père Noël sur la plage.",
+      "url": "https://www.palavas-tourisme.com/temps-fort/le-village-de-noel-les-flots-enchantes/",
+      "source": "https://www.jds.fr/montpellier/manifestations/marche-de-noel/village-de-noel-les-flots-enchantes-1574024_A"
+    },
+    {
+      "id": "spectacle-la-noce-d-alfonse-sete-2026",
+      "type": "spectacle",
+      "title": "La Noce d'Alfonse",
+      "start": "2026-12-11",
+      "end": "2026-12-12",
+      "venue": "Théâtre Molière",
+      "town": "Sète",
+      "lat": 43.4054,
+      "lon": 3.6935,
+      "note": "Cirque Alfonse, 1h25. 20h.",
+      "url": "https://tmsete.com/saisons/saison-2026-2027/la-noce-d-alfonse",
+      "source": "https://tmsete.com/saisons/saison-2026-2027/la-noce-d-alfonse"
+    },
+    {
+      "id": "sport-arago-de-sete-paris-volley-2026",
+      "type": "sport",
+      "title": "Arago de Sète – Paris Volley (Ligue A de volley)",
+      "start": "2026-12-11",
+      "at": "2026-12-11T19:30:00+01:00",
+      "venue": "Halle des Sports Louis Marty",
+      "town": "Sète",
+      "lat": 43.4156,
+      "lon": 3.6705,
+      "note": "10e journée du championnat de France de volley masculin.",
+      "url": "https://aragodesete.fr/",
+      "source": "https://volleybox.net/fr/arago-de-sete-paris-volley-c396762"
+    },
+    {
+      "id": "sport-mhb-caen-2026",
+      "type": "sport",
+      "title": "Montpellier Handball – Caen",
+      "start": "2026-12-11",
+      "at": "2026-12-11T20:00:00+01:00",
+      "venue": "FDI Stadium (Palais des sports René-Bougnol)",
+      "town": "Montpellier",
+      "lat": 43.6381,
+      "lon": 3.8747,
+      "note": "Daikin Starligue, 14e journée, dernier match à domicile de 2026",
+      "url": "https://www.montpellierhandball.com/",
+      "source": "https://www.montpellierhandball.com/"
+    },
+    {
+      "id": "marche-marche-de-noel-lunel-2026",
+      "type": "marche",
+      "title": "Marché de Noël de Lunel",
+      "start": "2026-12-12",
+      "end": "2026-12-13",
+      "venue": "Centre-ville",
+      "town": "Lunel",
+      "lat": 43.6753,
+      "lon": 4.1355,
+      "url": "https://www.lunel.com/2026/10/12/marche-de-noel-de-lunel-envie-dy-participer/",
+      "source": "https://www.lunel.com/2026/10/12/marche-de-noel-de-lunel-envie-dy-participer/"
+    },
+    {
+      "id": "sport-mhr-bulls-2026",
+      "type": "sport",
+      "title": "MHR – Vodacom Bulls",
+      "start": "2026-12-12",
+      "venue": "Septeo Stadium (ex-GGL Stadium)",
+      "town": "Montpellier",
+      "lat": 43.593,
+      "lon": 3.8497,
+      "note": "Champions Cup ; week-end du 12 déc., horaire non fixé",
+      "url": "https://www.montpellier-rugby.com/equipes/equipe-pro/calendrier",
+      "source": "https://www.montpellier-rugby.com/equipes/equipe-pro/calendrier",
+      "tentative": true
+    },
+    {
+      "id": "concert-dire-straits-experience-zenith-sud-2026",
+      "type": "concert",
+      "title": "The Dire Straits Experience – The Long Highway Tour",
+      "start": "2026-12-13",
+      "at": "2026-12-13T19:00:00+01:00",
+      "venue": "Zénith Sud",
+      "town": "Montpellier",
+      "lat": 43.6131,
+      "lon": 3.9309,
+      "url": "https://www.zenithsud-montpellier.com/fr/agenda/concert-spectacles-corum/the-dire-straits-experience",
+      "source": "https://zenithsud-montpellier.com/fr/agenda?name=&nbrMonths=24&place=&public=&scrollTo=1&type="
+    },
+    {
+      "id": "spectacle-le-songe-d-une-nuit-d-ete-castelnau-le-lez-2026",
+      "type": "spectacle",
+      "title": "Le Songe d'une nuit d'été",
+      "start": "2026-12-13",
+      "at": "2026-12-13T17:30:00+01:00",
+      "venue": "Le Kiasma",
+      "town": "Castelnau-le-Lez",
+      "lat": 43.6368,
+      "lon": 3.8985,
+      "note": "Shakespeare par le Théâtre du Kronope, clôture des Dimanches du Théâtre classique.",
+      "url": "https://www.castelnau-le-lez.fr/actualite/culture/la-billetterie-du-kiasma-est-ouverte/",
+      "source": "https://www.lartvues.com/castelnau-le-lez-les-dimanches-du-theatre-classique-4e-edition-au-kiasma-du-8-novembre-au-13-decembre/"
+    },
+    {
+      "id": "concert-orchestre-national-de-france-nimes-2026",
+      "type": "concert",
+      "title": "Orchestre national de France",
+      "start": "2026-12-15",
+      "venue": "Théâtre de Nîmes",
+      "town": "Nîmes",
+      "lat": 43.8384,
+      "lon": 4.3594,
+      "url": "https://theatredenimes.com/spectacle/orchestre-national-de-france/",
+      "source": "https://theatredenimes.com/programme/"
+    },
+    {
+      "id": "spectacle-reprenons-13-vents-2026",
+      "type": "spectacle",
+      "title": "Reprenons",
+      "start": "2026-12-15",
+      "end": "2026-12-17",
+      "venue": "Théâtre des 13 vents",
+      "town": "Montpellier",
+      "lat": 43.6169,
+      "lon": 3.931,
+      "note": "Adrien Béal et Arthur Igual",
+      "url": "https://www.13vents.fr/reprenons/",
+      "source": "https://www.13vents.fr/"
+    },
+    {
+      "id": "exposition-les-mysteres-d-herodiade-musee-fabre-2026",
+      "type": "exposition",
+      "title": "Les Mystères d'Hérodiade. Enquête au musée Fabre",
+      "start": "2026-12-18",
+      "end": "2027-04-18",
+      "venue": "Musée Fabre",
+      "town": "Montpellier",
+      "lat": 43.6118,
+      "lon": 3.8801,
+      "note": "Du mardi au dimanche, 11h–18h",
+      "url": "https://www.museefabre.fr/expo-herodiade",
+      "source": "https://www.museefabre.fr/expositions"
+    },
+    {
+      "id": "spectacle-redouane-bougheraba-sud-de-france-arena-2026",
+      "type": "spectacle",
+      "title": "Redouane Bougheraba – Mon Premier Spectacle",
+      "start": "2026-12-18",
+      "venue": "Sud de France Arena",
+      "town": "Pérols",
+      "lat": 43.5733,
+      "lon": 3.9517,
+      "note": "Humour",
+      "url": "https://www.suddefrance-arena.com/event/redouane-bougheraba-mon-premier-spectacle/",
+      "source": "https://www.suddefrance-arena.com/"
+    },
+    {
+      "id": "marche-marche-de-noel-clermont-l-herault-2026",
+      "type": "marche",
+      "title": "Marché de Noël de Clermont-l'Hérault",
+      "start": "2026-12-19",
+      "end": "2026-12-20",
+      "venue": "Centre-ville",
+      "town": "Clermont-l'Hérault",
+      "lat": 43.6275,
+      "lon": 3.4318,
+      "note": "Organisé avec l'association Clermont à plein cœur.",
+      "url": "https://www.ville-clermont-herault.fr/culture-loisirs/3791-appel-a-candidatures-marche-de-noel",
+      "source": "https://www.ville-clermont-herault.fr/culture-loisirs/3791-appel-a-candidatures-marche-de-noel"
+    },
+    {
+      "id": "concert-concert-de-noel-lunel-2026",
+      "type": "concert",
+      "title": "Concert de Noël",
+      "start": "2026-12-20",
+      "at": "2026-12-20T17:00:00+01:00",
+      "venue": "Église Notre-Dame-du-Lac",
+      "town": "Lunel",
+      "lat": 43.6747,
+      "lon": 4.1356,
+      "note": "Soprano, ténor, baryton et piano. 12,50 € / 9 €, billets sur vostickets.fr.",
+      "url": "https://www.lunel.com/events/concert-de-noel-4/",
+      "source": "https://www.lunel.com/events/concert-de-noel-4/"
+    },
+    {
+      "id": "spectacle-le-baiser-de-la-fee-opera-comedie-2026",
+      "type": "spectacle",
+      "title": "Le Baiser de la fée (création mondiale)",
+      "start": "2026-12-22",
+      "end": "2026-12-27",
+      "venue": "Opéra Comédie",
+      "town": "Montpellier",
+      "lat": 43.6078,
+      "lon": 3.8787,
+      "note": "Opéra d'Akimenko : 22 et 23 déc. à 19h, 27 déc. à 17h",
+      "url": "https://www.opera-orchestre-montpellier.fr/evenements/le-baiser-de-la-fee/",
+      "source": "https://www.opera-orchestre-montpellier.fr/evenements/le-baiser-de-la-fee/"
+    },
+    {
+      "id": "sport-mhr-bayonne-2026",
+      "type": "sport",
+      "title": "MHR – Aviron Bayonnais",
+      "start": "2026-12-26",
+      "venue": "Septeo Stadium (ex-GGL Stadium)",
+      "town": "Montpellier",
+      "lat": 43.593,
+      "lon": 3.8497,
+      "note": "Top 14 ; week-end du 26 déc., horaire non fixé",
+      "url": "https://www.montpellier-rugby.com/equipes/equipe-pro/calendrier",
+      "source": "https://www.montpellier-rugby.com/equipes/equipe-pro/calendrier",
+      "tentative": true
+    },
+    {
+      "id": "concert-nouvel-an-opera-berlioz-2026",
+      "type": "concert",
+      "title": "Concert du Nouvel An – Made in USA",
+      "start": "2026-12-31",
+      "end": "2027-01-01",
+      "venue": "Opéra Berlioz – Le Corum",
+      "town": "Montpellier",
+      "lat": 43.6132,
+      "lon": 3.8822,
+      "note": "31 déc. à 18h, 1er janv. à 12h",
+      "url": "https://www.opera-orchestre-montpellier.fr/evenements/concert-du-nouvel-an-2027/",
+      "source": "https://www.opera-orchestre-montpellier.fr/evenements/concert-du-nouvel-an-2027/"
+    },
+    {
+      "id": "sport-mhsc-guingamp-mosson-2027",
+      "type": "sport",
+      "title": "MHSC – EA Guingamp",
+      "start": "2027-01-02",
+      "venue": "Stade de la Mosson",
+      "town": "Montpellier",
+      "lat": 43.622,
+      "lon": 3.8121,
+      "note": "Ligue 2, 16e journée ; horaire à confirmer",
+      "url": "https://mhscfoot.com/",
+      "source": "https://madeinfoot.ouest-france.fr/club/montpellier-906/calendrier-resultats.html",
+      "tentative": true
+    },
+    {
+      "id": "concert-bonbon-vodou-sete-2027",
+      "type": "concert",
+      "title": "Bonbon Vodou, épopée métèque",
+      "start": "2027-01-08",
+      "at": "2027-01-08T20:00:00+01:00",
+      "venue": "Théâtre Molière",
+      "town": "Sète",
+      "lat": 43.4054,
+      "lon": 3.6935,
+      "note": "Maloya, suivi d'un DJ set.",
+      "url": "https://tmsete.com/saisons/saison-2026-2027/bonbon-vodou",
+      "source": "https://tmsete.com/saisons/saison-2026-2027/bonbon-vodou"
+    },
+    {
+      "id": "festival-festival-flamenco-de-nimes-2027",
+      "type": "festival",
+      "title": "Festival Flamenco de Nîmes (37e édition)",
+      "start": "2027-01-08",
+      "end": "2027-01-17",
+      "venue": "Théâtre de Nîmes et lieux de la ville",
+      "town": "Nîmes",
+      "lat": 43.8384,
+      "lon": 4.3594,
+      "note": "19 spectacles dans neuf lieux, dont le Ballet Flamenco de Andalucía le 15 janvier.",
+      "url": "https://theatredenimes.com/festival-flamenco/",
+      "source": "https://www.vivrenimes.fr/formats/articles/festival-flamenco-2027-de-nimes-decouvrez-les-temps-forts"
+    },
+    {
+      "id": "spectacle-orlando-domaine-d-o-2027",
+      "type": "spectacle",
+      "title": "Orlando : une biographie",
+      "start": "2027-01-12",
+      "end": "2027-01-16",
+      "venue": "Domaine d'O",
+      "town": "Montpellier",
+      "lat": 43.6339,
+      "lon": 3.839,
+      "note": "Théâtre d'après Virginia Woolf, création",
+      "url": "https://www.domainedo.fr/spectacles/tous-les-spectacles/orlando-une-biographie",
+      "source": "https://www.domainedo.fr/spectacles/tous-les-spectacles"
+    },
+    {
+      "id": "marche-salon-enseignement-superieur-montpellier-2027",
+      "type": "marche",
+      "title": "Salon de l'Enseignement Supérieur",
+      "start": "2027-01-14",
+      "end": "2027-01-16",
+      "venue": "Parc des Expositions",
+      "town": "Pérols",
+      "lat": 43.572,
+      "lon": 3.9516,
+      "free": true,
+      "note": "Hall B2, 9h–17h, invitation gratuite obligatoire",
+      "url": "https://salon-de-l-enseignement-superieur-montpellier.salon.letudiant.fr/",
+      "source": "https://salon-de-l-enseignement-superieur-montpellier.salon.letudiant.fr/"
+    },
+    {
+      "id": "concert-claudio-capeo-sud-de-france-arena-2027",
+      "type": "concert",
+      "title": "Claudio Capeo",
+      "start": "2027-01-15",
+      "at": "2027-01-15T20:00:00+01:00",
+      "venue": "Sud de France Arena",
+      "town": "Pérols",
+      "lat": 43.5733,
+      "lon": 3.9517,
+      "url": "https://www.suddefrance-arena.com/event/claudio-capeo/",
+      "source": "https://rocksound.fr/salles/sud-de-france-arena-montpellier/"
+    },
+    {
+      "id": "sport-mhsc-clermont-mosson-2027",
+      "type": "sport",
+      "title": "MHSC – Clermont Foot",
+      "start": "2027-01-15",
+      "venue": "Stade de la Mosson",
+      "town": "Montpellier",
+      "lat": 43.622,
+      "lon": 3.8121,
+      "note": "Ligue 2, 17e journée ; week-end programmé, date exacte à confirmer",
+      "url": "https://mhscfoot.com/",
+      "source": "https://madeinfoot.ouest-france.fr/club/montpellier-906/calendrier-resultats.html",
+      "tentative": true
+    },
+    {
+      "id": "concert-orchestre-national-montpellier-occitanie-sete-2027",
+      "type": "concert",
+      "title": "Orchestre national Montpellier Occitanie",
+      "start": "2027-01-17",
+      "at": "2027-01-17T16:00:00+01:00",
+      "venue": "Théâtre Molière",
+      "town": "Sète",
+      "lat": 43.4054,
+      "lon": 3.6935,
+      "url": "https://tmsete.com/saisons/saison-2026-2027/orchestre-national-montpellier-occitanie",
+      "source": "https://tmsete.com/saisons/saison-2026-2027/orchestre-national-montpellier-occitanie"
+    },
+    {
+      "id": "concert-motocultor-across-europe-tour-saint-jean-de-vedas-2027",
+      "type": "concert",
+      "title": "Motocultor Across Europe Tour 2027 (Rhapsody Of Fire…)",
+      "start": "2027-01-21",
+      "venue": "Victoire 2",
+      "town": "Saint-Jean-de-Védas",
+      "lat": 43.5736,
+      "lon": 3.8533,
+      "note": "Metal : Rhapsody Of Fire, Serious Black, Submasq, Aeon Gods, Rock Out.",
+      "url": "https://www.victoire2.com/saison_en_cours/motocultor-accross-europe-tour-2027/",
+      "source": "https://www.victoire2.com/"
+    },
+    {
+      "id": "sport-open-occitanie-2027",
+      "type": "sport",
+      "title": "Open Occitanie 2027",
+      "start": "2027-01-31",
+      "end": "2027-02-07",
+      "venue": "Sud de France Arena",
+      "town": "Pérols",
+      "lat": 43.5733,
+      "lon": 3.9517,
+      "note": "Tournoi de tennis ATP",
+      "url": "https://www.suddefrance-arena.com/event/open-occitanie-2027/",
+      "source": "https://www.suddefrance-arena.com/"
+    },
+    {
+      "id": "spectacle-littoral-opera-comedie-2027",
+      "type": "spectacle",
+      "title": "Littoral – Wajdi Mouawad",
+      "start": "2027-02-05",
+      "end": "2027-02-06",
+      "venue": "Opéra Comédie",
+      "town": "Montpellier",
+      "lat": 43.6078,
+      "lon": 3.8787,
+      "note": "Programmé par le Domaine d'O hors les murs",
+      "url": "https://www.domainedo.fr/spectacles/tous-les-spectacles/littoral",
+      "source": "https://www.domainedo.fr/spectacles/tous-les-spectacles"
+    },
+    {
+      "id": "concert-the-ocean-a-a-williams-saint-jean-de-vedas-2027",
+      "type": "concert",
+      "title": "The Ocean + A.A. Williams",
+      "start": "2027-02-06",
+      "venue": "Victoire 2",
+      "town": "Saint-Jean-de-Védas",
+      "lat": 43.5736,
+      "lon": 3.8533,
+      "note": "Post-rock, metal.",
+      "url": "https://www.victoire2.com/saison_en_cours/the-ocean-and-a-a-williams/",
+      "source": "https://www.victoire2.com/"
+    },
+    {
+      "id": "concert-passi-saint-jean-de-vedas-2027",
+      "type": "concert",
+      "title": "Passi Live Band + Tanis",
+      "start": "2027-02-19",
+      "venue": "Victoire 2",
+      "town": "Saint-Jean-de-Védas",
+      "lat": 43.5736,
+      "lon": 3.8533,
+      "note": "Report du 31 octobre 2026, billets valables.",
+      "url": "https://www.victoire2.com/saison_en_cours/passi/",
+      "source": "https://www.victoire2.com/"
+    },
+    {
+      "id": "nature-sauta-roc-saint-guilhem-le-desert-2027",
+      "type": "nature",
+      "title": "Sauta Roc, trail de Saint-Guilhem",
+      "start": "2027-02-21",
+      "at": "2027-02-21T09:00:00+01:00",
+      "venue": "Village médiéval",
+      "town": "Saint-Guilhem-le-Désert",
+      "lat": 43.734,
+      "lon": 3.5497,
+      "note": "Trails de 26 km (1 200 m D+) et 15 km. Départs à 9h et 9h30, inscription requise.",
+      "url": "https://www.lasautaroc.fr/",
+      "source": "https://www.lasautaroc.fr/"
+    },
+    {
+      "id": "spectacle-grupo-corpo-sete-2027",
+      "type": "spectacle",
+      "title": "Grupo Corpo, Piracema & Gira",
+      "start": "2027-02-25",
+      "at": "2027-02-25T20:00:00+01:00",
+      "venue": "Théâtre Molière",
+      "town": "Sète",
+      "lat": 43.4054,
+      "lon": 3.6935,
+      "note": "Danse, compagnie brésilienne.",
+      "url": "https://tmsete.com/saisons/saison-2026-2027/grupo-corpo",
+      "source": "https://tmsete.com/saisons/saison-2026-2027/grupo-corpo"
+    },
+    {
+      "id": "spectacle-les-noces-de-figaro-opera-comedie-2027",
+      "type": "spectacle",
+      "title": "Les Noces de Figaro",
+      "start": "2027-03-05",
+      "end": "2027-03-11",
+      "venue": "Opéra Comédie",
+      "town": "Montpellier",
+      "lat": 43.6078,
+      "lon": 3.8787,
+      "note": "Mozart ; 5, 7, 9 et 11 mars, bientôt complet",
+      "url": "https://www.opera-orchestre-montpellier.fr/evenements/les-noces-de-figaro-mozart/",
+      "source": "https://www.opera-orchestre-montpellier.fr/evenements/les-noces-de-figaro-mozart/"
+    },
+    {
+      "id": "sport-france-pologne-handball-2027",
+      "type": "sport",
+      "title": "Handball : France – Pologne",
+      "start": "2027-03-14",
+      "venue": "Sud de France Arena",
+      "town": "Pérols",
+      "lat": 43.5733,
+      "lon": 3.9517,
+      "url": "https://www.suddefrance-arena.com/event/france-pologne/",
+      "source": "https://www.suddefrance-arena.com/"
+    },
+    {
+      "id": "concert-ninho-sud-de-france-arena-2027",
+      "type": "concert",
+      "title": "Ninho – Quattro Tour",
+      "start": "2027-03-19",
+      "at": "2027-03-19T20:00:00+01:00",
+      "venue": "Sud de France Arena",
+      "town": "Pérols",
+      "lat": 43.5733,
+      "lon": 3.9517,
+      "url": "https://www.suddefrance-arena.com/event/ninho-quattro-tour-2027/",
+      "source": "https://rocksound.fr/salles/sud-de-france-arena-montpellier/"
+    },
+    {
+      "id": "marche-salon-habitat-montpellier-2027",
+      "type": "marche",
+      "title": "Salon de l'Habitat de Montpellier",
+      "start": "2027-03-19",
+      "end": "2027-03-22",
+      "venue": "Parc des Expositions",
+      "town": "Pérols",
+      "lat": 43.572,
+      "lon": 3.9516,
+      "free": true,
+      "note": "Hall A2, entrée gratuite",
+      "url": "https://www.salon-habitat-montpellier.fr/visiter/la-presentation-du-salon/",
+      "source": "https://salons-habitat.fr/evenement/salon-habitat-montpellier-perols/"
+    },
+    {
+      "id": "concert-las-migas-sete-2027",
+      "type": "concert",
+      "title": "Las Migas",
+      "start": "2027-03-25",
+      "at": "2027-03-25T20:00:00+01:00",
+      "venue": "Théâtre Molière",
+      "town": "Sète",
+      "lat": 43.4054,
+      "lon": 3.6935,
+      "note": "Musique flamenca.",
+      "url": "https://tmsete.com/saisons/saison-2026-2027/las-migas",
+      "source": "https://tmsete.com/saisons/saison-2026-2027/las-migas"
+    },
+    {
+      "id": "concert-ibrahim-maalouf-zenith-sud-2027",
+      "type": "concert",
+      "title": "Ibrahim Maalouf – 20 ans le live !",
+      "start": "2027-03-27",
+      "at": "2027-03-27T20:00:00+01:00",
+      "venue": "Zénith Sud",
+      "town": "Montpellier",
+      "lat": 43.6131,
+      "lon": 3.9309,
+      "url": "https://www.zenithsud-montpellier.com/fr/agenda/concert-spectacles-corum/ibrahim-maalouf-2027",
+      "source": "https://zenithsud-montpellier.com/fr/agenda?name=&nbrMonths=24&place=&public=&scrollTo=1&type="
+    },
+    {
+      "id": "concert-sarah-mccoy-sete-2027",
+      "type": "concert",
+      "title": "Sarah McCoy",
+      "start": "2027-04-23",
+      "at": "2027-04-23T20:00:00+02:00",
+      "venue": "Théâtre Molière",
+      "town": "Sète",
+      "lat": 43.4054,
+      "lon": 3.6935,
+      "note": "Jazz.",
+      "url": "https://tmsete.com/saisons/saison-2026-2027/sarah-mccoy",
+      "source": "https://tmsete.com/saisons/saison-2026-2027/sarah-mccoy"
+    },
+    {
+      "id": "exposition-lattara-musee-henri-prades",
+      "type": "exposition",
+      "title": "Site archéologique Lattara - Musée Henri Prades",
+      "town": "Lattes",
+      "lat": 43.5659,
+      "lon": 3.9085,
+      "note": "Vestiges de la cité antique de Lattara. Fermé le mardi ; week-end 14h-18h en hiver. Tram 3 Lattes Centre.",
+      "url": "https://www.ville-lattes.fr/musee-henri-prades/",
+      "source": "https://www.montpellier-tourisme.fr/sejourner/loisirs-et-activites/patrimoine-et-musees/tout-le-patrimoine-musees-monuments/site-archeologique-lattara-musee-henri-prades-lattes-fr-3835503/"
+    },
+    {
+      "id": "exposition-miam-sete",
+      "type": "exposition",
+      "title": "MIAM, Musée International des Arts Modestes",
+      "town": "Sète",
+      "lat": 43.4061,
+      "lon": 3.6962,
+      "note": "Ouvert tous les jours sauf le lundi, 10h-18h. Fermé 1/01, 1/05, 1/11 et 25/12.",
+      "url": "https://miam.org/horaires-tarifs/",
+      "source": "https://miam.org/horaires-tarifs/"
+    },
+    {
+      "id": "exposition-musee-de-l-ephebe",
+      "type": "exposition",
+      "title": "Musée de l'Éphèbe et d'archéologie sous-marine",
+      "venue": "Cap d'Agde",
+      "town": "Agde",
+      "lat": 43.2869,
+      "lon": 3.5137,
+      "note": "Archéologie sous-marine et Éphèbe d'Agde. Septembre-juin : mardi-dimanche 10h-12h30 et 14h-18h. Fermé du 24 au 31/12.",
+      "url": "https://www.museecapdagde.com/",
+      "source": "https://www.museecapdagde.com/adresses-et-horaires"
+    },
+    {
+      "id": "exposition-musee-de-l-etang-de-thau",
+      "type": "exposition",
+      "title": "Musée de l'Étang de Thau",
+      "town": "Bouzigues",
+      "lat": 43.4469,
+      "lon": 3.6618,
+      "note": "Conchyliculture et pêche sur l'étang. Fermé le lundi hors été ; 10h-12h et 14h-17h en novembre.",
+      "url": "https://www.herault-tourisme.com/fr/fiche/patrimoine-culturel/musee-ethnographique-de-l-etang-de-thau-bouzigues_TFOPCULAR0340000095/",
+      "source": "https://www.agglopole.fr/jardin-antique-et-musees-les-horaires-de-rentree/"
+    },
+    {
+      "id": "exposition-musee-de-la-romanite",
+      "type": "exposition",
+      "title": "Musée de la Romanité",
+      "town": "Nîmes",
+      "lat": 43.8338,
+      "lon": 4.3594,
+      "note": "25 siècles d'histoire face aux Arènes. Nov.-mars 10h-18h sauf mardi ; avril-oct. 10h-19h tous les jours.",
+      "url": "https://www.nimes.fr/que-faire-a-nimes/culture/les-musees-le-planetarium/musee-de-la-romanite",
+      "source": "https://www.nimes.fr/que-faire-a-nimes/culture/les-musees-le-planetarium/musee-de-la-romanite"
+    },
+    {
+      "id": "exposition-musee-fabre",
+      "type": "exposition",
+      "title": "Musée Fabre",
+      "town": "Montpellier",
+      "lat": 43.6118,
+      "lon": 3.8801,
+      "note": "Beaux-arts de la Renaissance à nos jours. Mardi-dimanche 11h-18h, gratuit le 1er dimanche du mois.",
+      "url": "https://www.museefabre.fr/informations-pratiques",
+      "source": "https://www.montpellier.fr/vie-quotidienne/vivre-ici/se-cultiver/expositions-et-musees/musee-fabre"
+    },
+    {
+      "id": "exposition-musee-paul-valery",
+      "type": "exposition",
+      "title": "Musée Paul Valéry",
+      "town": "Sète",
+      "lat": 43.3954,
+      "lon": 3.6907,
+      "note": "Musée d'art face au Cimetière marin, ouvert du mardi au dimanche 10h-18h, gratuit le 1er dimanche du mois.",
+      "url": "https://www.archipel-thau.com/en/my-stay/things-to-do-in-the-thau-archipelago/musee-paul-valery-sete-en-6263554/",
+      "source": "https://icisete.fr/lieu/musee-paul-valery/"
+    },
+    {
+      "id": "exposition-villa-loupian",
+      "type": "exposition",
+      "title": "Musée de site gallo-romain Villa-Loupian",
+      "town": "Loupian",
+      "lat": 43.441,
+      "lon": 3.6145,
+      "note": "Mosaïques du Ve siècle en place. Ouvert du 1er février au 30 novembre, fermé le mardi hors juillet-août.",
+      "url": "https://patrimoine.agglopole.fr/musee-villa-loupian/",
+      "source": "https://patrimoine.agglopole.fr/musee-villa-loupian/"
+    },
+    {
+      "id": "famille-domaine-de-restinclieres",
+      "type": "famille",
+      "title": "Domaine départemental de Restinclières",
+      "town": "Prades-le-Lez",
+      "lat": 43.7162,
+      "lon": 3.8591,
+      "free": true,
+      "note": "Domaine de 240 ha au bord du Lez : sentiers, aires de jeux et de pique-nique, expositions gratuites au château.",
+      "url": "https://www.parcsetjardins.fr/jardins/260-domaine-du-deparetement-restinclieres",
+      "source": "https://www.lessentiel.fr/montpellier/idees-sorties/2026-08-17/prades-le-lez-partez-la-decouverte-du-domaine-de-restinclieres"
+    },
+    {
+      "id": "famille-phare-de-la-mediterranee",
+      "type": "famille",
+      "title": "Phare de la Méditerranée",
+      "town": "Palavas-les-Flots",
+      "lat": 43.5283,
+      "lon": 3.9322,
+      "note": "Belvédère panoramique à 360° au sommet de l'ancien château d'eau, ouvert toute l'année (3 € adulte, 1 € enfant).",
+      "url": "https://www.palavas-tourisme.com/patrimoine-culturel/le-phare-de-la-mediterranee/",
+      "source": "https://www.palavas-tourisme.com/decouvrir/histoire-et-patrimoine/le-phare-de-palavas/"
+    },
+    {
+      "id": "famille-planet-ocean-montpellier",
+      "type": "famille",
+      "title": "Planet Ocean Montpellier",
+      "venue": "Odysseum",
+      "town": "Montpellier",
+      "lat": 43.6029,
+      "lon": 3.9172,
+      "note": "Aquarium et planétarium à Odysseum, ouvert tous les jours (sauf 25/12 et 1/01). Compter environ 2 h. Tram 1 Odysseum.",
+      "url": "https://www.montpellier.fr/vie-quotidienne/vivre-ici/se-cultiver/lieux-de-culture-scientifique/planet-ocean",
+      "source": "https://www.montpellier-tourisme.fr/sejourner/loisirs-et-activites/tous-les-loisirs-et-activites/planet-ocean-montpellier-montpellier-fr-3835322/"
+    },
+    {
+      "id": "famille-rochers-de-maguelone",
+      "type": "famille",
+      "title": "Les Rochers de Maguelone",
+      "town": "Villeneuve-lès-Maguelone",
+      "lat": 43.5256,
+      "lon": 3.8264,
+      "note": "Parc accrobranche : 19 parcours dont 6 dès 3 ans, tyrolienne de 200 m. Ouverture saisonnière, vérifier les jours.",
+      "url": "https://www.les-rochers-de-maguelone.com/",
+      "source": "https://www.les-rochers-de-maguelone.com/activites-accrobranche-w1.html"
+    },
+    {
+      "id": "famille-seaquarium-du-grau-du-roi",
+      "type": "famille",
+      "title": "Seaquarium du Grau-du-Roi",
+      "town": "Le Grau-du-Roi",
+      "lat": 43.5272,
+      "lon": 4.1406,
+      "note": "Aquarium et Requinarium (25 espèces de requins). Ouvert toute l'année, dernière entrée 1 h avant la fermeture.",
+      "url": "https://aquariumsdefrance.fr/en/who-we-are/seaquarium/",
+      "source": "https://www.anigaido.com/lieux/aquariums-2/seaquarium-du-grau-du-roi"
+    },
+    {
+      "id": "famille-tyroliane-saint-christol",
+      "type": "famille",
+      "title": "Tyroliane",
+      "town": "Saint-Christol",
+      "lat": 43.7065,
+      "lon": 4.064,
+      "note": "Parc accrobranche : 23 parcours et plus de 220 ateliers. Tous les jours 10h-19h en juillet-août, saisonnier sinon.",
+      "url": "https://www.tyroliane.fr/",
+      "source": "https://www.tyroliane.fr/"
+    },
+    {
+      "id": "nature-cirque-de-moureze",
+      "type": "nature",
+      "title": "Cirque de Mourèze",
+      "town": "Mourèze",
+      "lat": 43.6241,
+      "lon": 3.3617,
+      "free": true,
+      "note": "Chaos dolomitique du Grand Site Salagou-Mourèze ; Maison du Grand Site à l'entrée du village.",
+      "url": "https://www.herault-tourisme.com/fr/fiche/organismes-et-entreprises/office-de-tourisme-destination-salagou-maison-du-grand-site-de-moureze-moureze_TFOORGLAR034FS001WR/",
+      "source": "https://www.herault-tourisme.com/fr/fiche/organismes-et-entreprises/office-de-tourisme-destination-salagou-maison-du-grand-site-de-moureze-moureze_TFOORGLAR034FS001WR/"
+    },
+    {
+      "id": "nature-cirque-de-navacelles",
+      "type": "nature",
+      "title": "Cirque de Navacelles",
+      "town": "Saint-Maurice-Navacelles",
+      "lat": 43.8928,
+      "lon": 3.51,
+      "free": true,
+      "note": "Grand Site de France. Belvédères de Blandas en accès libre toute l'année ; Maison du Grand Site d'avril à octobre.",
+      "url": "https://www.cirquenavacelles.com/animations-et-evenementiels/",
+      "source": "https://tourismegard.com/fr/fiche/commerce-et-service/maison-du-grand-site-du-cirque-de-navacelles-blandas_TFO5985122"
+    },
+    {
+      "id": "nature-corniche-de-l-hortus",
+      "type": "nature",
+      "title": "Crêtes de l'Hortus",
+      "town": "Valflaunès",
+      "lat": 43.7931,
+      "lon": 3.8193,
+      "free": true,
+      "note": "Boucle de 6,5 à 7,6 km (+310 à 340 m, 3 à 4 h) par le château de Viviourès. Sentier technique en bord de falaise.",
+      "url": "https://www.camptocamp.org/routes/953011/fr/",
+      "source": "https://www.sitytrail.com/fr/trails/3582936-valflaunes--cretes-hortus-depuis-le-parking-du-chateau-de-vivioures/"
+    },
+    {
+      "id": "nature-grotte-de-clamouse",
+      "type": "nature",
+      "title": "Grotte de Clamouse",
+      "town": "Saint-Jean-de-Fos",
+      "lat": 43.7096,
+      "lon": 3.5526,
+      "note": "Visite guidée d'environ 1h20, 15 °C sous terre. Saison 2026 de mi-février à mi-novembre.",
+      "url": "https://www.clamouse.com/fr/accueil/",
+      "source": "https://www.grottes-france.com/grotte-clamouse/"
+    },
+    {
+      "id": "nature-grotte-des-demoiselles",
+      "type": "nature",
+      "title": "Grotte des Demoiselles",
+      "town": "Saint-Bauzille-de-Putois",
+      "lat": 43.9075,
+      "lon": 3.7446,
+      "note": "Visites uniquement guidées (environ 1h15), horaires variables selon la saison.",
+      "url": "https://www.demoiselles.com/fr/billetterie",
+      "source": "https://www.demoiselles.com/fr/billetterie"
+    },
+    {
+      "id": "nature-jardin-des-plantes-montpellier",
+      "type": "nature",
+      "title": "Jardin des Plantes",
+      "town": "Montpellier",
+      "lat": 43.614,
+      "lon": 3.872,
+      "free": true,
+      "note": "Plus ancien jardin botanique de France (1593). Gratuit, du mardi au dimanche, 11h-18h d'octobre à mars, 12h-20h sinon.",
+      "url": "https://www.montpellier-tourisme.fr/decouvrir/millenaire/les-incontournables/jardin-des-plantes/",
+      "source": "https://www.herault-tourisme.com/fr/fiche/patrimoine-culturel/le-jardin-des-plantes-montpellier_TFOPCULAR0340000107/"
+    },
+    {
+      "id": "nature-lac-du-cres",
+      "type": "nature",
+      "title": "Lac du Crès",
+      "town": "Le Crès",
+      "lat": 43.6549,
+      "lon": 3.9306,
+      "free": true,
+      "note": "Ancienne carrière de 6 ha et 27 ha d'espaces verts, accès libre toute l'année. Baignade surveillée en été uniquement.",
+      "url": "https://www.montpellier-tourisme.fr/sejourner/loisirs-et-activites/parcs-et-jardins/lac-du-cres-le-cres-fr-3835210/",
+      "source": "https://www.herault-tourisme.com/fr/fiche/patrimoine-naturel/lac-du-cres-jean-marie-rouche-le-cres_TFOPNALAR034V511PZK/"
+    },
+    {
+      "id": "nature-lac-du-salagou",
+      "type": "nature",
+      "title": "Lac du Salagou",
+      "town": "Clermont-l'Hérault",
+      "lat": 43.6565,
+      "lon": 3.3807,
+      "free": true,
+      "note": "Lac aux terres rouges du Grand Site Salagou-Cirque de Mourèze. Tour du lac à pied impraticable après de fortes pluies.",
+      "url": "https://www.herault-tourisme.com/fr/fiche/organismes-et-entreprises/office-de-tourisme-destination-salagou-accueil-lac-du-salagou-clermont-l-herault_TFOORGLAR034V50Z868/",
+      "source": "https://www.grandorb.fr/phototheque_publique/Tourisme/2024/03/GRP-Tour-du-lac-du-Salagoupdf.pdf"
+    },
+    {
+      "id": "nature-mont-saint-clair",
+      "type": "nature",
+      "title": "Mont Saint-Clair",
+      "town": "Sète",
+      "lat": 43.4024,
+      "lon": 3.6845,
+      "free": true,
+      "note": "Belvédère à 360° sur Sète, la mer et l'étang de Thau, à côté de la chapelle Notre-Dame de la Salette.",
+      "url": "https://www.escapadeslr.com/sites-remarquables-mont-saint-clair-sete-herault-879.html",
+      "source": "https://icisete.fr/lieu/mont-saint-clair/"
+    },
+    {
+      "id": "nature-pic-saint-loup",
+      "type": "nature",
+      "title": "Randonnée du Pic Saint-Loup",
+      "town": "Cazevieille",
+      "lat": 43.7706,
+      "lon": 3.7921,
+      "free": true,
+      "note": "Départ du parking de Cazevieille : environ 6 km aller-retour, +370 m, 2h30. Pas de point d'eau sur le sentier.",
+      "url": "https://www.grandpicsaintloup-tourisme.fr/en/sport/ascent-of-pic-saint-loup",
+      "source": "https://www.grandpicsaintloup-tourisme.fr/en/sport/ascent-of-pic-saint-loup"
+    },
+    {
+      "id": "nature-plage-de-l-espiguette",
+      "type": "nature",
+      "title": "Plage de l'Espiguette",
+      "town": "Le Grau-du-Roi",
+      "lat": 43.4877,
+      "lon": 4.1418,
+      "free": true,
+      "note": "Plage sauvage et dunes près du phare. Parking des Baronnets gratuit d'octobre à mars, payant d'avril à septembre.",
+      "url": "https://www.escapadeslr.com/sites-remarquables-plage-de-l-espiguette-pointe-de-l-espiguette-le-grau-du-roi-gard-706.html",
+      "source": "https://voyage-nomad.fr/comment-aller-plage-espiguette/"
+    },
+    {
+      "id": "nature-plage-du-petit-travers",
+      "type": "nature",
+      "title": "Plage du Petit Travers",
+      "venue": "Carnon",
+      "town": "Mauguio",
+      "lat": 43.5528,
+      "lon": 4.0076,
+      "free": true,
+      "note": "Lido naturel protégé (Natura 2000), peu d'équipements, spot de kitesurf. Parking gratuit de 500 places au rond-point.",
+      "url": "https://www.mauguiocarnontourisme.com/plage-petit-travers.html",
+      "source": "https://www.mauguiocarnontourisme.com/plage-petit-travers.html"
+    },
+    {
+      "id": "nature-pont-du-diable-gorges-de-l-herault",
+      "type": "nature",
+      "title": "Pont du Diable et gorges de l'Hérault",
+      "town": "Aniane",
+      "lat": 43.7027,
+      "lon": 3.5635,
+      "free": true,
+      "note": "Accès libre toute l'année depuis la Maison du Grand Site (parking payant en saison). Baignade surveillée en juillet-août.",
+      "url": "https://www.saintguilhem-valleeherault.fr/mes-inspirations/legendaires/le-site-du-pont-du-diable/le-pont-du-diable",
+      "source": "https://www.routard.com/fr/guide/france/languedoc-roussillon/herault/gorges-de-l-herault/pont-du-diable"
+    },
+    {
+      "id": "nature-ravin-des-arcs",
+      "type": "nature",
+      "title": "Randonnée du Ravin des Arcs",
+      "town": "Notre-Dame-de-Londres",
+      "lat": 43.8121,
+      "lon": 3.7419,
+      "free": true,
+      "note": "Boucle PR de 4 km (+248 m, 1h30) depuis le parking de la D986. Sentier balisé obligatoire du 15/01 au 30/06.",
+      "url": "https://www.grandpicsaintloup-tourisme.fr/en/itineraries/randonnee-du-ravin-des-arcs",
+      "source": "https://www.cirkwi.com/fr/circuit/293358-randonnee-du-ravin-des-arcs"
+    },
+    {
+      "id": "nature-site-naturel-du-mejean",
+      "type": "nature",
+      "title": "Site naturel protégé du Méjean",
+      "venue": "Maison de la Nature",
+      "town": "Lattes",
+      "lat": 43.552,
+      "lon": 3.903,
+      "free": true,
+      "note": "Sentiers autour de l'étang (flamants roses), Maison de la Nature gratuite, fermée le lundi. Chiens interdits.",
+      "url": "https://www.montpellier-tourisme.fr/sejourner/loisirs-et-activites/parcs-et-jardins/site-naturel-protege-du-mejean-maison-de-la-nature-lattes-fr-3835353/",
+      "source": "https://www.montpellier-tourisme.fr/sejourner/loisirs-et-activites/parcs-et-jardins/site-naturel-protege-du-mejean-maison-de-la-nature-lattes-fr-3835353/"
+    },
+    {
+      "id": "patrimoine-abbaye-de-valmagne",
+      "type": "patrimoine",
+      "title": "Abbaye de Valmagne",
+      "town": "Villeveyrac",
+      "lat": 43.487,
+      "lon": 3.562,
+      "note": "Abbaye cistercienne et domaine viticole. Basse saison : mardi-vendredi 14h-18h, week-end 10h-18h.",
+      "url": "https://www.herault-tourisme.com/fr/fiche/patrimoine-culturel/abbaye-sainte-marie-de-valmagne-villeveyrac_TFOPCULAR0340000034/",
+      "source": "https://www.routard.com/fr/guide/france/languedoc-roussillon/herault/villeveyrac/abbaye-de-valmagne"
+    },
+    {
+      "id": "patrimoine-aqueduc-saint-clement",
+      "type": "patrimoine",
+      "title": "Aqueduc Saint-Clément (les Arceaux)",
+      "town": "Montpellier",
+      "lat": 43.6118,
+      "lon": 3.865,
+      "free": true,
+      "note": "Aqueduc du XVIIIe siècle à double rangée d'arches sur 800 m. Marché à ses pieds mardi et samedi matin.",
+      "url": "https://www.montpellier-tourisme.fr/sejourner/loisirs-et-activites/patrimoine-et-musees/tout-le-patrimoine-musees-monuments/aqueduc-saint-clement-dit-des-arceaux-montpellier-fr-3835075/",
+      "source": "https://www.montpellier.fr/action/les-grands-projets/aqueduc-saint-clement"
+    },
+    {
+      "id": "patrimoine-arenes-de-nimes",
+      "type": "patrimoine",
+      "title": "Arènes de Nîmes",
+      "town": "Nîmes",
+      "lat": 43.8349,
+      "lon": 4.3596,
+      "note": "Amphithéâtre romain ouvert 7j/7 (9h30-17h en hiver). Visite avec audioguide d'environ 1h30.",
+      "url": "https://www.arenes-nimes.com/infos-pratiques/",
+      "source": "https://nimes-tourisme.com/explorer/nimes/monuments-et-sites/arenes-de-nimes/"
+    },
+    {
+      "id": "patrimoine-cathedrale-de-maguelone",
+      "type": "patrimoine",
+      "title": "Cathédrale de Maguelone",
+      "town": "Villeneuve-lès-Maguelone",
+      "lat": 43.5125,
+      "lon": 3.8836,
+      "free": true,
+      "note": "Visite libre et gratuite tous les jours 9h-18h. Accès à pied depuis le parking du Pilou (passerelle, 15 min).",
+      "url": "https://patrimoinereligieux34.catholique.fr/index.php/cathedrale-saint-pierre-de-maguelone",
+      "source": "https://www.bouger-voyager.com/cathedrale-de-maguelone/"
+    },
+    {
+      "id": "patrimoine-chateau-de-castries",
+      "type": "patrimoine",
+      "title": "Château de Castries",
+      "town": "Castries",
+      "lat": 43.6777,
+      "lon": 3.9875,
+      "note": "« Petit Versailles du Languedoc », rouvert en septembre 2026 avec le parcours « Château de Lumières ».",
+      "url": "https://www.montpellier-tourisme.fr/decouvrir/millenaire/les-chateaux-et-folies/chateau-de-castries/",
+      "source": "https://www.herault-tourisme.com/fr/fiche/patrimoine-culturel/chateau-de-castries-castries_TFOPCULAR034V50WD67/"
+    },
+    {
+      "id": "patrimoine-chateau-de-flaugergues",
+      "type": "patrimoine",
+      "title": "Château de Flaugergues",
+      "town": "Montpellier",
+      "lat": 43.6103,
+      "lon": 3.9201,
+      "note": "Folie du XVIIIe, jardins remarquables et vignes. Basse saison : lundi-vendredi 9h30-18h, samedi 14h-18h.",
+      "url": "https://www.flaugergues.com/informations-pratiques/",
+      "source": "https://www.flaugergues.com/informations-pratiques/"
+    },
+    {
+      "id": "patrimoine-maison-carree",
+      "type": "patrimoine",
+      "title": "Maison Carrée",
+      "town": "Nîmes",
+      "lat": 43.8382,
+      "lon": 4.3561,
+      "note": "Temple romain inscrit à l'UNESCO, ouvert 7j/7 (10h-16h30 en hiver). Visite de moins d'une heure.",
+      "url": "https://www.lamaisoncarreedenimes.fr/visiter-la-maison-carree/",
+      "source": "https://www.lamaisoncarreedenimes.fr/visiter-la-maison-carree/"
+    },
+    {
+      "id": "patrimoine-pezenas-centre-historique",
+      "type": "patrimoine",
+      "title": "Centre historique de Pézenas",
+      "town": "Pézenas",
+      "lat": 43.4607,
+      "lon": 3.4246,
+      "free": true,
+      "note": "Secteur sauvegardé, hôtels particuliers et souvenir de Molière. Parcours fléché depuis l'office de tourisme.",
+      "url": "https://www.herault-tourisme.com/fr/decouvrir/villes-et-villages-dans-lherault/pezenas/",
+      "source": "https://www.montpellier-tourisme.fr/decouvrir/millenaire/escapades-en-region/villes-et-villages/pezenas/"
+    },
+    {
+      "id": "patrimoine-promenade-du-peyrou",
+      "type": "patrimoine",
+      "title": "Promenade du Peyrou",
+      "town": "Montpellier",
+      "lat": 43.6115,
+      "lon": 3.8701,
+      "free": true,
+      "note": "Esplanade royale avec arc de triomphe, statue de Louis XIV et château d'eau. Accès libre. Tram 4 Peyrou.",
+      "url": "https://www.montpellier-tourisme.fr/decouvrir/millenaire/les-incontournables/place-royale-du-peyrou/",
+      "source": "https://pop.culture.gouv.fr/notice/merimee/PA00103609"
+    },
+    {
+      "id": "patrimoine-saint-guilhem-abbaye-de-gellone",
+      "type": "patrimoine",
+      "title": "Saint-Guilhem-le-Désert et abbaye de Gellone",
+      "town": "Saint-Guilhem-le-Désert",
+      "lat": 43.7339,
+      "lon": 3.5495,
+      "free": true,
+      "note": "Abbatiale romane (UNESCO), entrée libre tous les jours 8h-18h. Cloître fermé de 12h à 12h45.",
+      "url": "https://www.saintguilhem-valleeherault.fr/patrimoine/abbaye-de-gellone-a-saint-guilhem-le-desert-saint-guilhem-le-desert",
+      "source": "https://www.herault-tourisme.com/fr/fiche/patrimoine-culturel/abbaye-de-gellone-a-saint-guilhem-le-desert-saint-guilhem-le-desert_TFOPCULAR0340000031/"
+    },
+    {
+      "id": "patrimoine-tours-et-remparts-d-aigues-mortes",
+      "type": "patrimoine",
+      "title": "Tours et remparts d'Aigues-Mortes",
+      "town": "Aigues-Mortes",
+      "lat": 43.5685,
+      "lon": 4.1897,
+      "note": "Tour de Constance et chemin de ronde (CMN). 10h-17h30 de septembre à avril, 10h-19h de mai à août.",
+      "url": "https://ot-aiguesmortes.com/annuaire/les-tours-et-remparts-d-aigues-mortes",
+      "source": "https://www.piemont-cevenol-tourisme.com/fiche-touristique/les-tours-et-remparts-daigues-mortes/"
+    },
+    {
+      "id": "sport-canoe-gorges-de-l-herault",
+      "type": "sport",
+      "title": "Canoë-kayak dans les gorges de l'Hérault",
+      "venue": "Plage du Pont du Diable",
+      "town": "Aniane",
+      "lat": 43.7077,
+      "lon": 3.5574,
+      "note": "Location au Pont du Diable ou à Saint-Guilhem, de mai à septembre selon la météo. Dès 4 ans.",
+      "url": "https://www.saintguilhem-valleeherault.fr/mes-inspirations/naturelles/activites-nautiques/location-de-canoe-kayak",
+      "source": "https://www.saintguilhem-valleeherault.fr/annuaire/les-canoes-du-pont-du-diable"
+    },
+    {
+      "id": "sport-patinoire-vegapolis",
+      "type": "sport",
+      "title": "Patinoire Vegapolis",
+      "town": "Montpellier",
+      "lat": 43.6031,
+      "lon": 3.9152,
+      "note": "Piste sportive et piste ludique, séances publiques tous les jours et soirées. Planning publié chaque semaine.",
+      "url": "https://www.vegapolis.fr/pistes-2/",
+      "source": "https://www.montpellier-tourisme.fr/sejourner/loisirs-et-activites/tous-les-loisirs-et-activites/patinoire-vegapolis-de-montpellier-mediterranee-metropole-montpellier-fr-3835325/"
+    },
+    {
+      "id": "sport-piscine-olympique-angelotti",
+      "type": "sport",
+      "title": "Piscine Olympique Angelotti",
+      "venue": "Antigone",
+      "town": "Montpellier",
+      "lat": 43.6074,
+      "lon": 3.8932,
+      "note": "Bassin olympique à Antigone. Lundi-vendredi 9h-21h30, samedi 9h-19h15, dimanche 9h-13h15 et 15h-19h15.",
+      "url": "https://www.montpellier.fr/territoire/lieux-equipements/piscine-olympique-angelotti",
+      "source": "https://www.montpellier.fr/territoire/lieux-equipements/piscine-olympique-angelotti"
+    },
+    {
+      "id": "sport-voile-la-grande-motte",
+      "type": "sport",
+      "title": "Base nautique de La Grande-Motte",
+      "venue": "Esplanade Jean Baumel",
+      "town": "La Grande-Motte",
+      "lat": 43.5576,
+      "lon": 4.0776,
+      "note": "Catamaran, dériveur, planche, wingfoil dès 4 ans selon activité. Ouvert tous les jours en juillet-août.",
+      "url": "https://www.lagrandemotte.com/base-nautique-akila/",
+      "source": "https://www.akila-centers.com/centres-outdoor/akila-grande-motte/"
+    }
+  ],
+  "pending": [
+    {
+      "id": "city-coordonnees-zenith-sud-et-sud-de-france-arena",
+      "kind": "uncertain",
+      "title": "Coordonnées Zénith Sud et Sud de France Arena",
+      "detail": "Les coordonnées fournies dans la consigne ne correspondent pas à OpenStreetMap ; j'ai utilisé OSM (Zénith Sud 43.6131,3.9309 à Grammont ; Arena 43.5733,3.9517 à Pérols).",
+      "since": "2026-11-15",
+      "sources": [
+        "https://nominatim.openstreetmap.org/"
+      ]
+    },
+    {
+      "id": "city-horaires-des-matchs-mhsc-de-2027",
+      "kind": "uncertain",
+      "title": "Horaires des matchs MHSC de 2027",
+      "detail": "Seuls les week-ends sont fixés par le calendrier LFP ; les dates exactes et horaires de janvier à mars (Guingamp, Clermont, Rodez 29/01, Reims 12/02, Laval 26/02, Annecy 05/03) restent à confirmer.",
+      "since": "2026-11-15",
+      "items": [
+        "sport-mhsc-guingamp-mosson-2027",
+        "sport-mhsc-clermont-mosson-2027"
+      ],
+      "sources": [
+        "https://madeinfoot.ouest-france.fr/club/montpellier-906/calendrier-resultats.html",
+        "https://www.montpellier-tourisme.fr/agenda/tout-l-agenda/football-mhsc-vs-ea-guingamp-montpellier-fr-6881384/"
+      ]
+    },
+    {
+      "id": "city-matchs-mhr-a-domicile",
+      "kind": "uncertain",
+      "title": "Matchs MHR à domicile",
+      "detail": "Le club n'affiche que des week-ends sans horaire. Autres réceptions annoncées : Northampton (9 janv.), Stade Français (23 janv.), Racing 92 (20 fév.), Clermont (20 mars).",
+      "since": "2026-11-15",
+      "items": [
+        "sport-mhr-la-rochelle-2026",
+        "sport-mhr-bulls-2026",
+        "sport-mhr-bayonne-2026"
+      ],
+      "sources": [
+        "https://www.montpellier-rugby.com/equipes/equipe-pro/calendrier"
+      ]
+    },
+    {
+      "id": "city-salle-des-matchs-du-montpellier-handball",
+      "kind": "uncertain",
+      "title": "Salle des matchs du Montpellier Handball",
+      "detail": "Le site du club indique « FDI Stadium » ; j'ai supposé qu'il s'agit du Palais des sports René-Bougnol (coordonnées OSM). À vérifier. Matchs suivants à domicile : Tremblay (5-7 fév.), PSG (26-28 fév.), Nîmes (fin mars).",
+      "since": "2026-11-15",
+      "items": [
+        "sport-mhb-cesson-rennes-2026",
+        "sport-mhb-caen-2026"
+      ],
+      "sources": [
+        "https://www.montpellierhandball.com/",
+        "https://www.montpellierhandball.com/decouvrez-le-calendrier-26-27-de-la-daikin-starligue/"
+      ]
+    },
+    {
+      "id": "city-blma-basket-feminin",
+      "kind": "missing",
+      "title": "BLMA (basket féminin)",
+      "detail": "Le calendrier complet n'existe qu'en image ; seule la réception de Basket Landes le dimanche 14 mars 2027 est confirmée, sans horaire ni salle.",
+      "since": "2026-11-15",
+      "sources": [
+        "https://www.blma.fr/actualites-club/saison-2026-2027-le-calendrier-officiel/"
+      ]
+    },
+    {
+      "id": "city-evenements-annules-ou-reportes",
+      "kind": "uncertain",
+      "title": "Événements annulés ou reportés",
+      "detail": "Monte Cristo (Arena, 20-21 nov.) annulé, Éric Serra Live (Zénith, 29 nov.) tournée annulée, RFM Party 80 (4 fév.) annulé, Hexagone MMA reporté au 22 oct. 2027 : non inclus.",
+      "since": "2026-11-15",
+      "sources": [
+        "https://www.suddefrance-arena.com/",
+        "https://zenithsud-montpellier.com/fr/agenda?name=&nbrMonths=24&place=&public=&scrollTo=1&type="
+      ]
+    },
+    {
+      "id": "city-autres-dates-reperees-non-retenues",
+      "kind": "missing",
+      "title": "Autres dates repérées non retenues",
+      "detail": "Zénith : Christophe Maé 13 janv. (complet), Nawell Madani 11 fév., Hoshi 25 fév. ; Arena : Clair Obscur 3 mars, L2B 6 mars, Grand Corps Malade 18 mars, SDM 20 mars ; 13 vents : Pièces détachées 2-4 fév.",
+      "since": "2026-11-15",
+      "sources": [
+        "https://zenithsud-montpellier.com/fr/agenda?name=&nbrMonths=24&place=&public=&scrollTo=1&type=",
+        "https://www.suddefrance-arena.com/",
+        "https://www.13vents.fr/"
+      ]
+    },
+    {
+      "id": "city-festival-des-fanfares-montpellier-danse-corum-hors-opera",
+      "kind": "missing",
+      "title": "Festival des Fanfares, Montpellier Danse, Corum (hors opéra)",
+      "detail": "Non recherchés faute de temps ; aucune date vérifiée pour ces programmations sur la période.",
+      "since": "2026-11-15"
+    },
+    {
+      "id": "city-horaire-redouane-bougheraba",
+      "kind": "uncertain",
+      "title": "Horaire Redouane Bougheraba",
+      "detail": "20h annoncé par un agrégateur (plan-stade) seulement ; horaire non repris dans l'item.",
+      "since": "2026-11-15",
+      "items": [
+        "spectacle-redouane-bougheraba-sud-de-france-arena-2026"
+      ]
+    },
+    {
+      "id": "around-marche-de-noel-de-nimes-chalets-de-l-esplanade",
+      "kind": "uncertain",
+      "title": "Marché de Noël de Nîmes (chalets de l'Esplanade)",
+      "detail": "Les dates 2026 ne sont pas publiées ; en 2025 les chalets ouvraient du 29 novembre au 4 janvier et le marché de la Cathédrale du 19 au 24 décembre.",
+      "since": "2026-11-15",
+      "sources": [
+        "https://www.nimes.fr/espace-presse/nimes-offre-un-noel-enchanteur-et-festif-pour-tous-1",
+        "https://marches-de-noel.fr/marches/nimes/"
+      ]
+    },
+    {
+      "id": "around-transhumance-lumineuse-de-lunel",
+      "kind": "missing",
+      "title": "Transhumance lumineuse de Lunel",
+      "detail": "Aucune date annoncée pour décembre 2026 ; l'édition 2025 avait été reportée au 4 janvier 2026.",
+      "since": "2026-11-15",
+      "sources": [
+        "https://www.lunel.com/2025/12/23/la-transhumance-reportee-au-4-janvier-prochain/"
+      ]
+    },
+    {
+      "id": "around-nimes-olympique-as-saint-priest",
+      "kind": "uncertain",
+      "title": "Nîmes Olympique – AS Saint-Priest",
+      "detail": "Certaines pages donnent le 21 novembre à 18h, le calendrier remanié (17 clubs) indique le 5 décembre ; horaire non confirmé.",
+      "since": "2026-11-15",
+      "items": [
+        "sport-nimes-olympique-saint-priest-2026"
+      ],
+      "sources": [
+        "https://www.objectifsud.fr/actualites/nimes-olympique-decouvrez-le-nouveau-calendrier-des-crocos-pour-la-saison-2026-2027-168181.php",
+        "https://www.graden.fr/event/nimes-olympique-as-saint-priest"
+      ]
+    },
+    {
+      "id": "around-le-chant-des-seuils-musee-paul-valery",
+      "kind": "uncertain",
+      "title": "Le Chant des seuils (Musée Paul Valéry)",
+      "detail": "Le dossier de presse donne le 5 décembre dans les infos pratiques et le 6 décembre dans le texte ; le 6 a été retenu.",
+      "since": "2026-11-15",
+      "items": [
+        "exposition-le-chant-des-seuils-chourouk-hriech-sete-2026"
+      ],
+      "sources": [
+        "https://www.annesamson.com/le-chant-des-seuils-chourouk-hriech/"
+      ]
+    },
+    {
+      "id": "around-paloma-nimes",
+      "kind": "uncertain",
+      "title": "Paloma (Nîmes)",
+      "detail": "La salle est à environ 50,4 km de la Comédie, juste hors rayon : concerts de novembre (FFF le 18, Pierre de Maere le 25) écartés.",
+      "since": "2026-11-15",
+      "sources": [
+        "https://paloma-nimes.fr/agenda/2026-11/concerts/"
+      ]
+    },
+    {
+      "id": "around-journees-romaines-de-nimes-2027",
+      "kind": "missing",
+      "title": "Journées romaines de Nîmes 2027",
+      "detail": "Annoncées pour avril 2027 aux Arènes, sans dates précises.",
+      "since": "2026-11-15",
+      "sources": [
+        "https://www.tourisme-occitanie.com/fr/fiche/fete-et-manifestation/les-journees-romaines-de-nimes-nimes_TFOFMALAR0300026203/"
+      ]
+    },
+    {
+      "id": "around-carnaval-de-pezenas-et-fete-de-la-saint-blaise-2027",
+      "kind": "missing",
+      "title": "Carnaval de Pézenas et fête de la Saint-Blaise 2027",
+      "detail": "Dates 2027 non publiées ; Mardi gras tombe le 9 février 2027.",
+      "since": "2026-11-15",
+      "sources": [
+        "https://www.ville-pezenas.fr/ville-de-pezenas-le-carnaval-est-lance-a-pezenas/"
+      ]
+    },
+    {
+      "id": "around-fete-de-l-huitre-de-bouzigues",
+      "kind": "missing",
+      "title": "Fête de l'huître de Bouzigues",
+      "detail": "Aucune édition annoncée sur la période ; la fête a lieu habituellement en août.",
+      "since": "2026-11-15",
+      "sources": [
+        "https://icisete.fr/bon-plan/fetes-de-lhuitre-dans-larchipel-de-thau/"
+      ]
+    },
+    {
+      "id": "around-foret-magique-de-la-grande-motte",
+      "kind": "uncertain",
+      "title": "Forêt Magique de La Grande-Motte",
+      "detail": "Ouverture le 28 novembre confirmée, date de fermeture non publiée (4 janvier l'an dernier).",
+      "since": "2026-11-15",
+      "items": [
+        "famille-ouverture-foret-magique-la-grande-motte-2026"
+      ],
+      "sources": [
+        "https://www.lagrandemotte.fr/agenda/illumination-de-la-grande-motte/"
+      ]
+    },
+    {
+      "id": "around-marches-de-noel-de-ganges",
+      "kind": "uncertain",
+      "title": "Marchés de Noël de Ganges",
+      "detail": "Agrégateurs contradictoires (4, 5 ou 13 décembre), aucune source officielle.",
+      "since": "2026-11-15",
+      "sources": [
+        "https://marchenoel.org/marches-de-noel/occitanie/herault/ganges/"
+      ]
+    },
+    {
+      "id": "around-feerie-de-noel-de-sete",
+      "kind": "missing",
+      "title": "Féerie de Noël de Sète",
+      "detail": "Lancement des festivités annoncé le 28 novembre, programme et lieu non encore publiés.",
+      "since": "2026-11-15",
+      "sources": [
+        "https://www.sete.fr/agenda-actualites/a-venir/"
+      ]
+    },
+    {
+      "id": "around-defi-des-1000-marches-sete",
+      "kind": "uncertain",
+      "title": "Défi des 1000 marches (Sète)",
+      "detail": "Randonnée le 13 décembre, départ 8h30 de la base nautique Françoise Pascal ; non retenue faute de coordonnées vérifiées du point de départ.",
+      "since": "2026-11-15",
+      "sources": [
+        "https://www.sete.fr/agenda-actualites/a-venir/"
+      ]
+    },
+    {
+      "id": "around-arago-de-sete-autres-matchs-a-domicile",
+      "kind": "uncertain",
+      "title": "Arago de Sète, autres matchs à domicile",
+      "detail": "Tours le 21 déc., Cannes le 8 janv., Poitiers le 12 janv., Tourcoing le 22 janv. à 19h30, selon des agrégateurs non vérifiés.",
+      "since": "2026-11-15",
+      "sources": [
+        "https://www.les-sports.info/volleyball-arago-de-sete-resultats-identite-equ550.html"
+      ]
+    },
+    {
+      "id": "places-parc-zoologique-de-lunaret",
+      "kind": "missing",
+      "title": "Parc zoologique de Lunaret",
+      "detail": "Le zoo gratuit de Montpellier est fermé pour travaux depuis août 2026, réouverture annoncée en 2028 : non retenu.",
+      "since": "2026-11-15",
+      "sources": [
+        "https://www.montpellier-tourisme.fr/offres/zoo-de-montpellier-montpellier-fr-3835196/",
+        "https://www.montpellier.fr/action/les-grands-projets/grand-parc-de-lunaret"
+      ]
+    },
+    {
+      "id": "places-mo-co-hotel-des-collections",
+      "kind": "missing",
+      "title": "MO.CO. Hôtel des collections",
+      "detail": "Centre d'art sans collection permanente, ouvert seulement pendant les expositions temporaires : non retenu dans les lieux permanents.",
+      "since": "2026-11-15",
+      "sources": [
+        "https://www.moco.art/en/access",
+        "https://www.petitfute.com/v19254-montpellier-34000/c1173-visites-points-d-interet/c958-musee/c960-art-moderne/1787564-mo-co-hotel-des-collections.html"
+      ]
+    },
+    {
+      "id": "places-bois-de-valene",
+      "kind": "missing",
+      "title": "Bois de Valène",
+      "detail": "Randonnées confirmées uniquement par des sites communautaires, sans page officielle ni parking de référence : non retenu.",
+      "since": "2026-11-15",
+      "sources": [
+        "https://www.decathlon-outdoor.com/fr-fr/explore/france/murles-et-trip-fascinant-de-l-arnede-a-caravette-6166b4bb758c5"
+      ]
+    },
+    {
+      "id": "places-chateau-de-castries",
+      "kind": "uncertain",
+      "title": "Château de Castries",
+      "detail": "Le parcours « Château de Lumières » est annoncé jusqu'au 31/12/2026 par les fiches tourisme mais jusqu'au 29/11/2026 par le JDS ; ouverture en 2027 non confirmée.",
+      "since": "2026-11-15",
+      "items": [
+        "patrimoine-chateau-de-castries"
+      ],
+      "sources": [
+        "https://www.herault-tourisme.com/fr/fiche/patrimoine-culturel/chateau-de-castries-castries_TFOPCULAR034V50WD67/",
+        "https://www.jds.fr/montpellier/castries/chateaux/chateau-de-castries-24769_L"
+      ]
+    },
+    {
+      "id": "places-grotte-de-clamouse",
+      "kind": "uncertain",
+      "title": "Grotte de Clamouse",
+      "detail": "Saison annoncée de mi-février à mi-novembre par un site tiers ; le site officiel n'a pas confirmé les dates de fermeture hivernale.",
+      "since": "2026-11-15",
+      "items": [
+        "nature-grotte-de-clamouse"
+      ],
+      "sources": [
+        "https://www.grottes-france.com/grotte-clamouse/"
+      ]
+    },
+    {
+      "id": "places-seaquarium-du-grau-du-roi",
+      "kind": "uncertain",
+      "title": "Seaquarium du Grau-du-Roi",
+      "detail": "Un site tiers signale une fermeture annuelle en janvier (réouverture début février), les autres sources indiquent une ouverture toute l'année ; site officiel non consulté.",
+      "since": "2026-11-15",
+      "items": [
+        "famille-seaquarium-du-grau-du-roi"
+      ],
+      "sources": [
+        "https://www.anigaido.com/lieux/aquariums-2/seaquarium-du-grau-du-roi"
+      ]
+    },
+    {
+      "id": "places-accrobranche-rochers-de-maguelone-tyroliane",
+      "kind": "uncertain",
+      "title": "Accrobranche (Rochers de Maguelone, Tyroliane)",
+      "detail": "Parcs saisonniers dont les jours d'ouverture hors été ne sont pas publiés clairement ; affichés fermés à la mi-novembre.",
+      "since": "2026-11-15",
+      "items": [
+        "famille-rochers-de-maguelone",
+        "famille-tyroliane-saint-christol"
+      ],
+      "sources": [
+        "https://www.les-rochers-de-maguelone.com/",
+        "https://www.tyroliane.fr/"
+      ]
+    },
+    {
+      "id": "places-coordonnees-approximatives",
+      "kind": "uncertain",
+      "title": "Coordonnées approximatives",
+      "detail": "Les points du Cirque de Navacelles (village au fond du cirque, belvédères à Blandas), du lac du Salagou (centre du lac) et de l'aqueduc des Arceaux sont des positions représentatives, pas un parking précis.",
+      "since": "2026-11-15",
+      "items": [
+        "nature-cirque-de-navacelles",
+        "nature-lac-du-salagou",
+        "patrimoine-aqueduc-saint-clement"
+      ]
+    },
+    {
+      "id": "places-base-nautique-de-la-grande-motte",
+      "kind": "uncertain",
+      "title": "Base nautique de La Grande-Motte",
+      "detail": "La base de l'esplanade Jean Baumel semble désormais exploitée par Akila (ex-Yacht Club) ; le changement d'exploitant n'est pas confirmé explicitement.",
+      "since": "2026-11-15",
+      "items": [
+        "sport-voile-la-grande-motte"
+      ],
+      "sources": [
+        "https://www.lagrandemotte.com/base-nautique-akila/"
+      ]
+    }
+  ]
+}

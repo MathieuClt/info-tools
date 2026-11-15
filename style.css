@@ -131,6 +131,62 @@ ul.events, .pending-list { list-style: none; margin: 0; padding: 0; display: gri
 .credits dd { margin: 0; }
 .tv-name.w-cinema { background: color-mix(in srgb, var(--sport) 14%, var(--card)); }
 
+/* Activités : rayon, carte et cartes d'activité */
+.search input { width: 100%; min-height: 44px; font: inherit; color: var(--fg); background: var(--card); border: 1px solid var(--line); border-radius: var(--radius); padding: 10px 14px; }
+.search input:focus-visible { outline: 2px solid var(--accent); outline-offset: 1px; }
+.cal { padding: 0 14px 12px; }
+.cal-head { display: flex; align-items: center; justify-content: space-between; margin-bottom: 6px; }
+.cal-title { font-weight: 700; }
+.cal-nav { width: 40px; height: 40px; font: inherit; font-size: 1.3rem; color: var(--fg); background: var(--soft); border: 0; border-radius: 10px; cursor: pointer; }
+.cal-nav:disabled { opacity: .35; cursor: default; }
+.cal-grid { display: grid; grid-template-columns: repeat(7, 1fr); gap: 3px; max-width: 420px; margin: 0 auto; }
+.cal-wd { text-align: center; font-size: .72rem; font-weight: 700; color: var(--muted); padding: 2px 0; }
+.cal-day { display: grid; place-items: center; align-content: center; gap: 0; aspect-ratio: 1; min-height: 40px; font: inherit; color: var(--fg);
+  background: transparent; border: 1px solid transparent; border-radius: 10px; cursor: pointer; padding: 0; font-variant-numeric: tabular-nums; }
+.cal-day:hover:not(:disabled) { background: var(--soft); }
+.cal-day:focus-visible { outline: 2px solid var(--accent); outline-offset: 1px; }
+.cal-day:disabled { color: var(--muted); opacity: .4; cursor: default; }
+.cal-day.is-out .cal-num { color: var(--muted); }
+.cal-day.is-today { border-color: var(--accent); }
+.cal-day.is-in { background: color-mix(in srgb, var(--accent) 16%, var(--card)); }
+.cal-day.is-edge { background: var(--accent); color: var(--card); }
+.cal-day.is-edge .cal-num, .cal-day.is-edge .cal-count { color: var(--card); }
+.cal-num { font-size: .92rem; font-weight: 600; line-height: 1.1; }
+.cal-count { font-size: .62rem; color: var(--accent); min-height: .8rem; line-height: 1; }
+.cal-help { margin: 8px 0 0; font-size: .78rem; color: var(--muted); }
+.cal-clear { font: inherit; font-size: .8rem; font-weight: 600; color: var(--accent); background: none; border: 0; padding: 2px 0; cursor: pointer; }
+select:disabled { opacity: .5; }
+.radius { display: grid; gap: 4px; background: var(--card); border: 1px solid var(--line); border-radius: var(--radius); padding: 10px 14px; }
+.radius label { display: flex; justify-content: space-between; font-weight: 600; }
+.radius output { color: var(--accent); font-variant-numeric: tabular-nums; }
+.radius input { width: 100%; accent-color: var(--accent); min-height: 32px; margin: 0; }
+.radius-scale { display: flex; justify-content: space-between; font-size: .72rem; color: var(--muted); }
+.map { height: 280px; border: 1px solid var(--line); border-radius: var(--radius); overflow: hidden; background: var(--soft); z-index: 0; }
+.map .mk { stroke: var(--card); stroke-width: 2; fill: var(--sport); fill-opacity: .95; }
+.map .mk-multi { stroke: var(--fg); }
+.map .mk-origin { stroke: var(--card); stroke-width: 2; fill: var(--fg); fill-opacity: 1; }
+.map .mk-radius { stroke: var(--accent); stroke-width: 2; stroke-dasharray: 6 6; fill: var(--accent); fill-opacity: .06; }
+.leaflet-container { font: inherit; }
+.leaflet-popup-content-wrapper, .leaflet-popup-tip { background: var(--card); color: var(--fg); }
+.leaflet-container a.leaflet-popup-close-button { color: var(--muted); }
+.leaflet-popup-content { margin: 10px 12px; font-size: .88rem; line-height: 1.35; }
+.popup { display: grid; gap: 2px; }
+.popup .sport { font-size: .7rem; }
+.popup-title a { color: inherit; }
+.popup-meta { color: var(--muted); font-size: .8rem; }
+.popup-go { justify-self: start; margin-top: 4px; font: inherit; font-size: .8rem; font-weight: 600; color: var(--accent); background: none; border: 0; padding: 2px 0; cursor: pointer; }
+.popup-list { display: grid; gap: 10px; }
+.popup-list .popup + .popup { border-top: 1px solid var(--line); padding-top: 8px; }
+.when, .note { margin: 0; font-size: .88rem; }
+.when { font-weight: 600; font-variant-numeric: tabular-nums; }
+.card-foot { display: flex; flex-wrap: wrap; align-items: baseline; justify-content: space-between; gap: 4px 12px; }
+.show-on-map { font: inherit; font-size: .8rem; font-weight: 600; color: var(--accent); background: none; border: 0; padding: 4px 0; cursor: pointer; }
+.badge.free { color: var(--free); border: 1px solid currentColor; }
+.event.is-focused { box-shadow: 0 0 0 2px var(--sport); }
+@media (prefers-color-scheme: dark) {
+  .map .leaflet-tile-pane { filter: invert(1) hue-rotate(180deg) brightness(.9) contrast(.9); }
+}
+
 /* Horaires */
 .schedule { list-style: none; margin: 2px 0 0; padding: 0; display: flex; flex-wrap: wrap; gap: 6px; }
 .schedule li { display: inline-flex; flex-direction: column; background: var(--soft); border-radius: 8px; padding: 4px 10px; }
@@ -196,10 +252,13 @@ footer { color: var(--muted); font-size: .78rem; padding-top: 32px; padding-bott
   h1 { font-size: 1.7rem; }
   .tabs { max-width: 420px; }
   .filters { grid-template-columns: 1fr auto; align-items: end; }
-  .sports, .segmented { grid-column: 1 / -1; }
+  .sports, .segmented, .search, .radius, .map { grid-column: 1 / -1; }
+  .cal-help { text-align: center; }
+  .cal-day { aspect-ratio: auto; min-height: 46px; }
   .segmented { max-width: 420px; }
   .selects { grid-template-columns: 220px 220px; }
   .event { grid-template-columns: 5.5rem 1fr; }
+  .map { height: 380px; }
   .d1 { font-size: 1.45rem; }
   .d1.long { font-size: 1rem; }
 }
@@ -208,6 +267,17 @@ footer { color: var(--muted); font-size: .78rem; padding-top: 32px; padding-bott
 .event, .chip, .plain-list li { --sport: var(--muted); }
 .t-film { --sport: hsl(342 var(--sport-s) var(--sport-l)); }
 .t-serie { --sport: hsl(262 var(--sport-s) var(--sport-l)); }
+.a-festival { --sport: hsl(345 var(--sport-s) var(--sport-l)); }
+.a-concert { --sport: hsl(315 var(--sport-s) var(--sport-l)); }
+.a-soiree { --sport: hsl(285 var(--sport-s) var(--sport-l)); }
+.a-spectacle { --sport: hsl(250 var(--sport-s) var(--sport-l)); }
+.a-exposition { --sport: hsl(215 var(--sport-s) var(--sport-l)); }
+.a-famille { --sport: hsl(185 var(--sport-s) var(--sport-l)); }
+.a-sport { --sport: hsl(155 var(--sport-s) var(--sport-l)); }
+.a-nature { --sport: hsl(115 var(--sport-s) var(--sport-l)); }
+.a-atelier { --sport: hsl(80 var(--sport-s) var(--sport-l)); }
+.a-marche { --sport: hsl(45 var(--sport-s) var(--sport-l)); }
+.a-patrimoine { --sport: hsl(20 var(--sport-s) var(--sport-l)); }
 .s-formule-1 { --sport: hsl(0 var(--sport-s) var(--sport-l)); }
 .s-boxe { --sport: hsl(8 var(--sport-s) var(--sport-l)); }
 .s-motogp { --sport: hsl(20 var(--sport-s) var(--sport-l)); }
