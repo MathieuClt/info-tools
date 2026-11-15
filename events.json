@@ -168,14 +168,14 @@
         {
           "name": "beIN Sports",
           "free": false,
-          "source": "https://blog.iambeezy.app/fr/reprise-nba-spurs-thunder-wembanyama-ou-regarder-francais/",
-          "note": "Au moins un match par jour"
+          "source": "https://beinregie.beinsports.com/offres/nba/",
+          "note": "Jusqu'à 9 matchs par semaine"
         },
         {
           "name": "Prime Video",
           "free": false,
-          "source": "https://www.sortiraparis.com/en/what-to-do-in-paris/sport-wellness/articles/333493-nba-on-prime-video-how-to-follow-the-2026-2027-season-in-france",
-          "note": "Jusqu'à 86 matchs en France"
+          "source": "https://www.sportbuzzbusiness.fr/nba-2026-2027-sur-quelles-chaines-et-plateformes-de-streaming-regarder-les-matchs-en-france.html",
+          "note": "Jusqu'à 86 matchs de saison régulière"
         }
       ]
     },
@@ -205,7 +205,51 @@
       "end": "2026-12-11",
       "location": "États-Unis ; finale à Indianapolis (Hinkle Fieldhouse)",
       "url": "https://www.nba.com/",
-      "source": "https://www.nba.com/news/key-dates"
+      "source": "https://www.nba.com/news/key-dates",
+      "broadcasts": [
+        {
+          "name": "Prime Video",
+          "free": false,
+          "source": "https://www.sportbuzzbusiness.fr/nba-2026-2027-sur-quelles-chaines-et-plateformes-de-streaming-regarder-les-matchs-en-france.html",
+          "note": "Phases à élimination directe (quarts, demies, finale)"
+        }
+      ],
+      "participants": {
+        "type": "teams",
+        "entries": [
+          "Atlanta Hawks",
+          "Boston Celtics",
+          "Brooklyn Nets",
+          "Charlotte Hornets",
+          "Chicago Bulls",
+          "Cleveland Cavaliers",
+          "Dallas Mavericks",
+          "Denver Nuggets",
+          "Detroit Pistons",
+          "Golden State Warriors",
+          "Houston Rockets",
+          "Indiana Pacers",
+          "Los Angeles Clippers",
+          "Los Angeles Lakers",
+          "Memphis Grizzlies",
+          "Miami Heat",
+          "Milwaukee Bucks",
+          "Minnesota Timberwolves",
+          "New Orleans Pelicans",
+          "New York Knicks",
+          "Oklahoma City Thunder",
+          "Orlando Magic",
+          "Philadelphia 76ers",
+          "Phoenix Suns",
+          "Portland Trail Blazers",
+          "Sacramento Kings",
+          "San Antonio Spurs",
+          "Toronto Raptors",
+          "Utah Jazz",
+          "Washington Wizards"
+        ],
+        "source": "https://www.nba.com/news/emirates-nba-cup-2026-groups-announced"
+      }
     },
     {
       "id": "voile-route-du-rhum-destination-guadeloupe-2026",
@@ -1048,7 +1092,7 @@
         {
           "name": "beIN Sports",
           "free": false,
-          "source": "https://blog.iambeezy.app/fr/reprise-nba-spurs-thunder-wembanyama-ou-regarder-francais/"
+          "source": "https://beinregie.beinsports.com/offres/nba/"
         }
       ],
       "participants": {
@@ -1183,18 +1227,21 @@
         {
           "name": "Prime Video",
           "free": false,
-          "source": "https://blog.iambeezy.app/fr/reprise-nba-spurs-thunder-wembanyama-ou-regarder-francais/"
+          "source": "https://www.nba.com/news/how-to-watch-games-2026-27-season",
+          "note": "Diffusion exclusive"
         }
       ],
       "participants": {
         "type": "teams",
-        "source": "https://www.nba.com/news/spurs-pelicans-nba-paris-nba-manchester-2027",
+        "source": "https://www.nba.com/news/how-to-watch-games-2026-27-season",
         "matches": [
           {
             "a": "San Antonio Spurs",
             "b": "New Orleans Pelicans",
             "date": "2027-01-14",
-            "source": "https://www.nba.com/news/spurs-pelicans-nba-paris-nba-manchester-2027"
+            "at": "2027-01-14T20:00:00+01:00",
+            "label": "Saison régulière",
+            "source": "https://www.nba.com/news/how-to-watch-games-2026-27-season"
           }
         ]
       }
@@ -1219,16 +1266,26 @@
       "source": "https://www.nba.com/news/spurs-pelicans-nba-paris-nba-manchester-2027",
       "participants": {
         "type": "teams",
-        "source": "https://www.nba.com/news/spurs-pelicans-nba-paris-nba-manchester-2027",
+        "source": "https://www.nba.com/news/how-to-watch-games-2026-27-season",
         "matches": [
           {
-            "a": "San Antonio Spurs",
-            "b": "New Orleans Pelicans",
+            "a": "New Orleans Pelicans",
+            "b": "San Antonio Spurs",
             "date": "2027-01-17",
-            "source": "https://www.nba.com/news/spurs-pelicans-nba-paris-nba-manchester-2027"
+            "at": "2027-01-17T15:30:00+00:00",
+            "label": "Saison régulière",
+            "source": "https://www.nba.com/news/how-to-watch-games-2026-27-season"
           }
         ]
-      }
+      },
+      "broadcasts": [
+        {
+          "name": "Prime Video",
+          "free": false,
+          "source": "https://www.nba.com/news/how-to-watch-games-2026-27-season",
+          "note": "Diffusion exclusive"
+        }
+      ]
     },
     {
       "id": "tennis-open-d-australie-2027",
@@ -1588,6 +1645,23 @@
           "free": false,
           "source": "https://www.sportbuzzbusiness.fr/nba-2026-2027-sur-quelles-chaines-et-plateformes-de-streaming-regarder-les-matchs-en-france.html"
         }
+      ],
+      "schedule": [
+        {
+          "label": "Celebrity Game",
+          "at": "2027-02-19T17:00:00-07:00",
+          "source": "https://www.nba.com/news/2027-nba-all-star-tickets-sale"
+        },
+        {
+          "label": "Rising Stars",
+          "at": "2027-02-19T19:00:00-07:00",
+          "source": "https://www.nba.com/news/2027-nba-all-star-tickets-sale"
+        },
+        {
+          "label": "NBA HBCU Classic",
+          "at": "2027-02-20T12:00:00-07:00",
+          "source": "https://www.nba.com/news/2027-nba-all-star-tickets-sale"
+        }
       ]
     },
     {
@@ -1816,7 +1890,8 @@
         {
           "name": "Prime Video",
           "free": false,
-          "source": "https://blog.iambeezy.app/fr/reprise-nba-spurs-thunder-wembanyama-ou-regarder-francais/"
+          "source": "https://www.nba.com/news/how-to-watch-games-2026-27-season",
+          "note": "Les 6 matchs en exclusivité"
         }
       ]
     },
@@ -1845,6 +1920,30 @@
           "free": false,
           "source": "https://www.sportbuzzbusiness.fr/droits-tv-canal-prolonge-son-accord-exclusif-avec-la-formule-1-jusquen-2029.html",
           "note": "Droits exclusifs jusqu'en 2029"
+        }
+      ]
+    },
+    {
+      "id": "nba-playoffs-nba-2027",
+      "sport": "NBA",
+      "name": "Playoffs",
+      "start": "2027-04-17",
+      "location": "États-Unis et Canada",
+      "url": "https://www.nba.com/",
+      "source": "https://www.nba.com/news/key-dates",
+      "tentative": true,
+      "broadcasts": [
+        {
+          "name": "beIN Sports",
+          "free": false,
+          "source": "https://www.sportbuzzbusiness.fr/nba-2026-2027-sur-quelles-chaines-et-plateformes-de-streaming-regarder-les-matchs-en-france.html",
+          "note": "Une sélection des playoffs, une finale de conférence"
+        },
+        {
+          "name": "Prime Video",
+          "free": false,
+          "source": "https://www.sportbuzzbusiness.fr/nba-2026-2027-sur-quelles-chaines-et-plateformes-de-streaming-regarder-les-matchs-en-france.html",
+          "note": "Environ la moitié des matchs des deux premiers tours, finale de la conférence Est"
         }
       ]
     },
@@ -3098,13 +3197,39 @@
       "since": "2026-11-11"
     },
     {
-      "id": "nba-playoffs-finales-2027",
-      "kind": "missing",
-      "title": "Playoffs et Finales NBA 2027 : dates non finalisées",
-      "detail": "Le Play-In est fixé au 13-16 avril 2027 et NBA.com annonce le début des playoffs le 17 avril (page libellée « 2026 », probable coquille), mais d'autres sources indiquent le 18 avril. Les dates des Finales (juin 2027) ne sont pas publiées. Événements écartés faute de dates sourcées.",
+      "id": "nba-playoffs-debut",
+      "kind": "uncertain",
+      "events": [
+        "nba-playoffs-nba-2027"
+      ],
+      "title": "Playoffs NBA 2027 : date de début et de fin",
+      "detail": "Début au 17 avril d'après NBA.com (page libellée « 2026 », probable coquille) et Wikipédia ; deux sites indiquent le 18 avril. Pas de date de fin : elle dépend des séries.",
       "since": "2026-11-15",
       "sources": [
         "https://www.nba.com/news/key-dates"
+      ]
+    },
+    {
+      "id": "nba-finales-2027-dates",
+      "kind": "missing",
+      "title": "Finales NBA 2027 : dates non publiées",
+      "detail": "Les Finales sont prévues en juin 2027 (beIN Sports les diffuse en France d'après SportBuzzBusiness) mais la NBA n'a pas publié les dates : événement écarté.",
+      "since": "2026-11-15",
+      "sources": [
+        "https://www.sportbuzzbusiness.fr/nba-2026-2027-sur-quelles-chaines-et-plateformes-de-streaming-regarder-les-matchs-en-france.html"
+      ]
+    },
+    {
+      "id": "nba-all-star-horaires",
+      "kind": "missing",
+      "events": [
+        "basket-ball-nba-all-star-game-2027"
+      ],
+      "title": "All-Star 2027 : horaires du match et du Saturday Night",
+      "detail": "Seuls les horaires du Celebrity Game, du Rising Stars et du HBCU Classic sont publiés par la NBA. L'heure du All-Star Game et d'All-Star Saturday Night n'est pas confirmée (un site indique 20 h ET, sans source officielle).",
+      "since": "2026-11-15",
+      "sources": [
+        "https://www.nba.com/news/2027-nba-all-star-tickets-sale"
       ]
     }
   ]
