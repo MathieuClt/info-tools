@@ -123,6 +123,7 @@ function capitalize(s) {
 const SECTIONS = [
   { key: "sports", href: "./", label: "Sports", desc: "Compétitions, affiches et diffusion TV", icon: "M6 4h12v3a6 6 0 0 1-12 0V4Zm0 1H3v2a3 3 0 0 0 3 3m12-5h3v2a3 3 0 0 1-3 3M12 13v4m-4 3h8l-1-3H9l-1 3Z" },
   { key: "screens", href: "films-series.html", label: "Films & séries", desc: "Sorties cinéma et plateformes", icon: "M4 8h16v11H4V8Zm0 0 2-4h3L7 8m4 0 2-4h3l-2 4m4 0 2-4M4 12h16" },
+  { key: "activities", href: "activites.html", label: "Activités", desc: "Sorties à Montpellier et jusqu'à 50 km", icon: "M12 21s-7-6.2-7-11.5a7 7 0 0 1 14 0C19 14.8 12 21 12 21Zm0-9a2.5 2.5 0 1 0 0-5 2.5 2.5 0 0 0 0 5Z" },
 ];
 const SVG_NS = "http://www.w3.org/2000/svg";
 

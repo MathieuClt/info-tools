@@ -1,0 +1,169 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "activities.json",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "updated",
+    "items"
+  ],
+  "properties": {
+    "updated": {
+      "type": "string",
+      "pattern": "^\\d{4}-\\d{2}-\\d{2}$",
+      "description": "Date de la dernière modification des données"
+    },
+    "items": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "id",
+          "type",
+          "title",
+          "town",
+          "lat",
+          "lon",
+          "url",
+          "source"
+        ],
+        "properties": {
+          "id": {
+            "type": "string",
+            "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$"
+          },
+          "type": {
+            "enum": [
+              "concert",
+              "spectacle",
+              "soiree",
+              "exposition",
+              "festival",
+              "marche",
+              "atelier",
+              "sport",
+              "nature",
+              "patrimoine",
+              "famille"
+            ]
+          },
+          "title": {
+            "type": "string",
+            "minLength": 1
+          },
+          "start": {
+            "type": "string",
+            "pattern": "^\\d{4}-\\d{2}-\\d{2}$",
+            "description": "Premier jour de l'événement. Absent pour un lieu ou une sortie possible toute l'année"
+          },
+          "end": {
+            "type": "string",
+            "pattern": "^\\d{4}-\\d{2}-\\d{2}$",
+            "description": "Dernier jour, si l'événement dure plusieurs jours"
+          },
+          "at": {
+            "type": "string",
+            "pattern": "^\\d{4}-\\d{2}-\\d{2}T\\d{2}:\\d{2}(:\\d{2})?([+-]\\d{2}:\\d{2}|Z)$",
+            "description": "Horaire d'une séance unique, avec décalage UTC explicite"
+          },
+          "venue": {
+            "type": "string",
+            "minLength": 1
+          },
+          "town": {
+            "type": "string",
+            "minLength": 1
+          },
+          "lat": {
+            "type": "number",
+            "minimum": -90,
+            "maximum": 90
+          },
+          "lon": {
+            "type": "number",
+            "minimum": -180,
+            "maximum": 180
+          },
+          "free": {
+            "type": "boolean",
+            "description": "true si l'entrée ou l'accès est gratuit"
+          },
+          "note": {
+            "type": "string",
+            "minLength": 1,
+            "maxLength": 160,
+            "description": "Info pratique courte"
+          },
+          "url": {
+            "type": "string",
+            "pattern": "^https?://"
+          },
+          "source": {
+            "type": "string",
+            "pattern": "^https?://"
+          },
+          "cancelled": {
+            "type": "boolean"
+          },
+          "tentative": {
+            "type": "boolean",
+            "description": "Annoncé mais date ou programme non définitif"
+          }
+        }
+      }
+    },
+    "pending": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "id",
+          "kind",
+          "title",
+          "detail",
+          "since"
+        ],
+        "properties": {
+          "id": {
+            "type": "string",
+            "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$"
+          },
+          "kind": {
+            "enum": [
+              "missing",
+              "uncertain"
+            ]
+          },
+          "items": {
+            "type": "array",
+            "minItems": 1,
+            "items": {
+              "type": "string"
+            }
+          },
+          "title": {
+            "type": "string",
+            "minLength": 1
+          },
+          "detail": {
+            "type": "string",
+            "minLength": 1
+          },
+          "sources": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "pattern": "^https?://"
+            }
+          },
+          "since": {
+            "type": "string",
+            "pattern": "^\\d{4}-\\d{2}-\\d{2}$"
+          }
+        }
+      }
+    }
+  }
+}

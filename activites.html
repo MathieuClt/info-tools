@@ -1,0 +1,92 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#f4f4f1" media="(prefers-color-scheme: light)">
+  <meta name="theme-color" content="#121211" media="(prefers-color-scheme: dark)">
+  <title>Activités autour de Montpellier</title>
+  <meta name="description" content="Événements, sorties et lieux à visiter à Montpellier et jusqu'à 50 km alentour, avec une carte des distances.">
+  <link rel="stylesheet" href="vendor/leaflet/leaflet.css">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="top">
+    <h1>Activités autour de Montpellier</h1>
+    <p class="sub" id="meta" aria-live="polite">Chargement…</p>
+    <nav class="tabs" role="tablist" aria-label="Sections">
+      <button type="button" role="tab" id="tab-calendar" aria-controls="panel-calendar" aria-selected="true">Activités</button>
+      <button type="button" role="tab" id="tab-pending" aria-controls="panel-pending" aria-selected="false">Infos non abouties <span class="tab-count" id="pending-count"></span></button>
+    </nav>
+  </header>
+
+  <section id="panel-calendar" role="tabpanel" aria-labelledby="tab-calendar">
+    <form class="filters" id="filters" aria-label="Filtres">
+      <label class="search"><span class="sr-only">Rechercher</span>
+        <input type="search" id="f-search" placeholder="Rechercher un artiste, un lieu, une commune…" autocomplete="off">
+      </label>
+      <details class="sports" id="types-panel">
+        <summary>Types <span class="summary-value" id="types-summary"></span></summary>
+        <div class="sport-actions">
+          <button type="button" id="types-all">Tout cocher</button>
+          <button type="button" id="types-none">Tout décocher</button>
+        </div>
+        <div class="chips" id="f-types"></div>
+      </details>
+      <details class="sports" id="date-panel">
+        <summary>Date <span class="summary-value" id="date-summary"></span></summary>
+        <div class="cal">
+          <div class="cal-head">
+            <button type="button" class="cal-nav" id="cal-prev" aria-label="Mois précédent">‹</button>
+            <span class="cal-title" id="cal-title" aria-live="polite"></span>
+            <button type="button" class="cal-nav" id="cal-next" aria-label="Mois suivant">›</button>
+          </div>
+          <div class="cal-grid" id="cal-grid"></div>
+          <p class="cal-help">Touchez un jour, puis un second pour choisir une période. Le chiffre indique le nombre d'événements.
+            <button type="button" class="cal-clear" id="date-clear" hidden>Effacer la date</button></p>
+        </div>
+      </details>
+      <div class="radius">
+        <label for="f-radius">Distance depuis Montpellier <output id="radius-value" for="f-radius"></output></label>
+        <input type="range" id="f-radius" min="5" max="50" step="5" value="50">
+        <div class="radius-scale" aria-hidden="true"><span>5 km</span><span>25 km</span><span>50 km</span></div>
+      </div>
+      <div class="map" id="map" role="region" aria-label="Carte des activités"></div>
+      <div class="selects">
+        <label>Quand
+          <select id="f-period">
+            <option value="active">Événements à venir et lieux</option>
+            <option value="events">Événements à venir</option>
+            <option value="today">Aujourd'hui</option>
+            <option value="week">7 prochains jours</option>
+            <option value="weekend">Ce week-end</option>
+            <option value="places">Lieux et sorties toute l'année</option>
+            <option value="">Tout</option>
+          </select>
+        </label>
+        <label>Prix
+          <select id="f-price">
+            <option value="">Tous</option>
+            <option value="free">Gratuit</option>
+          </select>
+        </label>
+      </div>
+      <p class="count" id="count"></p>
+    </form>
+    <main id="list" aria-live="polite"></main>
+  </section>
+
+  <section id="panel-pending" role="tabpanel" aria-labelledby="tab-pending" hidden>
+    <p class="intro">Ce qui n'a pas pu être vérifié : informations manquantes faute de source, ou retenues avec un doute. Le job quotidien reprend ces points à chaque passage.</p>
+    <div id="pending"></div>
+  </section>
+
+  <footer>
+    <p>Distances à vol d'oiseau depuis la place de la Comédie, jusqu'à 50 km. Chaque activité renvoie vers la source qui confirme sa date et son lieu ; les horaires et tarifs restent à vérifier auprès de l'organisateur. Les données sont actualisées une fois par jour. Fond de carte © contributeurs OpenStreetMap.</p>
+  </footer>
+
+  <script src="vendor/leaflet/leaflet.js"></script>
+  <script src="js/common.js"></script>
+  <script src="js/activities.js"></script>
+</body>
+</html>
