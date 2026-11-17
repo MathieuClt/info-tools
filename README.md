@@ -66,6 +66,7 @@ Distances calculées dans le navigateur, à vol d'oiseau depuis la place de la C
 | `note` | non | info pratique courte (160 caractères au plus) |
 | `url`, `source` | oui | page officielle, source qui confirme la date et le lieu |
 | `cancelled`, `tentative` | non | annulé, annoncé mais non définitif |
+| `result` | non | sport, une fois le match joué : `score` (`domicile-extérieur`, ex. `2-1`), `summary` facultatif (120 caractères au plus), `source` qui confirme le score. Les matchs passés avec résultat restent affichés dans « Résultats sportifs » |
 
 Dans `pending`, les activités concernées sont listées dans `items`.
 
@@ -82,7 +83,7 @@ Dans `pending`, les activités concernées sont listées dans `items`.
 
 ## Mise à jour quotidienne
 
-Un job tourne une fois par jour. Il relit `events.json`, `screens.json` et `activities.json`, cherche sur le web les changements (dates, lieux, annulations, diffuseurs, dates de sortie, plateformes, casting, nouveaux événements à Montpellier et dans un rayon de 50 km), retire les activités passées depuis plus d'un mois, applique les corrections sourcées, complète les participants dès qu'ils sont connus, met à jour `pending` et `updated`, lance `npm run validate` puis ouvre une pull request listant chaque changement avec sa source. Il ne pousse jamais sur `main`.
+Un job tourne une fois par jour. Il relit `events.json`, `screens.json` et `activities.json`, cherche sur le web les changements (dates, lieux, annulations, diffuseurs, dates de sortie, plateformes, casting, nouveaux événements à Montpellier et dans un rayon de 50 km), ajoute le résultat des matchs joués (`result`), retire les autres activités passées depuis plus d'un mois, applique les corrections sourcées, complète les participants dès qu'ils sont connus, met à jour `pending` et `updated`, lance `npm run validate` puis ouvre une pull request listant chaque changement avec sa source. Il ne pousse jamais sur `main`.
 
 ## Développement local
 

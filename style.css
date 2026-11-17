@@ -177,6 +177,11 @@ select:disabled { opacity: .5; }
 .popup-go { justify-self: start; margin-top: 4px; font: inherit; font-size: .8rem; font-weight: 600; color: var(--accent); background: none; border: 0; padding: 2px 0; cursor: pointer; }
 .popup-list { display: grid; gap: 10px; }
 .popup-list .popup + .popup { border-top: 1px solid var(--line); padding-top: 8px; }
+.result { display: flex; flex-wrap: wrap; align-items: baseline; gap: 4px 10px; margin-top: 2px; padding: 6px 10px; background: var(--soft); border-radius: 8px; }
+.result-score { font-size: 1.15rem; font-weight: 800; font-variant-numeric: tabular-nums; letter-spacing: .02em; }
+.result-text { font-size: .85rem; color: var(--muted); }
+.result-text a { color: var(--muted); }
+.is-past:has(.result) { opacity: 1; }
 .when, .note { margin: 0; font-size: .88rem; }
 .when { font-weight: 600; font-variant-numeric: tabular-nums; }
 .card-foot { display: flex; flex-wrap: wrap; align-items: baseline; justify-content: space-between; gap: 4px 12px; }

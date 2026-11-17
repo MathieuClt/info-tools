@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-16",
+  "updated": "2026-11-17",
   "items": [
     {
       "id": "exposition-les-uns-et-les-hotes-la-grande-motte-2026",
@@ -57,6 +57,299 @@
       "note": "Tous les jours 10h-19h. Gratuit le premier dimanche du mois (6 décembre).",
       "url": "https://museedelaromanite.fr/",
       "source": "https://museedelaromanite.fr/en/"
+    },
+    {
+      "id": "sport-mhsc-dijon-fco-2026-08-08",
+      "type": "sport",
+      "title": "MHSC – Dijon FCO",
+      "start": "2026-08-08",
+      "venue": "Stade de la Mosson",
+      "town": "Montpellier",
+      "lat": 43.622,
+      "lon": 3.8121,
+      "note": "Ligue 2, 1e journée",
+      "url": "https://www.mhscfoot.com",
+      "source": "https://madeinfoot.ouest-france.fr/club/montpellier-906/calendrier-resultats.html",
+      "result": {
+        "score": "1-1",
+        "summary": "Match nul pour l'ouverture de la saison",
+        "source": "https://madeinfoot.ouest-france.fr/club/montpellier-906/calendrier-resultats.html"
+      }
+    },
+    {
+      "id": "sport-mhsc-us-boulogne-2026-08-28",
+      "type": "sport",
+      "title": "MHSC – US Boulogne",
+      "start": "2026-08-28",
+      "venue": "Stade de la Mosson",
+      "town": "Montpellier",
+      "lat": 43.622,
+      "lon": 3.8121,
+      "note": "Ligue 2, 4e journée",
+      "url": "https://www.mhscfoot.com",
+      "source": "https://madeinfoot.ouest-france.fr/club/montpellier-906/calendrier-resultats.html",
+      "result": {
+        "score": "0-0",
+        "summary": "Match nul et vierge",
+        "source": "https://madeinfoot.ouest-france.fr/club/montpellier-906/calendrier-resultats.html"
+      }
+    },
+    {
+      "id": "sport-nimes-olympique-frejus-saint-raphael-2026-08-29",
+      "type": "sport",
+      "title": "Nîmes Olympique – Fréjus Saint-Raphaël",
+      "start": "2026-08-29",
+      "venue": "Stade des Antonins",
+      "town": "Nîmes",
+      "lat": 43.8117,
+      "lon": 4.3561,
+      "note": "National 1, groupe C, 2e journée",
+      "url": "https://www.nimesolympique.com",
+      "source": "https://madeinfoot.ouest-france.fr/club/nimes-932/calendrier-resultats.html",
+      "result": {
+        "score": "3-0",
+        "summary": "Victoire de Nîmes",
+        "source": "https://madeinfoot.ouest-france.fr/club/nimes-932/calendrier-resultats.html"
+      }
+    },
+    {
+      "id": "sport-montpellier-handball-chartres-2026-09-04",
+      "type": "sport",
+      "title": "Montpellier Handball – Chartres",
+      "start": "2026-09-04",
+      "at": "2026-09-04T20:00:00+02:00",
+      "venue": "FDI Stadium (Palais des sports René-Bougnol)",
+      "town": "Montpellier",
+      "lat": 43.6381,
+      "lon": 3.8747,
+      "note": "Daikin StarLigue, 1re journée",
+      "url": "https://www.montpellierhandball.com/equipe-pro-masculine/calendrier-resultats/",
+      "source": "https://www.montpellierhandball.com/fr/actualites/2026-09-04/mhb-chartres-la-premiere-de-la-saison-au-fdi",
+      "result": {
+        "score": "41-22",
+        "summary": "Large victoire du MHB pour l'ouverture de la saison",
+        "source": "https://www.montpellierhandball.com/fr/actualites/2026-09-04/daikin-starligue-montpellier-ne-rate-pas-sa-rentree"
+      }
+    },
+    {
+      "id": "sport-mhr-section-paloise-2026-09-05",
+      "type": "sport",
+      "title": "MHR – Section Paloise",
+      "start": "2026-09-05",
+      "venue": "Septeo Stadium (ex-GGL Stadium)",
+      "town": "Montpellier",
+      "lat": 43.593,
+      "lon": 3.8497,
+      "note": "Top 14, 1re journée",
+      "url": "https://top14.lnr.fr/club/montpellier",
+      "source": "https://top14.lnr.fr/club/montpellier/calendrier-resultats",
+      "result": {
+        "score": "19-27",
+        "summary": "Défaite du MHR pour l'ouverture",
+        "source": "https://top14.lnr.fr/club/montpellier/calendrier-resultats"
+      }
+    },
+    {
+      "id": "sport-montpellier-fc-feminines-toulouse-fc-2026-09-05",
+      "type": "sport",
+      "title": "Montpellier FC (féminines) – Toulouse FC",
+      "start": "2026-09-05",
+      "at": "2026-09-05T18:00:00+02:00",
+      "venue": "Centre d'entraînement Bernard-Gasset (Grammont)",
+      "town": "Montpellier",
+      "lat": 43.6186,
+      "lon": 3.9325,
+      "note": "Arkema Première Ligue, 1re journée",
+      "url": "https://www.christophe-ringaud.com/calendrier-arkema-premiere-ligue-2026-27",
+      "source": "https://www.programmefoot.com/competition/france/feminine-division-1/montpellier-hsc-feminine-vs-toulouse-fc-feminine",
+      "result": {
+        "score": "5-1",
+        "summary": "Large victoire, 5-0 à la pause",
+        "source": "https://africa.espn.com/football/match/_/gameId/401885709/toulouse-montpellier"
+      }
+    },
+    {
+      "id": "sport-montpellier-mediterranee-futsal-ujs-toulouse-2026-09-05",
+      "type": "sport",
+      "title": "Futsal : Montpellier Méditerranée – UJS Toulouse",
+      "start": "2026-09-05",
+      "venue": "Palais des sports Pierre-de-Coubertin",
+      "town": "Montpellier",
+      "lat": 43.627,
+      "lon": 3.87,
+      "note": "Futsal, D1, 1re journée",
+      "url": "https://epreuves.fff.fr/competition/club/853396-montpellier-mediterranee-futsal",
+      "source": "https://www.sportcorico.com/clubs/montpellier-mediterranee-futsal/montpellier-medit",
+      "result": {
+        "score": "4-3",
+        "summary": "Victoire de Montpellier pour l'ouverture",
+        "source": "https://www.sportcorico.com/clubs/montpellier-mediterranee-futsal/montpellier-medit"
+      }
+    },
+    {
+      "id": "sport-mhsc-pau-fc-2026-09-11",
+      "type": "sport",
+      "title": "MHSC – Pau FC",
+      "start": "2026-09-11",
+      "venue": "Stade de la Mosson",
+      "town": "Montpellier",
+      "lat": 43.622,
+      "lon": 3.8121,
+      "note": "Ligue 2, 6e journée",
+      "url": "https://www.mhscfoot.com",
+      "source": "https://madeinfoot.ouest-france.fr/club/montpellier-906/calendrier-resultats.html",
+      "result": {
+        "score": "1-0",
+        "summary": "Victoire du MHSC",
+        "source": "https://madeinfoot.ouest-france.fr/club/montpellier-906/calendrier-resultats.html"
+      }
+    },
+    {
+      "id": "sport-montpellier-mediterranee-futsal-tm-futsal-2026-09-12",
+      "type": "sport",
+      "title": "Futsal : Montpellier Méditerranée – Toulon (TM Futsal)",
+      "start": "2026-09-12",
+      "venue": "Palais des sports Pierre-de-Coubertin",
+      "town": "Montpellier",
+      "lat": 43.627,
+      "lon": 3.87,
+      "note": "Futsal, D1, 2e journée",
+      "url": "https://epreuves.fff.fr/competition/club/853396-montpellier-mediterranee-futsal",
+      "source": "https://www.montpellier-infos.com/toulon-met-fin-a-un-an-et-demi-dinvincibilite-de-montpellier-mediterranee-futsal-dans-son-palais-de-coubertin",
+      "result": {
+        "score": "1-2",
+        "summary": "Première défaite à domicile en D1 depuis avril 2025",
+        "source": "https://www.sportcorico.com/clubs/montpellier-mediterranee-futsal/montpellier-medit"
+      }
+    },
+    {
+      "id": "sport-nimes-olympique-es-troyes-ac-reserve-2026-09-12",
+      "type": "sport",
+      "title": "Nîmes Olympique – ES Troyes AC (réserve)",
+      "start": "2026-09-12",
+      "venue": "Stade des Antonins",
+      "town": "Nîmes",
+      "lat": 43.8117,
+      "lon": 4.3561,
+      "note": "National 1, groupe C, 4e journée",
+      "url": "https://www.nimesolympique.com",
+      "source": "https://madeinfoot.ouest-france.fr/club/nimes-932/calendrier-resultats.html",
+      "result": {
+        "score": "4-0",
+        "summary": "Large victoire de Nîmes",
+        "source": "https://madeinfoot.ouest-france.fr/club/nimes-932/calendrier-resultats.html"
+      }
+    },
+    {
+      "id": "sport-sc-sete-rco-agde-2026-09-12",
+      "type": "sport",
+      "title": "SC Sète – RCO Agde",
+      "start": "2026-09-12",
+      "venue": "Stade Louis-Michel",
+      "town": "Sète",
+      "lat": 43.4122,
+      "lon": 3.6703,
+      "note": "Coupe de France, 3e tour (derby régional)",
+      "url": "https://www.footballdatabase.eu/fr/club/equipe/745-sete/2026-2027",
+      "source": "https://www.lagathois.fr/articles/52548/agde-le-rco-agde-renverse-sete-avec-caractere-en-coupe-de-france",
+      "result": {
+        "score": "2-3",
+        "summary": "Élimination de Sète, menée 2-1 à la pause puis renversée par Agde à dix",
+        "source": "https://footamateur.ouest-france.fr/coupe-de-france-les-resultats-du-troisieme-tour-en-occitanie-2026/"
+      }
+    },
+    {
+      "id": "sport-montpellier-handball-fc-barcelone-2026-09-17",
+      "type": "sport",
+      "title": "Montpellier Handball – FC Barcelone",
+      "start": "2026-09-17",
+      "at": "2026-09-17T20:45:00+02:00",
+      "venue": "Sud de France Arena",
+      "town": "Pérols",
+      "lat": 43.5733,
+      "lon": 3.9517,
+      "note": "EHF Ligue des champions, phase de groupes",
+      "url": "https://www.montpellierhandball.com/equipe-pro-masculine/calendrier-resultats/",
+      "source": "https://www.montpellierhandball.com/ligue-des-champions-le-mhb-si-pres-du-fc-barcelone/",
+      "result": {
+        "score": "27-28",
+        "summary": "Défaite d'un but face au tenant du titre devant 7 500 spectateurs",
+        "source": "https://www.fcbarcelona.com/en/news/4577948/montpellier-27-28-barca-giant-leap-forward"
+      }
+    },
+    {
+      "id": "sport-mhr-usa-perpignan-2026-09-19",
+      "type": "sport",
+      "title": "MHR – USA Perpignan",
+      "start": "2026-09-19",
+      "venue": "Septeo Stadium (ex-GGL Stadium)",
+      "town": "Montpellier",
+      "lat": 43.593,
+      "lon": 3.8497,
+      "note": "Top 14, 3e journée",
+      "url": "https://top14.lnr.fr/club/montpellier",
+      "source": "https://top14.lnr.fr/club/montpellier/calendrier-resultats",
+      "result": {
+        "score": "50-13",
+        "summary": "Large victoire bonifiée du MHR",
+        "source": "https://top14.lnr.fr/club/montpellier/calendrier-resultats"
+      }
+    },
+    {
+      "id": "sport-montpellier-fc-feminines-olympique-de-marseille-2026-09-19",
+      "type": "sport",
+      "title": "Montpellier FC (féminines) – Olympique de Marseille",
+      "start": "2026-09-19",
+      "venue": "Centre d'entraînement Bernard-Gasset (Grammont)",
+      "town": "Montpellier",
+      "lat": 43.6186,
+      "lon": 3.9325,
+      "note": "Arkema Première Ligue, 3e journée",
+      "url": "https://www.christophe-ringaud.com/calendrier-arkema-premiere-ligue-2026-27",
+      "source": "https://fr.besoccer.com/equipe/matchs/montpellier-hsc-femenino",
+      "result": {
+        "score": "0-0",
+        "summary": "Match nul et vierge",
+        "source": "https://www.christophe-ringaud.com/calendrier-arkema-premiere-ligue-2026-27"
+      }
+    },
+    {
+      "id": "sport-sc-sete-uss-aigues-mortes-2026-09-19",
+      "type": "sport",
+      "title": "SC Sète – USS Aigues-Mortes",
+      "start": "2026-09-19",
+      "at": "2026-09-19T18:00:00+02:00",
+      "venue": "Stade Louis-Michel",
+      "town": "Sète",
+      "lat": 43.4122,
+      "lon": 3.6703,
+      "note": "Régional 1 Occitanie, poule A, 2e journée",
+      "url": "https://www.footballdatabase.eu/fr/club/equipe/745-sete/2026-2027",
+      "source": "https://www.leballonrond.fr/estadio.php?id=1650",
+      "result": {
+        "score": "0-2",
+        "summary": "Défaite de Sète",
+        "source": "https://www.footballdatabase.eu/fr/club/equipe/745-sete/2026-2027"
+      }
+    },
+    {
+      "id": "sport-montpellier-handball-nantes-2026-09-20",
+      "type": "sport",
+      "title": "Montpellier Handball – HBC Nantes",
+      "start": "2026-09-20",
+      "at": "2026-09-20T17:00:00+02:00",
+      "venue": "FDI Stadium (Palais des sports René-Bougnol)",
+      "town": "Montpellier",
+      "lat": 43.6381,
+      "lon": 3.8747,
+      "note": "Daikin StarLigue, 3e journée",
+      "url": "https://www.montpellierhandball.com/equipe-pro-masculine/calendrier-resultats/",
+      "source": "https://www.montpellierhandball.com/montpellier-nantes-pour-un-premier-choc-au-fdi-stadium/",
+      "result": {
+        "score": "31-36",
+        "summary": "Première défaite de la saison, Nantes prend la tête",
+        "source": "https://www.lnh.fr/lnh/news/2026-09-21/nantes-fait-tomber-mhb-prend-commandes"
+      }
     },
     {
       "id": "exposition-en-desequilibre-mohamed-lekleti-frac-2026",
@@ -148,6 +441,136 @@
       "source": "https://mediatheques.montpellier3m.fr/Default/doc/AGENDA/28140/have-a-nice-death"
     },
     {
+      "id": "sport-blma-bourges-2026-10-03",
+      "type": "sport",
+      "title": "BLMA – Bourges",
+      "start": "2026-10-03",
+      "at": "2026-10-03T20:00:00+02:00",
+      "venue": "Palais des sports de Lattes (Palais des Rencontres)",
+      "town": "Lattes",
+      "lat": 43.5689,
+      "lon": 3.9044,
+      "note": "La Boulangère Wonderligue, 2e journée",
+      "url": "https://www.blma.fr/",
+      "source": "https://basketlfb.com/laboulangerewonderligue/saison-reguliere/equipe/calendrier/2658-lattes-montpellier",
+      "result": {
+        "score": "90-83",
+        "summary": "Victoire du BLMA face à Bourges",
+        "source": "https://basketlfb.com/laboulangerewonderligue/saison-reguliere/equipe/calendrier/2658-lattes-montpellier"
+      }
+    },
+    {
+      "id": "sport-montpellier-handball-chambery-2026-10-03",
+      "type": "sport",
+      "title": "Montpellier Handball – Chambéry",
+      "start": "2026-10-03",
+      "at": "2026-10-03T19:00:00+02:00",
+      "venue": "FDI Stadium (Palais des sports René-Bougnol)",
+      "town": "Montpellier",
+      "lat": 43.6381,
+      "lon": 3.8747,
+      "note": "Daikin StarLigue, 5e journée",
+      "url": "https://www.montpellierhandball.com/equipe-pro-masculine/calendrier-resultats/",
+      "source": "https://www.beinsports.com/fr-fr/handball/lnh-star-ligue/articles-video/daikin-starligue-sc%C3%A9nario-compl%C3%A8tement-fou-montpellier-et-chamb%C3%A9ry-se-quittent-dos-%C3%A0-dos-sur-le-gong-2026-10-03",
+      "result": {
+        "score": "25-25",
+        "summary": "Match nul arraché après avoir été mené de cinq buts",
+        "source": "https://www.montpellierhandball.com/daikin-starligue-malmene-le-mhb-renverse-la-table-pour-revenir-a-egalite-face-a-chambery/"
+      }
+    },
+    {
+      "id": "sport-montpellier-mediterranee-futsal-avion-2026-10-03",
+      "type": "sport",
+      "title": "Futsal : Montpellier Méditerranée – Avion",
+      "start": "2026-10-03",
+      "at": "2026-10-03T21:00:00+02:00",
+      "venue": "Palais des sports Pierre-de-Coubertin",
+      "town": "Montpellier",
+      "lat": 43.627,
+      "lon": 3.87,
+      "note": "Futsal, D1, 4e journée",
+      "url": "https://epreuves.fff.fr/competition/club/853396-montpellier-mediterranee-futsal",
+      "source": "https://www.sofascore.com/futsal/match/avion-futsal-montpellier-mediterranee-futsal/UuvesVuve",
+      "result": {
+        "score": "4-4",
+        "summary": "Match nul",
+        "source": "https://www.sportcorico.com/clubs/montpellier-mediterranee-futsal/montpellier-medit"
+      }
+    },
+    {
+      "id": "sport-montpellier-water-polo-taverny-2026-10-03",
+      "type": "sport",
+      "title": "Water-polo : Montpellier – Taverny",
+      "start": "2026-10-03",
+      "at": "2026-10-03T20:00:00+02:00",
+      "venue": "Piscine olympique Angelotti",
+      "town": "Montpellier",
+      "lat": 43.6074,
+      "lon": 3.8932,
+      "note": "Water-polo, Pro A (Élite masculine), 2e journée",
+      "url": "https://www.france-waterpolo.fr/club/montpellier-water-polo/",
+      "source": "https://www.extranat.fr/waterpolo/cgi-bin/wp_calendar.php?structure=1474&action=structure",
+      "result": {
+        "score": "9-13",
+        "summary": "Défaite de Montpellier",
+        "source": "https://www.les-sports.info/water-polo-montpellier-wp-resultats-identite-equ69479.html"
+      }
+    },
+    {
+      "id": "sport-nimes-olympique-hyeres-fc-2026-10-03",
+      "type": "sport",
+      "title": "Nîmes Olympique – Hyères FC",
+      "start": "2026-10-03",
+      "venue": "Stade des Antonins",
+      "town": "Nîmes",
+      "lat": 43.8117,
+      "lon": 4.3561,
+      "note": "National 1, groupe C, 6e journée",
+      "url": "https://www.nimesolympique.com",
+      "source": "https://madeinfoot.ouest-france.fr/club/nimes-932/calendrier-resultats.html",
+      "result": {
+        "score": "1-1",
+        "summary": "Match nul",
+        "source": "https://madeinfoot.ouest-france.fr/club/nimes-932/calendrier-resultats.html"
+      }
+    },
+    {
+      "id": "sport-mhr-rc-toulon-2026-10-04",
+      "type": "sport",
+      "title": "MHR – RC Toulon",
+      "start": "2026-10-04",
+      "venue": "Septeo Stadium (ex-GGL Stadium)",
+      "town": "Montpellier",
+      "lat": 43.593,
+      "lon": 3.8497,
+      "note": "Top 14, 5e journée",
+      "url": "https://top14.lnr.fr/club/montpellier",
+      "source": "https://top14.lnr.fr/club/montpellier/calendrier-resultats",
+      "result": {
+        "score": "28-0",
+        "summary": "Victoire bonifiée du MHR, Toulon blanchi",
+        "source": "https://top14.lnr.fr/club/montpellier/calendrier-resultats"
+      }
+    },
+    {
+      "id": "sport-mhsc-grenoble-foot-38-2026-10-09",
+      "type": "sport",
+      "title": "MHSC – Grenoble Foot 38",
+      "start": "2026-10-09",
+      "venue": "Stade de la Mosson",
+      "town": "Montpellier",
+      "lat": 43.622,
+      "lon": 3.8121,
+      "note": "Ligue 2, 8e journée",
+      "url": "https://www.mhscfoot.com",
+      "source": "https://madeinfoot.ouest-france.fr/club/montpellier-906/calendrier-resultats.html",
+      "result": {
+        "score": "2-0",
+        "summary": "Victoire du MHSC",
+        "source": "https://madeinfoot.ouest-france.fr/club/montpellier-906/calendrier-resultats.html"
+      }
+    },
+    {
       "id": "exposition-maison-main-et-for-kheira-crac-sete-2026",
       "type": "exposition",
       "title": "Maison-Main et For Kheira",
@@ -161,6 +584,43 @@
       "note": "Deux expositions au centre régional d'art contemporain, quai Aspirant Herber. Entrée gratuite.",
       "url": "https://icisete.fr/evenement/maison-main-et-for-kheira-expositions-au-crac-occitanie-de-sete/",
       "source": "https://icisete.fr/evenement/maison-main-et-for-kheira-expositions-au-crac-occitanie-de-sete/"
+    },
+    {
+      "id": "sport-blma-villeneuve-d-ascq-2026-10-10",
+      "type": "sport",
+      "title": "BLMA – Villeneuve d'Ascq",
+      "start": "2026-10-10",
+      "at": "2026-10-10T20:00:00+02:00",
+      "venue": "Palais des sports de Lattes (Palais des Rencontres)",
+      "town": "Lattes",
+      "lat": 43.5689,
+      "lon": 3.9044,
+      "note": "La Boulangère Wonderligue, 4e journée",
+      "url": "https://www.blma.fr/",
+      "source": "https://basketlfb.com/laboulangerewonderligue/saison-reguliere/equipe/calendrier/2658-lattes-montpellier",
+      "result": {
+        "score": "62-61",
+        "summary": "Victoire d'un point du BLMA",
+        "source": "https://basketlfb.com/laboulangerewonderligue/saison-reguliere/equipe/calendrier/2658-lattes-montpellier"
+      }
+    },
+    {
+      "id": "sport-vipers-de-montpellier-toulouse-blagnac-2026-10-10",
+      "type": "sport",
+      "title": "Vipers de Montpellier – Toulouse-Blagnac",
+      "start": "2026-10-10",
+      "venue": "Patinoire Vegapolis",
+      "town": "Montpellier",
+      "lat": 43.6031,
+      "lon": 3.9152,
+      "note": "Hockey sur glace, Division 2 (poule B)",
+      "url": "https://www.montpellier-vipers.com/",
+      "source": "https://direct-score.ouest-france.fr/hockey-sur-glace/club/vipers-de-montpellier/equipe-1/",
+      "result": {
+        "score": "5-1",
+        "summary": "Victoire des Vipers",
+        "source": "https://direct-score.ouest-france.fr/hockey-sur-glace/club/vipers-de-montpellier/equipe-1/"
+      }
     },
     {
       "id": "exposition-dreamland-reno-lemaire-bagouet-2026",
@@ -178,6 +638,43 @@
       "source": "https://www.montpellier-tourisme.fr/agenda/tout-l-agenda/exposition-dreamland-reno-lemaire-montpellier-fr-6841771/"
     },
     {
+      "id": "sport-blma-ensino-lugo-2026-10-15",
+      "type": "sport",
+      "title": "BLMA – Ensino Lugo",
+      "start": "2026-10-15",
+      "venue": "Palais des sports de Lattes (Palais des Rencontres)",
+      "town": "Lattes",
+      "lat": 43.5689,
+      "lon": 3.9044,
+      "note": "EuroCup Women, saison régulière (groupe J)",
+      "url": "https://www.blma.fr/",
+      "source": "https://basketlfb.com/laboulangerewonderligue/saison-reguliere/equipe/calendrier/2658-lattes-montpellier",
+      "result": {
+        "score": "89-64",
+        "summary": "Large victoire du BLMA",
+        "source": "https://basketlfb.com/laboulangerewonderligue/saison-reguliere/equipe/calendrier/2658-lattes-montpellier"
+      }
+    },
+    {
+      "id": "sport-montpellier-handball-aarhus-2026-10-15",
+      "type": "sport",
+      "title": "Montpellier Handball – Skanderborg-Aarhus",
+      "start": "2026-10-15",
+      "at": "2026-10-15T20:45:00+02:00",
+      "venue": "FDI Stadium (Palais des sports René-Bougnol)",
+      "town": "Montpellier",
+      "lat": 43.6381,
+      "lon": 3.8747,
+      "note": "EHF Ligue des champions, phase de groupes, 4e journée",
+      "url": "https://www.montpellierhandball.com/equipe-pro-masculine/calendrier-resultats/",
+      "source": "https://www.lnh.fr/ligue-des-champions/calendriers/20262027/ehfcl/j04/montpellier/sah-aarhus",
+      "result": {
+        "score": "30-38",
+        "summary": "Lourde défaite du MHB face aux Danois",
+        "source": "https://www.montpellierhandball.com/ligue-des-champions-le-mhb-ne-prend-pas-sa-revanche/"
+      }
+    },
+    {
       "id": "exposition-installation-cinetique-muriel-petit-sete-2026",
       "type": "exposition",
       "title": "Une installation cinétique de Muriel Petit",
@@ -190,6 +687,25 @@
       "note": "Installation cinétique à mettre en mouvement, évocation poétique de l'œuvre de Brassens. Avec le billet du musée.",
       "url": "https://www.espace-brassens.fr/actu--une-installation-cinetique-de-muriel-petit-16-oct-2026-au-3-janv-2027--1-107.html",
       "source": "https://www.espace-brassens.fr/actu--une-installation-cinetique-de-muriel-petit-16-oct-2026-au-3-janv-2027--1-107.html"
+    },
+    {
+      "id": "sport-sc-sete-la-clermontaise-2026-10-16",
+      "type": "sport",
+      "title": "SC Sète – La Clermontaise",
+      "start": "2026-10-16",
+      "at": "2026-10-16T20:00:00+02:00",
+      "venue": "Stade Louis-Michel",
+      "town": "Sète",
+      "lat": 43.4122,
+      "lon": 3.6703,
+      "note": "Régional 1 Occitanie, poule A, 4e journée",
+      "url": "https://www.footballdatabase.eu/fr/club/equipe/745-sete/2026-2027",
+      "source": "https://www.leballonrond.fr/estadio.php?id=1650",
+      "result": {
+        "score": "2-4",
+        "summary": "Défaite de Sète",
+        "source": "https://www.footballdatabase.eu/fr/club/equipe/745-sete/2026-2027"
+      }
     },
     {
       "id": "exposition-sortileges-et-magiciens-de-circe-a-harry-potter-lunel-2026",
@@ -219,6 +735,61 @@
       "note": "Spectacle pour les 6 mois – 4 ans, séances régulières.",
       "url": "https://www.domainedo.fr/spectacles/tous-les-spectacles/flottante",
       "source": "https://www.domainedo.fr/spectacles/tous-les-spectacles/flottante"
+    },
+    {
+      "id": "sport-montpellier-fc-feminines-le-havre-ac-2026-10-17",
+      "type": "sport",
+      "title": "Montpellier FC (féminines) – Le Havre AC",
+      "start": "2026-10-17",
+      "venue": "Centre d'entraînement Bernard-Gasset (Grammont)",
+      "town": "Montpellier",
+      "lat": 43.6186,
+      "lon": 3.9325,
+      "note": "Arkema Première Ligue, 5e journée",
+      "url": "https://www.christophe-ringaud.com/calendrier-arkema-premiere-ligue-2026-27",
+      "source": "https://fr.besoccer.com/equipe/matchs/montpellier-hsc-femenino",
+      "result": {
+        "score": "1-1",
+        "summary": "Match nul",
+        "source": "https://www.christophe-ringaud.com/calendrier-arkema-premiere-ligue-2026-27"
+      }
+    },
+    {
+      "id": "sport-montpellier-water-polo-usb-bordeaux-2026-10-17",
+      "type": "sport",
+      "title": "Water-polo : Montpellier – USB Bordeaux",
+      "start": "2026-10-17",
+      "at": "2026-10-17T20:30:00+02:00",
+      "venue": "Piscine olympique Angelotti",
+      "town": "Montpellier",
+      "lat": 43.6074,
+      "lon": 3.8932,
+      "note": "Water-polo, Pro A (Élite masculine), 3e journée",
+      "url": "https://www.france-waterpolo.fr/club/montpellier-water-polo/",
+      "source": "https://www.extranat.fr/waterpolo/cgi-bin/wp_calendar.php?structure=1474&action=structure",
+      "result": {
+        "score": "17-12",
+        "summary": "Victoire de Montpellier",
+        "source": "https://www.les-sports.info/water-polo-montpellier-wp-resultats-identite-equ69479.html"
+      }
+    },
+    {
+      "id": "sport-montpellier-handball-limoges-2026-10-18",
+      "type": "sport",
+      "title": "Montpellier Handball – Limoges",
+      "start": "2026-10-18",
+      "venue": "FDI Stadium (Palais des sports René-Bougnol)",
+      "town": "Montpellier",
+      "lat": 43.6381,
+      "lon": 3.8747,
+      "note": "Daikin StarLigue, 7e journée",
+      "url": "https://www.montpellierhandball.com/equipe-pro-masculine/calendrier-resultats/",
+      "source": "https://www.montpellierhandball.com/daikin-starligue-montpellier-assure-face-a-limoges/",
+      "result": {
+        "score": "35-33",
+        "summary": "Victoire du MHB, Villeminot 9 buts sur 9 tirs",
+        "source": "https://www.montpellierhandball.com/daikin-starligue-montpellier-assure-face-a-limoges/"
+      }
     },
     {
       "id": "exposition-changeons-d-air-frontignan-2026",
@@ -251,6 +822,136 @@
       "source": "https://mediatheques.montpellier3m.fr/Default/doc/AGENDA/27531/mes-petits-bouts-du-monde-a-deux-pas-de-chez-moi"
     },
     {
+      "id": "sport-montpellier-volley-plessis-robinson-2026-10-20",
+      "type": "sport",
+      "title": "Montpellier Volley – Plessis-Robinson",
+      "start": "2026-10-20",
+      "at": "2026-10-20T20:00:00+02:00",
+      "venue": "Palais des sports Jacques Chaban-Delmas",
+      "town": "Castelnau-le-Lez",
+      "lat": 43.6337,
+      "lon": 3.9006,
+      "note": "Ligue A masculine (Alterna VOLSTAR), 2e journée",
+      "url": "https://www.montpellier-volley.com/",
+      "source": "https://spikelive.fr/rencontre/2026-27/D1M010",
+      "result": {
+        "score": "3-2",
+        "summary": "Victoire de Montpellier au tie-break (15-12)",
+        "source": "https://spikelive.fr/rencontre/2026-27/D1M010"
+      }
+    },
+    {
+      "id": "sport-arago-de-sete-chaumont-2026-10-22",
+      "type": "sport",
+      "title": "Arago de Sète – Chaumont",
+      "start": "2026-10-22",
+      "at": "2026-10-22T20:00:00+02:00",
+      "venue": "Halle des Sports Louis Marty",
+      "town": "Sète",
+      "lat": 43.4156,
+      "lon": 3.6705,
+      "note": "Ligue A masculine (Alterna VOLSTAR), 3e journée",
+      "url": "https://aragodesete.fr/",
+      "source": "https://spikelive.fr/rencontre/2026-27/D1M015",
+      "result": {
+        "score": "0-3",
+        "summary": "Défaite de Sète en trois sets",
+        "source": "https://spikelive.fr/rencontre/2026-27/D1M015"
+      }
+    },
+    {
+      "id": "sport-montpellier-mediterranee-futsal-goal-futsal-club-2026-10-24",
+      "type": "sport",
+      "title": "Futsal : Montpellier Méditerranée – Goal Futsal Club",
+      "start": "2026-10-24",
+      "venue": "Palais des sports Pierre-de-Coubertin",
+      "town": "Montpellier",
+      "lat": 43.627,
+      "lon": 3.87,
+      "note": "Futsal, D1, 6e journée",
+      "url": "https://epreuves.fff.fr/competition/club/853396-montpellier-mediterranee-futsal",
+      "source": "https://www.sportcorico.com/clubs/montpellier-mediterranee-futsal/montpellier-medit",
+      "result": {
+        "score": "4-4",
+        "summary": "Match nul",
+        "source": "https://www.sportcorico.com/clubs/montpellier-mediterranee-futsal/montpellier-medit"
+      }
+    },
+    {
+      "id": "sport-vipers-de-montpellier-vaujany-grenoble-2026-10-24",
+      "type": "sport",
+      "title": "Vipers de Montpellier – Vaujany-Grenoble",
+      "start": "2026-10-24",
+      "venue": "Patinoire Vegapolis",
+      "town": "Montpellier",
+      "lat": 43.6031,
+      "lon": 3.9152,
+      "note": "Hockey sur glace, Division 2 (poule B)",
+      "url": "https://www.montpellier-vipers.com/",
+      "source": "https://direct-score.ouest-france.fr/hockey-sur-glace/club/vipers-de-montpellier/equipe-1/",
+      "result": {
+        "score": "2-1",
+        "summary": "Victoire des Vipers",
+        "source": "https://direct-score.ouest-france.fr/hockey-sur-glace/club/vipers-de-montpellier/equipe-1/"
+      }
+    },
+    {
+      "id": "sport-blma-la-tronche-meylan-2026-10-25",
+      "type": "sport",
+      "title": "BLMA – La Tronche-Meylan",
+      "start": "2026-10-25",
+      "at": "2026-10-25T15:30:00+01:00",
+      "venue": "Palais des sports de Lattes (Palais des Rencontres)",
+      "town": "Lattes",
+      "lat": 43.5689,
+      "lon": 3.9044,
+      "note": "La Boulangère Wonderligue, 6e journée",
+      "url": "https://www.blma.fr/",
+      "source": "https://basketlfb.com/laboulangerewonderligue/saison-reguliere/equipe/calendrier/2658-lattes-montpellier",
+      "result": {
+        "score": "80-74",
+        "summary": "Victoire du BLMA",
+        "source": "https://basketlfb.com/laboulangerewonderligue/saison-reguliere/equipe/calendrier/2658-lattes-montpellier"
+      }
+    },
+    {
+      "id": "sport-montpellier-handball-saran-2026-10-25",
+      "type": "sport",
+      "title": "Montpellier Handball – Saran",
+      "start": "2026-10-25",
+      "at": "2026-10-25T17:00:00+01:00",
+      "venue": "FDI Stadium (Palais des sports René-Bougnol)",
+      "town": "Montpellier",
+      "lat": 43.6381,
+      "lon": 3.8747,
+      "note": "Daikin StarLigue, 8e journée",
+      "url": "https://www.montpellierhandball.com/equipe-pro-masculine/calendrier-resultats/",
+      "source": "https://www.montpellierhandball.com/daikin-starligue-le-mhb-maitrise-son-sujet-face-a-saran/",
+      "result": {
+        "score": "31-25",
+        "summary": "Victoire du MHB, Villeminot meilleur buteur (9 buts)",
+        "source": "https://handnews.fr/2026/stl-j8-paris-ecrase-saint-raphael-saran-trop-irregulier-pour-inquieter-montpellier/"
+      }
+    },
+    {
+      "id": "sport-mhsc-red-star-2026-10-26",
+      "type": "sport",
+      "title": "MHSC – Red Star",
+      "start": "2026-10-26",
+      "venue": "Stade de la Mosson",
+      "town": "Montpellier",
+      "lat": 43.622,
+      "lon": 3.8121,
+      "note": "Ligue 2, 10e journée",
+      "url": "https://www.mhscfoot.com",
+      "source": "https://madeinfoot.ouest-france.fr/club/montpellier-906/calendrier-resultats.html",
+      "result": {
+        "score": "2-1",
+        "summary": "Victoire du MHSC",
+        "source": "https://madeinfoot.ouest-france.fr/club/montpellier-906/calendrier-resultats.html"
+      }
+    },
+    {
       "id": "exposition-nicolas-martin-saint-ravy-2026",
       "type": "exposition",
       "title": "Nicolas Martin – exposition",
@@ -264,6 +965,136 @@
       "note": "Artiste lauréat de la saison 2026-2027. Mar-dim. Gratuit",
       "url": "https://encommun.montpellier.fr/articles/2026-07-14-espace-saint-ravy-decouvrez-les-artistes-laureats-de-la-saison-2026-2027",
       "source": "https://encommun.montpellier.fr/articles/2026-07-14-espace-saint-ravy-decouvrez-les-artistes-laureats-de-la-saison-2026-2027"
+    },
+    {
+      "id": "sport-montpellier-handball-dinamo-bucarest-2026-10-29",
+      "type": "sport",
+      "title": "Montpellier Handball – Dinamo Bucarest",
+      "start": "2026-10-29",
+      "at": "2026-10-29T20:45:00+01:00",
+      "venue": "FDI Stadium (Palais des sports René-Bougnol)",
+      "town": "Montpellier",
+      "lat": 43.6381,
+      "lon": 3.8747,
+      "note": "EHF Ligue des champions, phase de groupes, 6e journée",
+      "url": "https://www.montpellierhandball.com/equipe-pro-masculine/calendrier-resultats/",
+      "source": "https://www.lnh.fr/ligue-des-champions/equipes/montpellier-handball",
+      "result": {
+        "score": "26-36",
+        "summary": "Défaite du MHB pour son dernier match européen",
+        "source": "https://www.lnh.fr/ligue-des-champions/equipes/montpellier-handball"
+      }
+    },
+    {
+      "id": "sport-montpellier-volley-toulouse-2026-10-30",
+      "type": "sport",
+      "title": "Montpellier Volley – Toulouse",
+      "start": "2026-10-30",
+      "at": "2026-10-30T20:00:00+01:00",
+      "venue": "Palais des sports Jacques Chaban-Delmas",
+      "town": "Castelnau-le-Lez",
+      "lat": 43.6337,
+      "lon": 3.9006,
+      "note": "Ligue A masculine (Alterna VOLSTAR), 4e journée",
+      "url": "https://www.montpellier-volley.com/",
+      "source": "https://spikelive.fr/rencontre/2026-27/D1M023",
+      "result": {
+        "score": "1-3",
+        "summary": "Défaite de Montpellier, premier set perdu 32-34",
+        "source": "https://spikelive.fr/rencontre/2026-27/D1M023"
+      }
+    },
+    {
+      "id": "sport-montpellier-fc-feminines-ol-lyonnes-2026-10-31",
+      "type": "sport",
+      "title": "Montpellier FC (féminines) – OL Lyonnes",
+      "start": "2026-10-31",
+      "at": "2026-10-31T18:00:00+01:00",
+      "venue": "Centre d'entraînement Bernard-Gasset (Grammont)",
+      "town": "Montpellier",
+      "lat": 43.6186,
+      "lon": 3.9325,
+      "note": "Arkema Première Ligue, 7e journée",
+      "url": "https://www.christophe-ringaud.com/calendrier-arkema-premiere-ligue-2026-27",
+      "source": "https://www.ol-lyonnes.com/actualites/montpellier-fc-ol-lyonnes-la-serie-continue-2-5/",
+      "result": {
+        "score": "2-5",
+        "summary": "Défaite après avoir mené à la pause (but de Palis)",
+        "source": "https://www.ol-lyonnes.com/actualites/montpellier-fc-ol-lyonnes-la-serie-continue-2-5/"
+      }
+    },
+    {
+      "id": "sport-montpellier-water-polo-douai-2026-10-31",
+      "type": "sport",
+      "title": "Water-polo : Montpellier – Douai",
+      "start": "2026-10-31",
+      "at": "2026-10-31T20:30:00+01:00",
+      "venue": "Piscine olympique Angelotti",
+      "town": "Montpellier",
+      "lat": 43.6074,
+      "lon": 3.8932,
+      "note": "Water-polo, Pro A (Élite masculine), 4e journée",
+      "url": "https://www.france-waterpolo.fr/club/montpellier-water-polo/",
+      "source": "https://www.extranat.fr/waterpolo/cgi-bin/wp_calendar.php?structure=1474&action=structure",
+      "result": {
+        "score": "15-16",
+        "summary": "Défaite d'un but de Montpellier",
+        "source": "https://www.les-sports.info/water-polo-montpellier-wp-resultats-identite-equ69479.html"
+      }
+    },
+    {
+      "id": "sport-nimes-olympique-limonest-2026-10-31",
+      "type": "sport",
+      "title": "Nîmes Olympique – Limonest",
+      "start": "2026-10-31",
+      "venue": "Stade des Antonins",
+      "town": "Nîmes",
+      "lat": 43.8117,
+      "lon": 4.3561,
+      "note": "National 1, groupe C, 8e journée",
+      "url": "https://www.nimesolympique.com",
+      "source": "https://madeinfoot.ouest-france.fr/club/nimes-932/calendrier-resultats.html",
+      "result": {
+        "score": "2-2",
+        "summary": "Match nul",
+        "source": "https://madeinfoot.ouest-france.fr/club/nimes-932/calendrier-resultats.html"
+      }
+    },
+    {
+      "id": "sport-vipers-de-montpellier-toulon-2026-10-31",
+      "type": "sport",
+      "title": "Vipers de Montpellier – Toulon",
+      "start": "2026-10-31",
+      "venue": "Patinoire Vegapolis",
+      "town": "Montpellier",
+      "lat": 43.6031,
+      "lon": 3.9152,
+      "note": "Hockey sur glace, Division 2 (poule B)",
+      "url": "https://www.montpellier-vipers.com/",
+      "source": "https://direct-score.ouest-france.fr/hockey-sur-glace/club/vipers-de-montpellier/equipe-1/",
+      "result": {
+        "score": "9-4",
+        "summary": "Large victoire des Vipers",
+        "source": "https://direct-score.ouest-france.fr/hockey-sur-glace/club/vipers-de-montpellier/equipe-1/"
+      }
+    },
+    {
+      "id": "sport-mhr-castres-olympique-2026-11-01",
+      "type": "sport",
+      "title": "MHR – Castres Olympique",
+      "start": "2026-11-01",
+      "venue": "Septeo Stadium (ex-GGL Stadium)",
+      "town": "Montpellier",
+      "lat": 43.593,
+      "lon": 3.8497,
+      "note": "Top 14, 8e journée",
+      "url": "https://top14.lnr.fr/club/montpellier",
+      "source": "https://top14.lnr.fr/club/montpellier/calendrier-resultats",
+      "result": {
+        "score": "69-10",
+        "summary": "Victoire fleuve bonifiée du MHR",
+        "source": "https://top14.lnr.fr/club/montpellier/calendrier-resultats"
+      }
     },
     {
       "id": "exposition-autour-de-l-inde-exposition-de-flora-devi-mpt-paul-emile-victor-2026-11-02",
@@ -398,6 +1229,24 @@
       "source": "https://www.juvignac.fr/du-6-novembre-au-2-janvier-exposition-nathalie-palacin/"
     },
     {
+      "id": "sport-mhsc-fc-metz-2026-11-06",
+      "type": "sport",
+      "title": "MHSC – FC Metz",
+      "start": "2026-11-06",
+      "venue": "Stade de la Mosson",
+      "town": "Montpellier",
+      "lat": 43.622,
+      "lon": 3.8121,
+      "note": "Ligue 2, 12e journée",
+      "url": "https://www.mhscfoot.com",
+      "source": "https://www.allezpaillade.com/actualites/apres-matchs/mhsc-2-3-fc-metz-teji-savanier-et-les-siens-infligent-aux-pailladins-leur-premiere-defaite-a-domicile/",
+      "result": {
+        "score": "2-3",
+        "summary": "Défaite du MHSC, première à domicile de la saison",
+        "source": "https://madeinfoot.ouest-france.fr/club/montpellier-906/calendrier-resultats.html"
+      }
+    },
+    {
       "id": "exposition-marie-ange-guilleminot-nimes-2026",
       "type": "exposition",
       "title": "Marie-Ange Guilleminot, « MA, l'espace qui relie »",
@@ -410,6 +1259,43 @@
       "note": "Rétrospective entre sculpture, performance, design et architecture.",
       "url": "https://carreartmusee.com/fr/expositions/marie-ange-guilleminot-238",
       "source": "https://www.carreartmusee.com/"
+    },
+    {
+      "id": "sport-blma-toulouse-2026-11-07",
+      "type": "sport",
+      "title": "BLMA – Toulouse",
+      "start": "2026-11-07",
+      "at": "2026-11-07T20:30:00+01:00",
+      "venue": "Palais des sports de Lattes (Palais des Rencontres)",
+      "town": "Lattes",
+      "lat": 43.5689,
+      "lon": 3.9044,
+      "note": "La Boulangère Wonderligue, 8e journée",
+      "url": "https://www.blma.fr/",
+      "source": "https://basketlfb.com/laboulangerewonderligue/saison-reguliere/equipe/calendrier/2658-lattes-montpellier",
+      "result": {
+        "score": "79-69",
+        "summary": "Victoire du BLMA",
+        "source": "https://basketlfb.com/laboulangerewonderligue/saison-reguliere/equipe/calendrier/2658-lattes-montpellier"
+      }
+    },
+    {
+      "id": "sport-mhr-lou-rugby-2026-11-07",
+      "type": "sport",
+      "title": "MHR – LOU Rugby",
+      "start": "2026-11-07",
+      "venue": "Septeo Stadium (ex-GGL Stadium)",
+      "town": "Montpellier",
+      "lat": 43.593,
+      "lon": 3.8497,
+      "note": "Top 14, 9e journée",
+      "url": "https://top14.lnr.fr/club/montpellier",
+      "source": "https://top14.lnr.fr/club/montpellier/calendrier-resultats",
+      "result": {
+        "score": "21-19",
+        "summary": "Courte victoire du MHR, bonus défensif pour Lyon",
+        "source": "https://top14.lnr.fr/club/montpellier/calendrier-resultats"
+      }
     },
     {
       "id": "exposition-le-club-de-l-age-d-or-paul-boulet-expose-mpt-francois-villon-2026-11-09",
@@ -442,6 +1328,62 @@
       "source": "https://mpt.montpellier.fr/index.php/evenement/natures-libres-exposition-de-krystof"
     },
     {
+      "id": "sport-nimes-olympique-fc-istres-2026-11-10",
+      "type": "sport",
+      "title": "Nîmes Olympique – FC Istres",
+      "start": "2026-11-10",
+      "venue": "Stade des Antonins",
+      "town": "Nîmes",
+      "lat": 43.8117,
+      "lon": 4.3561,
+      "note": "National 1, groupe C, 10e journée",
+      "url": "https://www.nimesolympique.com",
+      "source": "https://tvsudmagazine.fr/2026/11/nimes-olympique-retrouve-le-sourire-et-simpose-largement-face-a-istres-3-0/",
+      "result": {
+        "score": "3-0",
+        "summary": "Victoire de Nîmes (Touré, Tlili, Doumbouya), fin d'une série de 4 matchs sans succès",
+        "source": "https://tvsudmagazine.fr/2026/11/nimes-olympique-retrouve-le-sourire-et-simpose-largement-face-a-istres-3-0/"
+      }
+    },
+    {
+      "id": "sport-arago-de-sete-royan-2026-11-13",
+      "type": "sport",
+      "title": "Arago de Sète – Royan",
+      "start": "2026-11-13",
+      "at": "2026-11-13T19:30:00+01:00",
+      "venue": "Halle des Sports Louis Marty",
+      "town": "Sète",
+      "lat": 43.4156,
+      "lon": 3.6705,
+      "note": "Ligue A masculine (Alterna VOLSTAR), 6e journée",
+      "url": "https://aragodesete.fr/",
+      "source": "https://spikelive.fr/rencontre/2026-27/D1M036",
+      "result": {
+        "score": "3-0",
+        "summary": "Victoire de Sète en trois sets",
+        "source": "https://spikelive.fr/rencontre/2026-27/D1M036"
+      }
+    },
+    {
+      "id": "sport-montpellier-handball-dunkerque-2026-11-13",
+      "type": "sport",
+      "title": "Montpellier Handball – Dunkerque",
+      "start": "2026-11-13",
+      "at": "2026-11-13T20:00:00+01:00",
+      "venue": "FDI Stadium (Palais des sports René-Bougnol)",
+      "town": "Montpellier",
+      "lat": 43.6381,
+      "lon": 3.8747,
+      "note": "Daikin StarLigue, 10e journée",
+      "url": "https://www.montpellierhandball.com/equipe-pro-masculine/calendrier-resultats/",
+      "source": "https://www.lnh.fr/daikin-starligue/equipes/montpellier-handball",
+      "result": {
+        "score": "34-28",
+        "summary": "Victoire du MHB au retour de la trêve internationale",
+        "source": "https://www.lnh.fr/daikin-starligue/equipes/montpellier-handball"
+      }
+    },
+    {
       "id": "exposition-rafighi-antigone-en-lumiere-olesya-lisa-2026",
       "type": "exposition",
       "title": "Rafighi, quarante ans de lumière sur Antigone",
@@ -457,6 +1399,43 @@
       "source": "https://agenda.montpellier.fr/en/event/131157/exposicin"
     },
     {
+      "id": "sport-montpellier-fc-feminines-fc-fleury-91-2026-11-14",
+      "type": "sport",
+      "title": "Montpellier FC (féminines) – FC Fleury 91",
+      "start": "2026-11-14",
+      "venue": "Centre d'entraînement Bernard-Gasset (Grammont)",
+      "town": "Montpellier",
+      "lat": 43.6186,
+      "lon": 3.9325,
+      "note": "Arkema Première Ligue, 9e journée",
+      "url": "https://www.christophe-ringaud.com/calendrier-arkema-premiere-ligue-2026-27",
+      "source": "https://fr.besoccer.com/equipe/matchs/montpellier-hsc-femenino",
+      "result": {
+        "score": "0-1",
+        "summary": "Défaite de Montpellier",
+        "source": "https://www.christophe-ringaud.com/calendrier-arkema-premiere-ligue-2026-27"
+      }
+    },
+    {
+      "id": "sport-vipers-de-montpellier-courchevel-meribel-pralognan-2026-11-14",
+      "type": "sport",
+      "title": "Vipers de Montpellier – Courchevel-Méribel-Pralognan",
+      "start": "2026-11-14",
+      "at": "2026-11-14T19:00:00+01:00",
+      "venue": "Patinoire Vegapolis",
+      "town": "Montpellier",
+      "lat": 43.6031,
+      "lon": 3.9152,
+      "note": "Hockey sur glace, Division 2 (poule B)",
+      "url": "https://www.montpellier-vipers.com/",
+      "source": "https://www.lessentiel.fr/montpellier/idees-sorties/2026-11-13/lagenda-sportif-en-metropole-de-ces-samedi-14-et-dimanche-15",
+      "result": {
+        "score": "4-1",
+        "summary": "Victoire des Vipers, 7e journée",
+        "source": "https://direct-score.ouest-france.fr/hockey-sur-glace/club/vipers-de-montpellier/equipe-1/"
+      }
+    },
+    {
       "id": "famille-co-co-libri-tabard-2026",
       "type": "famille",
       "title": "Co-Co Librï",
@@ -469,6 +1448,25 @@
       "note": "Spectacle musical dès 6 mois.",
       "url": "https://www.jds.fr/montpellier/spectacles/spectacle-musical/co-co-libri-1835436_A",
       "source": "https://www.jds.fr/montpellier/theatres-programmes/theatre-beaux-arts-tabard-19988_L"
+    },
+    {
+      "id": "sport-montpellier-volley-cannes-2026-11-15",
+      "type": "sport",
+      "title": "Montpellier Volley – Cannes",
+      "start": "2026-11-15",
+      "at": "2026-11-15T17:00:00+01:00",
+      "venue": "Palais des sports Jacques Chaban-Delmas",
+      "town": "Castelnau-le-Lez",
+      "lat": 43.6337,
+      "lon": 3.9006,
+      "note": "Ligue A masculine (Alterna VOLSTAR), 6e journée",
+      "url": "https://www.montpellier-volley.com/",
+      "source": "https://spikelive.fr/rencontre/2026-27/D1M037",
+      "result": {
+        "score": "0-3",
+        "summary": "Défaite de Montpellier en trois sets",
+        "source": "https://spikelive.fr/rencontre/2026-27/D1M037"
+      }
     },
     {
       "id": "atelier-cine-rencontre-persepolis-utopia-2026",

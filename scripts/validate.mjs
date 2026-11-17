@@ -84,6 +84,8 @@ const activities = check("activities.json", "items", "items", (it, fail) => {
     if (!isRealDateTime(it.at)) fail(`horaire invalide (${it.at})`);
     else if (!it.start || it.at.slice(0, 10) < it.start || it.at.slice(0, 10) > (it.end || it.start)) fail(`horaire hors des dates (${it.at})`);
   }
+  if (it.result && (!it.start || (it.end || it.start) >= new Date().toISOString().slice(0, 10))) fail("résultat sur un événement non terminé");
+  if (it.result && it.type !== "sport") fail("result réservé au sport");
   if (typeof it.lat === "number" && typeof it.lon === "number") {
     const km = distanceKm(it.lat, it.lon);
     if (km > MAX_KM) fail(`à ${km.toFixed(1)} km de Montpellier (${MAX_KM} km au plus)`);

@@ -109,6 +109,42 @@
           "tentative": {
             "type": "boolean",
             "description": "Annoncé mais date ou programme non définitif"
+          },
+          "result": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": [
+              "source"
+            ],
+            "anyOf": [
+              {
+                "required": [
+                  "score"
+                ]
+              },
+              {
+                "required": [
+                  "summary"
+                ]
+              }
+            ],
+            "description": "Résultat d'un événement sportif passé",
+            "properties": {
+              "score": {
+                "type": "string",
+                "pattern": "^\\d+-\\d+$",
+                "description": "Score domicile-extérieur"
+              },
+              "summary": {
+                "type": "string",
+                "minLength": 1,
+                "maxLength": 120
+              },
+              "source": {
+                "type": "string",
+                "pattern": "^https?://"
+              }
+            }
           }
         }
       }

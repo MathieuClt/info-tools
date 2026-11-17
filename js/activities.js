@@ -91,6 +91,7 @@ function card(it, status, opts) {
   title.appendChild(link(it.url, it.title));
   body.appendChild(title);
   body.appendChild(el("p", "place", placeLine(it)));
+  if (it.result) body.appendChild(resultLine(it.result));
   if (it.at && !isPast(it.at)) body.appendChild(el("p", "when", timeLabel(it.at)));
   if (it.note) body.appendChild(el("p", "note", it.note));
 
@@ -106,6 +107,17 @@ function card(it, status, opts) {
 
   li.appendChild(body);
   return li;
+}
+
+// Résultat d'un match passé : score mis en avant, résumé et source.
+function resultLine(r) {
+  const box = el("div", "result");
+  if (r.score) box.appendChild(el("span", "result-score", r.score.replace("-", " – ")));
+  const text = el("span", "result-text");
+  if (r.summary) text.append(r.summary, " · ");
+  text.appendChild(link(r.source, "résultat"));
+  box.appendChild(text);
+  return box;
 }
 
 function section(root, title, rows, opts) {
@@ -149,6 +161,7 @@ function filteredRows() {
       if (period === "places") return status === "place";
       if (period === "events") return status === "upcoming" || status === "ongoing";
       if (period === "active") return status !== "past";
+      if (period === "results") return status === "past" && Boolean(it.result);
       return true;
     });
 }
@@ -161,8 +174,10 @@ function render() {
   updateMap(rows, km);
 
   const places = rows.filter((r) => r.status === "place").sort((a, b) => a.it.km - b.it.km);
+  // Les résultats se lisent du plus récent au plus ancien.
+  const desc = $("f-period").value === "results" && !state.cal.from;
   const events = rows.filter((r) => r.status !== "place")
-    .sort((a, b) => a.it.start.localeCompare(b.it.start) || a.it.km - b.it.km);
+    .sort((a, b) => (desc ? b.it.start.localeCompare(a.it.start) : a.it.start.localeCompare(b.it.start)) || a.it.km - b.it.km);
   $("count").textContent = `${events.length} événement${events.length > 1 ? "s" : ""} · ${places.length} lieu${places.length > 1 ? "x" : ""} dans un rayon de ${km} km`;
 
   const root = $("list");
@@ -210,7 +225,7 @@ function renderCalendar() {
 
   const first = new Date(c.month + "-01T12:00:00");
   $("cal-title").textContent = capitalize(monthTitle.format(first));
-  $("cal-prev").disabled = c.month <= now.slice(0, 7);
+  $("cal-prev").disabled = c.month <= (state.firstMonth || now.slice(0, 7));
   const grid = $("cal-grid");
   grid.replaceChildren();
   WEEKDAYS.forEach((w) => grid.appendChild(el("span", "cal-wd", w.charAt(0).toUpperCase())));
@@ -226,7 +241,7 @@ function renderCalendar() {
     const n = events.filter((it) => it.start <= iso && it.end >= iso).length;
     const btn = el("button", "cal-day");
     btn.type = "button";
-    btn.disabled = iso < now;
+    btn.disabled = iso < now && !n;
     if (iso.slice(0, 7) !== c.month) btn.classList.add("is-out");
     if (iso === now) btn.classList.add("is-today");
     if (c.from && iso >= c.from && iso <= c.to) btn.classList.add(iso === c.from || iso === c.to ? "is-edge" : "is-in");
@@ -385,6 +400,7 @@ async function init() {
     $("meta").textContent = "Impossible de charger activities.json.";
     return;
   }
+  state.firstMonth = state.items.filter((it) => it.start).reduce((m, it) => (it.start < m ? it.start : m), today()).slice(0, 7);
   state.types = Object.keys(TYPES).filter((t) => state.items.some((it) => it.type === t));
   state.selected = loadSet(STORAGE_KEY, state.types);
   buildTypeChips();
